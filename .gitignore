@@ -1,0 +1,5 @@
+__pycache__
+
+serviceAccount.json
+token.json
+.env

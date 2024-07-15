@@ -1,4 +1,3 @@
-from fastapi import FastAPI
 from pydantic import ValidationError
 
 from api.data_fetchers.sheets_data_fetcher import SheetsDataFetcher
@@ -6,11 +5,8 @@ from config_builders import ConfigBuilderFactory
 from model import ExerciseBuilderConfig
 from utils.files import read_json_files, write_file
 
-app = FastAPI()
 
-
-@app.get("/")
-async def build_exercises():
+def main():
     sheets_fetcher = SheetsDataFetcher()
     phonemes = sheets_fetcher.fetchPhonemes()
     categories = sheets_fetcher.fetchCategories()
@@ -20,8 +16,6 @@ async def build_exercises():
     output_directory = "data/out/exercise_configs"
     config_directory = "data/in/exercise_builder_configs"
     json_configs = read_json_files(config_directory)
-
-    successful_codes = []
 
     for json_config in json_configs:
         try:
@@ -33,10 +27,12 @@ async def build_exercises():
                 write_file(
                     result.model_dump_json(), f"{output_directory}/{config.code}.json"
                 )
-                print(f"Config for code {config.code} written")
-                successful_codes.append(config.code)
+                print(f"Config for code {config.code} writte")
             except ValueError as e:
-                return f"Value error: {e}"
+                print(e)
         except ValidationError as e:
-            return f"Validation error: {e}"
-    return f"Successfully written configs for {"".join(successful_codes)}"
+            print(f"Validation error: {e}")
+
+
+if __name__ == "__main__":
+    main()
