@@ -1,5 +1,6 @@
 __pycache__
 
 serviceAccount.json
+serviceAccount2.json
 token.json
 .env

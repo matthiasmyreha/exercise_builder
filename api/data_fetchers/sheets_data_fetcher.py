@@ -1,8 +1,11 @@
 import json
+import os
 import os.path
 from typing import Dict, List
 
+from dotenv import load_dotenv
 from google.auth.transport.requests import Request
+from google.oauth2 import service_account
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
@@ -10,6 +13,8 @@ from googleapiclient.errors import HttpError
 
 from model import Category, DataFetcher, Item, Phoneme
 from utils.security import generate_random
+
+load_dotenv()
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
@@ -139,6 +144,20 @@ def nest_dict(flat_dict):
 
 
 def get_sheets_service():
+    try:
+        service_account_info = json.loads(os.getenv("GOOGLE_SERVICE_ACCOUNT"))
+        creds = service_account.Credentials.from_service_account_info(
+            service_account_info, scopes=SCOPES
+        )
+
+        service = build("sheets", "v4", credentials=creds)
+        return service
+    except HttpError as err:
+        print(err)
+        return None
+
+
+""" def get_sheets_service():
     creds = None
     if os.path.exists("token.json"):
         creds = Credentials.from_authorized_user_file("token.json", SCOPES)
@@ -146,8 +165,8 @@ def get_sheets_service():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            config = json.loads(os.environ["GOOGLE_SHEETS_CREDENTIALS"])
-            flow = InstalledAppFlow.from_client_secrets_file(config, SCOPES)
+            config = json.loads(os.getenv("GOOGLE_SHEETS_CREDENTIALS"))
+            flow = InstalledAppFlow.from_client_config(config, SCOPES)
             creds = flow.run_local_server(port=0)
         with open("token.json", "w") as token:
             token.write(creds.to_json())
@@ -157,7 +176,7 @@ def get_sheets_service():
         return service
     except HttpError as err:
         print(err)
-        return None
+        return None """
 
 
 def sheets_to_dict(values: List[List[str]]) -> List[Dict[str, str]]:
