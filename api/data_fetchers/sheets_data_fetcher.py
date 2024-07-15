@@ -1,3 +1,4 @@
+import json
 import os.path
 from typing import Dict, List
 
@@ -7,7 +8,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-from model import Category, DataFetcher, ExerciseLevelConfig, Item, Phoneme
+from model import Category, DataFetcher, Item, Phoneme
 from utils.security import generate_random
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
@@ -145,9 +146,8 @@ def get_sheets_service():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                "serviceAccount.json", SCOPES
-            )
+            config = json.loads(os.environ["GOOGLE_SHEETS_CREDENTIALS"])
+            flow = InstalledAppFlow.from_client_secrets_file(config, SCOPES)
             creds = flow.run_local_server(port=0)
         with open("token.json", "w") as token:
             token.write(creds.to_json())
