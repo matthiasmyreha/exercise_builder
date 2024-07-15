@@ -1,0 +1,1053 @@
+{
+    "code": "z6",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "draw",
+        "exercise_type": "predefined",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "if_correct"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_01",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_1_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_02",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_1_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_03",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_1_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_04",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_1_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_05",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_1_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_06",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_1_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_07",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_16",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_17",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_18",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_19",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_20",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_21",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_22",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_23",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_24",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_25",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_08",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_26",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_09",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_10",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_11",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_13",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_15",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_2_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_27",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_36",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_37",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_38",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_39",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_40",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_41",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_42",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_43",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_44",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_45",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_28",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_46",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_14",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex21",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_29",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_30",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_31",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_32",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_33",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_34",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex8",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_35",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_3_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_47",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_56",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_57",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_58",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_59",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_60",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_61",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_62",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_63",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_64",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_65",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_48",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_66",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_49",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_50",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_51",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_52",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_53",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_54",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex8",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_55",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_4_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_67",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_76",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_77",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_78",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_79",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_80",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_81",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_82",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_83",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_84",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_85",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_68",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_86",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_87",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex21",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_69",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_70",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_71",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_72",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_73",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_74",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex8",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "z6_shape_75",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z6_blaupause_lvl_5_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger nach.",
+                    "tasks": []
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_z6_blaupause",
+    "instructions": {
+        "content": [],
+        "type": "interactive"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 9999,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 3,
+                "rounds": 3
+            },
+            "tasks": 5
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 3,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 5,
+                "rounds": 3
+            },
+            "tasks": 7
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 4,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 6,
+                "rounds": 3
+            },
+            "tasks": 7
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 4,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 6,
+                "rounds": 3
+            },
+            "tasks": 7
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 3,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 4,
+                "rounds": 3
+            },
+            "tasks": 5
+        }
+    ],
+    "checksum": "a0f9254301614e0d36cda7ffa5354131"
+}

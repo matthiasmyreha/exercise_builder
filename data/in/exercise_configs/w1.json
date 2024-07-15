@@ -1,0 +1,395 @@
+{
+    "code": "w1",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "always",
+        "time": 60,
+        "lives": 3
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 12,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 17,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 20,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 22,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -3,
+                "level": 2,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": -3,
+                "level": 4,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 5,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            }
+        ]
+    },
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung müssen Sie auf die Bedeutung und Schriftfarbe eines Wortes achten und konzentriert bleiben!"
+            },
+            {
+                "text": "Sie sehen den Namen einer Farbe. Entscheiden Sie, ob die Schriftfarbe mit der Bedeutung des Wortes übereinstimmt. Ist zB das Wort \"Rot\" auch in roter Schriftfarbe geschrieben, klicken Sie auf \"JA\"."
+            },
+            {
+                "text": "Ist zB das Wort \"Grün\" in einer anderen Schriftfarbe - wie hier in Gelb - geschrieben, klicken Sie auf Nein."
+            },
+            {
+                "text": "Später wird es sogar kniffliger: Dann sehen Sie zwei Worte. Vergleichen Sie die Bedeutung des oberen Wortes mit der Schriftfarbe des unteren Wortes."
+            },
+            {
+                "text": "Ist die Bedeutung des oberen Wortes - so wie hier - gleich wie die Schriftfarbe des unteren Wortes, klicken Sie Ja. Ist Sie anders, klicken Sie Nein."
+            }
+        ],
+        "type": "interactive"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w1_text_farb_bedeutung_lvl_1_ex1",
+                    "question": "Stimmt der Name der Farbe mit der Schriftfarbe überein?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            {
+                                "hex_code": "#ff0000",
+                                "name": "rot"
+                            },
+                            {
+                                "hex_code": "#FAC551",
+                                "name": "gelb"
+                            },
+                            {
+                                "hex_code": "#008000",
+                                "name": "grün"
+                            }
+                        ],
+                        "difficulty": "simple",
+                        "type": "w1"
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w1_text_farb_bedeutung_lvl_2_ex2",
+                    "question": "Stimmt der Name der Farbe mit der Schriftfarbe überein?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            {
+                                "hex_code": "#ff0000",
+                                "name": "rot"
+                            },
+                            {
+                                "hex_code": "#FAC551",
+                                "name": "gelb"
+                            },
+                            {
+                                "hex_code": "#008000",
+                                "name": "grün"
+                            },
+                            {
+                                "hex_code": "#557AFF",
+                                "name": "blau"
+                            },
+                            {
+                                "hex_code": "#000000",
+                                "name": "schwarz"
+                            }
+                        ],
+                        "difficulty": "simple",
+                        "type": "w1"
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w1_text_farb_bedeutung_lvl_3_ex3",
+                    "question": "Stimmt der Name der Farbe mit der Schriftfarbe überein?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            {
+                                "hex_code": "#ff0000",
+                                "name": "rot"
+                            },
+                            {
+                                "hex_code": "#FAC551",
+                                "name": "gelb"
+                            },
+                            {
+                                "hex_code": "#008000",
+                                "name": "grün"
+                            },
+                            {
+                                "hex_code": "#557AFF",
+                                "name": "blau"
+                            },
+                            {
+                                "hex_code": "#000000",
+                                "name": "schwarz"
+                            },
+                            {
+                                "hex_code": "#EF6BC1",
+                                "name": "pink"
+                            },
+                            {
+                                "hex_code": "#873CBE",
+                                "name": "violett"
+                            },
+                            {
+                                "hex_code": "#6E757A",
+                                "name": "grau"
+                            },
+                            {
+                                "hex_code": "#884312",
+                                "name": "braun"
+                            }
+                        ],
+                        "difficulty": "simple",
+                        "type": "w1"
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w1_text_farb_bedeutung_lvl_4_ex4",
+                    "question": "Stimmt der Name der Farbe oben mit der Schriftfarbe unten überein?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            {
+                                "hex_code": "#ff0000",
+                                "name": "rot"
+                            },
+                            {
+                                "hex_code": "#FAC551",
+                                "name": "gelb"
+                            },
+                            {
+                                "hex_code": "#008000",
+                                "name": "grün"
+                            },
+                            {
+                                "hex_code": "#557AFF",
+                                "name": "blau"
+                            },
+                            {
+                                "hex_code": "#000000",
+                                "name": "schwarz"
+                            }
+                        ],
+                        "difficulty": "complex",
+                        "type": "w1"
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w1_text_farb_bedeutung_lvl_5_ex5",
+                    "question": "Stimmt der Name der Farbe oben mit der Schriftfarbe unten überein?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            {
+                                "hex_code": "#ff0000",
+                                "name": "rot"
+                            },
+                            {
+                                "hex_code": "#FAC551",
+                                "name": "gelb"
+                            },
+                            {
+                                "hex_code": "#008000",
+                                "name": "grün"
+                            },
+                            {
+                                "hex_code": "#557AFF",
+                                "name": "blau"
+                            },
+                            {
+                                "hex_code": "#000000",
+                                "name": "schwarz"
+                            },
+                            {
+                                "hex_code": "#EF6BC1",
+                                "name": "pink"
+                            },
+                            {
+                                "hex_code": "#873CBE",
+                                "name": "violett"
+                            },
+                            {
+                                "hex_code": "#6E757A",
+                                "name": "grau"
+                            },
+                            {
+                                "hex_code": "#884312",
+                                "name": "braun"
+                            }
+                        ],
+                        "difficulty": "complex",
+                        "type": "w1"
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_w1_text_farb_bedeutung",
+    "checksum": "88624da75e8b5ff33d9af2756ad2559b"
+}

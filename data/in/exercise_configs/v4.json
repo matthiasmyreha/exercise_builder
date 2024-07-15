@@ -1,0 +1,258 @@
+{
+    "code": "z4",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "if_correct",
+        "lives": 3
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 8,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 9,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 2,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 3,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 4,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 5,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            }
+        ]
+    },
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung sollen Sie ein Muster in einer Reihe von Möglichkeiten wiedererkennen."
+            }
+        ],
+        "type": "interactive"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z4_rotierende_gedanken_lvl_1_ex1",
+                    "question": "Tippen Sie auf die Figur, die mit der Ausgangsfigur übereinstimmt.",
+                    "tasks": [],
+                    "params": {
+                        "n_tasks": 3,
+                        "n_answers": 3,
+                        "n_change": 2,
+                        "type": "default"
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z4_rotierende_gedanken_lvl_2_ex1",
+                    "question": "Tippen Sie auf die Figur, die mit der Ausgangsfigur übereinstimmt.",
+                    "tasks": [],
+                    "params": {
+                        "n_tasks": 4,
+                        "n_answers": 4,
+                        "n_change": 3,
+                        "type": "default"
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z4_rotierende_gedanken_lvl_3_ex1",
+                    "question": "Tippen Sie auf die Figur, die mit der Ausgangsfigur übereinstimmt.",
+                    "tasks": [],
+                    "params": {
+                        "n_tasks": 6,
+                        "n_answers": 5,
+                        "n_change": 5,
+                        "type": "default"
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z4_rotierende_gedanken_lvl_4_ex1",
+                    "question": "Tippen Sie auf die Figur, die mit der Ausgangsfigur übereinstimmt.",
+                    "tasks": [],
+                    "params": {
+                        "n_tasks": 7,
+                        "n_answers": 5,
+                        "n_change": 5,
+                        "type": "default"
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z4_rotierende_gedanken_lvl_5_ex1",
+                    "question": "Tippen Sie auf die Figur, die mit der Ausgangsfigur übereinstimmt.",
+                    "tasks": [],
+                    "params": {
+                        "n_tasks": 8,
+                        "n_answers": 5,
+                        "n_change": 4,
+                        "type": "default"
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_z4_rotierende_gedanken",
+    "checksum": "2839f90887e8a95ac2aa4b25dcaac288"
+}

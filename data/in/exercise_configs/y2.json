@@ -1,0 +1,521 @@
+{
+    "code": "y2",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "predefined",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "always"
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 12,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": -1,
+                "change": {
+                    "level": -1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 12,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": -1,
+                "change": {
+                    "level": -1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 12,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": -1,
+                "change": {
+                    "level": -1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 12,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -1,
+                "change": {
+                    "level": -1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 12,
+                "change": {
+                    "level": 1
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -1,
+                "change": {
+                    "level": -1
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 6,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 6,
+                "type": "streak"
+            },
+            {
+                "amount": 15,
+                "change": {
+                    "points_x": 4
+                },
+                "level": 6,
+                "type": "streak"
+            },
+            {
+                "amount": 20,
+                "change": {
+                    "points_x": 5
+                },
+                "level": 6,
+                "type": "streak"
+            },
+            {
+                "amount": -1,
+                "change": {
+                    "level": -1
+                },
+                "level": 6,
+                "type": "streak"
+            }
+        ]
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y2_einzigartiges_objekt_lvl_1_ex1",
+                    "question": "Tippen Sie auf das einzigartige Objekt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "number_of_shapes": 2,
+                        "number_of_symbols": 7,
+                        "patterns": [
+                            "1"
+                        ],
+                        "type": "y2",
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f",
+                            "g"
+                        ],
+                        "unique_optional_properties": [],
+                        "unique_required_properties": [
+                            "shape",
+                            "color"
+                        ]
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y2_einzigartiges_objekt_lvl_2_ex2",
+                    "question": "Tippen Sie auf das einzigartige Objekt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "type": "y2",
+                        "number_of_shapes": 3,
+                        "number_of_symbols": 7,
+                        "patterns": [
+                            "1",
+                            "2"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f",
+                            "g"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "color"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y2_einzigartiges_objekt_lvl_3_ex3",
+                    "question": "Tippen Sie auf das einzigartige Objekt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA",
+                            "#42A4BD",
+                            "#F6CFFA",
+                            "#AE8EF2"
+                        ],
+                        "type": "y2",
+                        "number_of_shapes": 3,
+                        "number_of_symbols": 9,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f",
+                            "g",
+                            "h"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "color"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y2_einzigartiges_objekt_lvl_4_ex4",
+                    "question": "Tippen Sie auf das einzigartige Objekt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA",
+                            "#42A4BD",
+                            "#F6CFFA",
+                            "#AE8EF2"
+                        ],
+                        "type": "y2",
+                        "number_of_shapes": 3,
+                        "number_of_symbols": 11,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "pattern"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y2_einzigartiges_objekt_lvl_5_ex5",
+                    "question": "Tippen Sie auf das einzigartige Objekt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA",
+                            "#42A4BD",
+                            "#F6CFFA",
+                            "#AE8EF2"
+                        ],
+                        "type": "y2",
+                        "number_of_shapes": 4,
+                        "number_of_symbols": 14,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f"
+                        ],
+                        "unique_optional_properties": [],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_y2_einzigartiges_objekt",
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung trainieren Sie Ihre selektive Aufmerksamkeit, indem Sie unter vielen ähnlichen Symbolen das einzigartige Objekt finden!"
+            },
+            {
+                "text": "Sie sehen mehrere Objekte. Diese können sich sowohl in der Form als auch in der Farbe unterscheiden."
+            },
+            {
+                "text": "Während viele gleich aussehen, gibt es nur ein einziges Objekt, dass es nur einmal gibt. Dieses müssen Sie anklicken!"
+            },
+            {
+                "text": "Schauen Sie genau hin! Manchmal unterscheidet sich das einzigartige Objekt vielleicht nur durch die Form oder nur durch die Farbe."
+            }
+        ],
+        "type": "interactive"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        }
+    ],
+    "checksum": "7382479e8ca6f964a9af0e084be12c56"
+}

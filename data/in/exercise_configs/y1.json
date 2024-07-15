@@ -1,0 +1,305 @@
+{
+    "code": "y1",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": false,
+        "time": 60,
+        "should_skip_to_next": "always"
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 15,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 20,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 25,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 30,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -3,
+                "level": 2,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": 15,
+                "level": 5,
+                "change": {
+                    "points_x": 3
+                },
+                "type": "streak"
+            },
+            {
+                "amount": 20,
+                "level": 5,
+                "change": {
+                    "points_x": 4
+                },
+                "type": "streak"
+            },
+            {
+                "amount": 25,
+                "level": 5,
+                "change": {
+                    "points_x": 5
+                },
+                "type": "streak"
+            }
+        ]
+    },
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung trainieren Sie Ihre selektive Aufmerksamkeit. Diese Fähigkeit braucht man, um sich bei vielen verschiedenen Reizen auf das Wesentliche konzentrieren zu können."
+            },
+            {
+                "text": "Sie sehen einen Schwarm voller Fische. Ihre Aufgabe ist es, sich den MITTLEREN Fisch genau anzusehen."
+            },
+            {
+                "text": "Sehen Sie, in welche Richtung der mittlere Fisch schwimmt? Tippen Sie den Pfeil an, der in die gleiche Richtung wie der mittlere Fisch zeigt."
+            },
+            {
+                "text": "Lassen Sie sich von den anderen Fischen nicht ablenken! Sie sollen sich immer nur auf den mittleren Fisch konzentrieren."
+            },
+            {
+                "text": "Egal wie der Schwarm aussieht - finden Sie den mittleren Fisch und geben Sie mit dem richtigen Pfeil an, in welche Richtung er schwimmt."
+            }
+        ],
+        "type": "interactive"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y1_fische_richtung_lvl_1_ex1",
+                    "question": "Tippen Sie auf die Richtung, in die der mittlere Fisch schwimmt.",
+                    "tasks": [],
+                    "params": {
+                        "directions": [
+                            0,
+                            180
+                        ],
+                        "type": "y1"
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y1_fische_richtung_lvl_2_ex2",
+                    "question": "Tippen Sie auf die Richtung, in die der mittlere Fisch schwimmt.",
+                    "tasks": [],
+                    "params": {
+                        "directions": [
+                            0,
+                            180
+                        ],
+                        "type": "y1"
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y1_fische_richtung_lvl_3_ex3",
+                    "question": "Tippen Sie auf die Richtung, in die der mittlere Fisch schwimmt.",
+                    "tasks": [],
+                    "params": {
+                        "directions": [
+                            0,
+                            90,
+                            180,
+                            270
+                        ],
+                        "type": "y1"
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y1_fische_richtung_lvl_4_ex4",
+                    "question": "Tippen Sie auf die Richtung, in die der mittlere Fisch schwimmt.",
+                    "tasks": [],
+                    "params": {
+                        "directions": [
+                            0,
+                            90,
+                            180,
+                            270
+                        ],
+                        "type": "y1"
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y1_fische_richtung_lvl_5_ex5",
+                    "question": "Tippen Sie auf die Richtung, in die der mittlere Fisch schwimmt.",
+                    "tasks": [],
+                    "params": {
+                        "directions": [
+                            0,
+                            90,
+                            180,
+                            270
+                        ],
+                        "type": "y1"
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_y1_fische_richtung",
+    "checksum": "d1f8aeb652137e4ad5242c607a7ed972"
+}

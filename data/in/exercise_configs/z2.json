@@ -1,0 +1,334 @@
+{
+    "code": "z2",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "never",
+        "time": 60,
+        "lives": 3
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 4,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 9,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 6,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 4,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 7,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -3,
+                "level": 2,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 5,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            }
+        ]
+    },
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung geht es um Ihren Orientierungssinn. Sie sollen einem Frosch helfen, auf das richtige Seerosenblatt zu kommen."
+            },
+            {
+                "text": "Im oberen Teil des Bildes finden Sie Pfeile. Diese zeigen Ihnen, wie der Frosch Schritt für Schritt über die Blätter hüpfen wird."
+            },
+            {
+                "text": "Wo wird der Frosch zuletzt ankommen? Entscheidend ist immer, auf welchem Blatt er am Ende landet, wenn er entlang ALLER vorgegebener Pfeile gesprungen ist."
+            },
+            {
+                "text": "Ihre Aufgabe ist es, auf das Blatt zu klicken, an dem der Frosch zum Schluss ankommen wird."
+            },
+            {
+                "text": "In jeder Runde müssen Sie durch Klicken auf ein Seerosenblatt angeben, wo der Frosch zum Schluss landen wird."
+            }
+        ],
+        "type": "interactive"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z2_frosch_lvl_1_ex1",
+                    "question": "Die Pfeile zeigen zeigen den Weg. Auf welchem Blatt landet der Frosch ZUM SCHLUSS.",
+                    "tasks": [],
+                    "params": {
+                        "grid_size": 3,
+                        "movements_count": 2,
+                        "movements_directions": [
+                            0,
+                            90,
+                            180,
+                            270
+                        ],
+                        "type": "z2"
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z2_frosch_lvl_2_ex2",
+                    "question": "Die Pfeile zeigen zeigen den Weg. Auf welchem Blatt landet der Frosch ZUM SCHLUSS.",
+                    "tasks": [],
+                    "params": {
+                        "grid_size": 4,
+                        "movements_count": 3,
+                        "movements_directions": [
+                            0,
+                            90,
+                            180,
+                            270
+                        ],
+                        "type": "z2"
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z2_frosch_lvl_3_ex3",
+                    "question": "Die Pfeile zeigen zeigen den Weg. Auf welchem Blatt landet der Frosch ZUM SCHLUSS.",
+                    "tasks": [],
+                    "params": {
+                        "grid_size": 5,
+                        "movements_count": 4,
+                        "movements_directions": [
+                            0,
+                            45,
+                            90,
+                            135,
+                            180,
+                            225,
+                            270,
+                            315
+                        ],
+                        "type": "z2"
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z2_frosch_lvl_4_ex4",
+                    "question": "Die Pfeile zeigen zeigen den Weg. Auf welchem Blatt landet der Frosch ZUM SCHLUSS.",
+                    "tasks": [],
+                    "params": {
+                        "grid_size": 6,
+                        "movements_count": 5,
+                        "movements_directions": [
+                            0,
+                            45,
+                            90,
+                            135,
+                            180,
+                            225,
+                            270,
+                            315
+                        ],
+                        "type": "z2"
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z2_frosch_lvl_5_ex5",
+                    "question": "Die Pfeile zeigen zeigen den Weg. Auf welchem Blatt landet der Frosch ZUM SCHLUSS.",
+                    "tasks": [],
+                    "params": {
+                        "grid_size": 7,
+                        "movements_count": 6,
+                        "movements_directions": [
+                            0,
+                            45,
+                            90,
+                            135,
+                            180,
+                            225,
+                            270,
+                            315
+                        ],
+                        "type": "z2"
+                    }
+                }
+            ],
+            "level": 5
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z2_frosch_lvl_6_ex6",
+                    "question": "Die Pfeile zeigen zeigen den Weg. Auf welchem Blatt landet der Frosch ZUM SCHLUSS.",
+                    "tasks": [],
+                    "params": {
+                        "grid_size": 8,
+                        "movements_count": 7,
+                        "movements_directions": [
+                            0,
+                            45,
+                            90,
+                            135,
+                            180,
+                            225,
+                            270,
+                            315
+                        ],
+                        "type": "z2"
+                    }
+                }
+            ],
+            "level": 6
+        }
+    ],
+    "id": "ex_z2_frosch",
+    "checksum": "aa596a5ae82442535aa42cc5bc52805c"
+}

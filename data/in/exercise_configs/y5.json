@@ -1,0 +1,303 @@
+{
+    "code": "y5",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": false,
+        "should_skip_to_next": "always",
+        "time": 60,
+        "lives": 2
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 13,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 17,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 19,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 21,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 3,
+                "type": "streak"
+            }
+        ]
+    },
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung ist Ihr Jagdinstinkt gefragt - denn in diesem Haus spukt es!"
+            },
+            {
+                "text": "Taucht ein Geist auf, verscheuchen Sie ihn, indem Sie schnell auf ihn tippen!"
+            },
+            {
+                "text": "Je schneller Sie den Geist verscheuchen, umso besser ist Ihre Leistung als Geisterjäger!"
+            },
+            {
+                "text": "Aber Achtung: Vielleicht taucht manchmal auch ein Hausbewohner am Fenster auf. Diese dürfen Sie NICHT antippen, denn Sie wollen nur die Geister verscheuchen!"
+            },
+            {
+                "text": "Also los - tippen Sie alle Geister so schnell wie möglich an und machen Sie sich damit zum besten Geisterjäger weit und breit!"
+            }
+        ],
+        "type": "interactive"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y5_gespenster_lvl_1_ex1",
+                    "question": "Tippen Sie so schnell wie möglich auf einen Geist in den Fenstern.",
+                    "tasks": [],
+                    "params": {
+                        "citizens": [
+                            "citizens/grandma.png"
+                        ],
+                        "max_citizens": 1,
+                        "monsters": [
+                            "monsters/ghost.png",
+                            "monsters/dracula.png"
+                        ],
+                        "resident_delay_range": [
+                            0.5,
+                            1.5
+                        ],
+                        "type": "y5",
+                        "resident_duration": 5
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y5_gespenster_lvl_2_ex1",
+                    "question": "Tippen Sie so schnell wie möglich auf einen Geist in den Fenstern.",
+                    "tasks": [],
+                    "params": {
+                        "citizens": [
+                            "citizens/grandma.png",
+                            "citizens/girl.png"
+                        ],
+                        "max_citizens": 1,
+                        "monsters": [
+                            "monsters/ghost.png",
+                            "monsters/dracula.png",
+                            "monsters/devil.png",
+                            "monsters/frankenstein.png"
+                        ],
+                        "resident_delay_range": [
+                            0.5,
+                            1
+                        ],
+                        "type": "y5",
+                        "resident_duration": 3.5
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y5_gespenster_lvl_3_ex1",
+                    "question": "Tippen Sie so schnell wie möglich auf einen Geist in den Fenstern.",
+                    "tasks": [],
+                    "params": {
+                        "citizens": [
+                            "citizens/grandma.png",
+                            "citizens/girl.png"
+                        ],
+                        "max_citizens": 2,
+                        "monsters": [
+                            "monsters/ghost.png",
+                            "monsters/dracula.png",
+                            "monsters/devil.png",
+                            "monsters/frankenstein.png",
+                            "monsters/yeti.png",
+                            "monsters/zombie.png",
+                            "monsters/werewolf.png"
+                        ],
+                        "resident_delay_range": [
+                            0.5,
+                            1
+                        ],
+                        "type": "y5",
+                        "resident_duration": 3
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y5_gespenster_lvl_4_ex1",
+                    "question": "Tippen Sie so schnell wie möglich auf einen Geist in den Fenstern.",
+                    "tasks": [],
+                    "params": {
+                        "citizens": [
+                            "citizens/grandma.png",
+                            "citizens/girl.png",
+                            "citizens/man2.png",
+                            "citizens/boy.png"
+                        ],
+                        "max_citizens": 6,
+                        "monsters": [
+                            "monsters/ghost.png",
+                            "monsters/dracula.png",
+                            "monsters/devil.png",
+                            "monsters/frankenstein.png",
+                            "monsters/yeti.png",
+                            "monsters/zombie.png",
+                            "monsters/werewolf.png",
+                            "monsters/mummy.png",
+                            "monsters/sceleton.png"
+                        ],
+                        "type": "y5",
+                        "resident_delay_range": [
+                            0.2,
+                            0.8
+                        ],
+                        "resident_duration": 2.5
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y5_gespenster_lvl_5_ex1",
+                    "question": "Tippen Sie so schnell wie möglich auf einen Geist in den Fenstern.",
+                    "tasks": [],
+                    "params": {
+                        "citizens": [
+                            "citizens/grandma.png",
+                            "citizens/girl.png",
+                            "citizens/man2.png",
+                            "citizens/boy.png",
+                            "citizens/man1.png"
+                        ],
+                        "type": "y5",
+                        "max_citizens": 8,
+                        "monsters": [
+                            "monsters/ghost.png",
+                            "monsters/dracula.png",
+                            "monsters/devil.png",
+                            "monsters/frankenstein.png",
+                            "monsters/yeti.png",
+                            "monsters/zombie.png",
+                            "monsters/werewolf.png",
+                            "monsters/mummy.png",
+                            "monsters/sceleton.png",
+                            "monsters/swamp.png"
+                        ],
+                        "resident_delay_range": [
+                            0.1,
+                            0.7
+                        ],
+                        "resident_duration": 1.5
+                    }
+                }
+            ],
+            "level": 5
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y5_gespenster_lvl_6_ex1",
+                    "question": "Tippen Sie so schnell wie möglich auf einen Geist in den Fenstern.",
+                    "tasks": [],
+                    "params": {
+                        "citizens": [
+                            "citizens/grandma.png",
+                            "citizens/girl.png",
+                            "citizens/man2.png"
+                        ],
+                        "max_citizens": 3,
+                        "monsters": [
+                            "monsters/ghost.png",
+                            "monsters/dracula.png",
+                            "monsters/devil.png",
+                            "monsters/frankenstein.png"
+                        ],
+                        "type": "y5",
+                        "resident_delay_range": [
+                            0.2,
+                            1
+                        ],
+                        "resident_duration": 0.8
+                    }
+                }
+            ],
+            "level": 6
+        }
+    ],
+    "id": "ex_y5_gespenster",
+    "checksum": "52545edb2274d620e6bf89a5d8324ba1"
+}

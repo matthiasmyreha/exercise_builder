@@ -1,0 +1,201 @@
+{
+  "categories": [
+    {
+      "categoryDescription": "Schulungen zu den Themen gesunde Ernährung",
+      "categoryID": "nutrition",
+      "categoryString": "Ernährung",
+      "color": "9CC8B0"
+    },
+    {
+      "categoryDescription": "Wissen rund ums Thema Schlaf und Entspannung",
+      "categoryID": "relaxation",
+      "categoryString": "Entspannung",
+      "color": "90CAFF"
+    },
+    {
+      "categoryDescription": "Schulungen zur besseren Bewältigung der Schwierigkeiten des Alltags",
+      "categoryID": "lifestyle",
+      "categoryString": "Lebensstil-Modifikation",
+      "color": "B0DBEA"
+    },
+    {
+      "categoryDescription": "Schulungen zur gesunden Lebensweise",
+      "categoryID": "healthy_living",
+      "categoryString": "Gesundes Leben",
+      "color": "CDB4DB"
+    },
+    {
+      "categoryDescription": "Schulungen zu den Themen Motivation und Selbstmanagement",
+      "categoryID": "motivation",
+      "categoryString": "Motivation",
+      "color": "EADDB0"
+    }
+  ],
+  "courses": [
+    {
+      "category": "nutrition",
+      "code": "n1",
+      "id": "course_nutrition_1_ernaehrung_in_neuroreha",
+      "info": "",
+      "length": 895,
+      "subtitle": "Wie Sie den Erfolg Ihrer Neuro-Reha maximieren und das Risiko weiterer Ekrankungen reduzieren.",
+      "title": "Ernährung in der Neuro-Reha",
+      "url": "courses/nutrition/course_nutrition_1_ernaehrung_in_neuroreha.mp4",
+      "type": "video"
+    },
+    {
+      "category": "healthy_living",
+      "code": "h1",
+      "id": "course_healthy_living_1_das_bewegte_gehirn",
+      "info": "Regelmäßige Bewegung fördert nicht nur die körperliche Gesundheit, sondern hat auch positive Effekte auf unser Gehirn und die Denkfunktion, wie neuere Erkenntnisse der Neurowissenschaften zeigen. Entdecken Sie in dieser Schulung, wie Sport unsere Nervenzellen beeinflusst und lassen Sie sich motivieren, geistig und körperlich aktiver zu werden.",
+      "length": 1200,
+      "subtitle": "Wie Sport unser Denken verbessert.",
+      "title": "Unser Gehirn und der Sport",
+      "url": "courses/healthy_living/course_healthy_living_1_das_bewegte_gehirn.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "relaxation",
+      "code": "r1",
+      "id": "course_relaxation_1_guter_schlaf",
+      "info": "Haben Sie Schlafprobleme? Fühlen Sie sich oft unausgeruht, trotz einer langen Nacht? Qualitative Erholung beim Schlafen ist genauso wichtig wie die Quantität. In dieser Schulung sprechen wir über die Geheimnisse des schlafenden Gehirns und warum regelmäßige Ruhephasen essentiell sind. Entdecken Sie allgemeine Tipps und Ratschläge für bessere Schlafgewohnheiten und erfahren Sie, wie Sie wirklich zur Ruhe kommen können.",
+      "length": 1152,
+      "subtitle": "Wie Sie Ihren Schlaf verbessern.",
+      "title": "Guter Schlaf",
+      "url": "courses/relaxation/course_relaxation_1_guter_schlaf.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "relaxation",
+      "code": "r2",
+      "id": "course_relaxation_2_stille",
+      "info": "Fühlen Sie sich auch von der Lautstärke des Lebens überwältigt? Hier tauchen wir in die faszinierende Welt der Stille ein und erforschen, warum sie in unserer hektischen Zeit so wichtig ist. Entdecken Sie, wie Sie den inneren und äußeren Lärm reduzieren können, und warum Stille nicht nur erholsam, sondern auch transformativ sein kann.",
+      "length": 1740,
+      "subtitle": "Warum Ruhe mehr ist als die Abwesenheit von Lärm.",
+      "title": "Angenehme Stille",
+      "url": "courses/relaxation/course_relaxation_2_stille.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "motivation",
+      "code": "t1",
+      "id": "course_motivation_1_wachsam",
+      "info": "Fällt es Ihnen schwer, sich in einer Welt voller Ablenkungen zu konzentrieren? Hier widmen wir uns dem wertvollen Gut der Aufmerksamkeit und zeigen, wie Sie durch gezielten Fokus Ihr Leben bereichern können. Lernen Sie Techniken kennen, die Ihnen helfen, Klarheit zu schaffen und sich auf das Wesentliche zu konzentrieren. Tauchen Sie tiefer in Ihre Welt ein.",
+      "length": 1280,
+      "subtitle": "Wie Sie Ihren Fokus auf das Wesentliche lenken",
+      "title": "Wachsam bleiben",
+      "url": "courses/motivation/course_motivation_1_wachsam.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "lifestyle",
+      "code": "l1",
+      "id": "course_lifestyle_1_weniger_vergesslich",
+      "info": "Vergessen Sie auch manchmal wichtige Termine oder Details? Hier erforschen wir, wie unser Gedächtnis funktioniert und warum es uns im hektischen Alltag manchmal im Stich lässt. Entdecken Sie einfache Strategien zur Verbesserung Ihrer Gedächtnisleistung und erleben Sie, wie ein trainiertes Gedächtnis Ihren Alltag erleichtern kann. Es ist Zeit, sich zu erinnern.",
+      "length": 1924,
+      "subtitle": "Techniken gegen Vergesslichkeit im Alltag",
+      "title": "Weniger vergesslich",
+      "url": "courses/lifestyle/course_lifestyle_1_weniger_vergesslich.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "lifestyle",
+      "code": "l2",
+      "id": "course_lifestyle_2_mental_gesund",
+      "info": "Fühlen Sie sich von der Schnelllebigkeit des Alltags überfordert? Hier nehmen wir Sie mit auf eine Reise zu effektiven Strategien für mentale Balance und Wohlbefinden. Ob Sport, Ernährung oder Achtsamkeit, entdecken Sie Methoden, um den täglichen Stress zu bewältigen und Ihr Leben ins Gleichgewicht zu bringen. Finden Sie Ihren Weg zur Ruhe.",
+      "length": 1416,
+      "subtitle": "Wege zur mentalen Balance",
+      "title": "Stressausgleich",
+      "url": "courses/lifestyle/course_lifestyle_2_mental_gesund.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "lifestyle",
+      "code": "l3",
+      "id": "course_lifestyle_3_angst",
+      "info": "Angst ist ein ständiger Begleiter im Leben. Sie warnt uns vor Gefahren und motiviert uns, zu handeln. Doch zu starke Ängste können lähmend wirken und unsere Entscheidungsfähigkeit beeinträchtigen. Wie können wir besser mit ihr umgehen und emotionale Kontrolle behalten? Hier erfahren Sie mehr.",
+      "length": 1179,
+      "subtitle": "Wie gewinnen wir die emotionale Kontrolle?",
+      "title": "Umgang mit der Angst",
+      "url": "courses/lifestyle/course_lifestyle_3_angst.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "lifestyle",
+      "code": "l4",
+      "id": "course_lifestyle_4_positiv_denken",
+      "info": "Hier lernen Sie, wie Sie Ihre Wahrnehmung auf positive Aspekte lenken können, um ein erfüllteres und glücklicheres Leben zu führen.",
+      "length": 1508,
+      "subtitle": "Schützen Sie sich vor Negativität.",
+      "title": "Positiv Denken",
+      "url": "courses/lifestyle/course_lifestyle_4_positiv_denken.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "healthy_living",
+      "code": "h2",
+      "id": "course_healthy_living_2_gemeinsam_stark",
+      "info": "Entdecken Sie, was uns wirklich verbindet. Vom Wirken unseres Gehirns über Pilgertreffen bis hin zu Weinfesten – wir erforschen die tiefen Wurzeln der menschlichen Gemeinschaft. Hören Sie zu und verstehen Sie, warum soziale Akzeptanz wichtiger ist als universelle Beliebtheit.",
+      "length": 1277,
+      "subtitle": "Das Geheimnis der sozialen Resonanz und Zugehörigkeit.",
+      "title": "Gemeinsam stark",
+      "url": "courses/healthy_living/course_healthy_living_2_gemeinsam_stark.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "motivation",
+      "code": "t2",
+      "id": "course_motivation_2_stark_aus_krise",
+      "info": "Begegnen Sie den Tiefen des Lebens mit neuem Mut. Hier erforschen wir, wie Krisen und Schicksalsschläge nicht nur bewältigt, sondern als Wendepunkte für persönliches Wachstum genutzt werden können. Schreiben Sie Ihre eigene Heldengeschichte.",
+      "length": 1657,
+      "subtitle": "Wie Sie Schicksalsschläge in Lebensweisheiten verwandeln.",
+      "title": "Stark aus der Krise",
+      "url": "courses/motivation/course_motivation_2_stark_aus_krise.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "motivation",
+      "code": "t3",
+      "id": "courses_motivation_3_positives_denken",
+      "info": "Was bedeutet es wirklich, positiv zu sein? Hier entlarven wir die Irrtümer und enthüllen die echte Kraft der Positivität. Lernen Sie, wie Sie echte Positivität in Ihren Alltag integrieren können, jenseits von leeren Phrasen und Klischees. Werden Sie authentisch positiv.",
+      "length": 1300,
+      "subtitle": "Mythen und Wahrheiten über das positive Denken.",
+      "title": "Echt positiv",
+      "url": "courses/motivation/courses_motivation_3_positives_denken.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "lifestyle",
+      "code": "l5",
+      "id": "course_lifestyle_5_gut_geplant",
+      "info": "Kennen Sie das auch? Neujahrsvorsätze, die im Eifer des Gefechts gefasst und schnell wieder vergessen werden? Hier beleuchten wir die Psychologie hinter gescheiterten Vorsätzen und zeigen Ihnen, wie eine effektive Planung den Unterschied machen kann. Überbrücken Sie die Lücke zwischen Wunsch und Wirklichkeit.",
+      "length": 1503,
+      "subtitle": "Warum Neujahrsvorsätze scheitern und wie Sie Ihre Ziele wirklich erreichen.",
+      "title": "Vorsatz und Wirklichkeit",
+      "url": "courses/lifestyle/course_lifestyle_5_gut_geplant.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "healthy_living",
+      "code": "h3",
+      "id": "course_healthy_living_3_zu_heiss",
+      "info": "Fühlen Sie sich im Sommer auch manchmal wie in der Sauna des Lebens? Hier gehen wir den Auswirkungen der Hitze auf Körper und Geist auf den Grund. Erfahren Sie, warum wir uns schlechter konzentrieren, gereizter sind und was Sie dagegen tun können. Bleiben Sie cool, auch wenn die Welt sich aufheizt.",
+      "length": 1710,
+      "subtitle": "Wie hohe Temperaturen unser Denken und Fühlen beeinflussen.",
+      "title": "Hitzefrei fürs Gehirn",
+      "url": "courses/healthy_living/course_healthy_living_3_zu_heiss.mp3",
+      "type": "audio"
+    },
+    {
+      "category": "motivation",
+      "code": "t4",
+      "id": "courses_motivation_4_einfach_anfangen",
+      "info": "Haben Sie große Pläne für das neue Jahr, aber Schwierigkeiten, den ersten Schritt zu machen? Hier werden Sie auf eine inspirierende Reise mitgenommen, um den Wert und die Herausforderungen des Anfangens zu verstehen. Von Aristoteles bis Julius Cäsar, entdecken Sie, wie Sie den entscheidenden ersten Schritt wagen können. Lassen Sie sich motivieren und in die richtige Richtung lenken.",
+      "length": 1225,
+      "subtitle": "Warum der Anfang oft der schwierigste Teil der Reise ist.",
+      "title": "Der erste Schritt",
+      "url": "courses/motivation/courses_motivation_4_einfach_anfangen.mp3",
+      "type": "audio"
+    }
+  ]
+}

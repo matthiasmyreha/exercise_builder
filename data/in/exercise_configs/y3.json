@@ -1,0 +1,188 @@
+{
+    "checksum": "01e4f2116209443a4b664a007ae3653e",
+    "code": "y3",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "predefined",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": false,
+        "should_skip_to_next": "always"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y3_fotosafari_lvl_1_ex1",
+                    "question": "Fotografieren Sie nur",
+                    "tasks": [],
+                    "params": {
+                        "shown_animals": 1,
+                        "required_animals": 1,
+                        "time": 5,
+                        "type": "y3"
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y3_fotosafari_lvl_2_ex1",
+                    "question": "Fotografieren Sie nur",
+                    "tasks": [],
+                    "params": {
+                        "shown_animals": 1,
+                        "required_animals": 1,
+                        "time": 3,
+                        "type": "y3"
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y3_fotosafari_lvl_3_ex1",
+                    "question": "Fotografieren Sie",
+                    "tasks": [],
+                    "params": {
+                        "shown_animals": 2,
+                        "required_animals": 1,
+                        "time": 2.5,
+                        "type": "y3"
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y3_fotosafari_lvl_4_ex1",
+                    "question": "Fotografieren Sie",
+                    "tasks": [],
+                    "params": {
+                        "shown_animals": 2,
+                        "required_animals": 2,
+                        "time": 3.5,
+                        "type": "y3"
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y3_fotosafari_lvl_5_ex1",
+                    "question": "Fotografieren Sie",
+                    "tasks": [],
+                    "params": {
+                        "shown_animals": 3,
+                        "required_animals": 2,
+                        "time": 3,
+                        "type": "y3"
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_y3_fotosafari",
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung trainieren Sie Ihre Merkfähigkeit und geteilte Aufmerksamkeit, indem Sie auf Safari gehen und wilde Tiere fotografieren."
+            },
+            {
+                "text": "In jeder Runde sind Sie auf der Suche nach einem neuen Tier in einer besonderen Farbe."
+            },
+            {
+                "text": "Oben in der Anzeige sehen Sie, welches Tier in welcher Farbe Sie fotografieren sollen."
+            },
+            {
+                "text": "Taucht dieses Tier auf, klicken Sie auf den Foto-Button unten in der Mitte, um ein Foto zu schießen."
+            },
+            {
+                "text": "Klicken Sie nicht, wenn das gesuchte Tier gerade nicht sichtbar ist, denn das kostet Ihnen Punkte."
+            }
+        ],
+        "type": "interactive"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10,
+            "type": "dynamic"
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 7,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 13,
+                "rounds": 3
+            },
+            "tasks": 15,
+            "type": "dynamic"
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 10,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 18,
+                "rounds": 3
+            },
+            "tasks": 20,
+            "type": "dynamic"
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 10,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 28,
+                "rounds": 3
+            },
+            "tasks": 30,
+            "type": "dynamic"
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 10,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 33,
+                "rounds": 3
+            },
+            "tasks": 35,
+            "type": "dynamic"
+        }
+    ]
+}

@@ -1,0 +1,687 @@
+{
+    "checksum": "ca7434075dae589ffb9df3b44dbfe0ca",
+    "code": "b3",
+    "configuration": {
+        "answer_format_type": "prompt",
+        "answer_type": "audio",
+        "exercise_type": "predefined",
+        "should_skip_to_next": "never",
+        "show_bottom_bar": false,
+        "show_question": false,
+        "task_format_type": "custom"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_1_ex1",
+                    "params": {
+                        "amount": 5,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "animals",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_1_ex2",
+                    "params": {
+                        "amount": 5,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "furniture",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_1_ex3",
+                    "params": {
+                        "amount": 5,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "clothes",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_1_ex4",
+                    "params": {
+                        "amount": 5,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "clothes",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_2_ex1",
+                    "params": {
+                        "amount": 5,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "fruits",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_2_ex2",
+                    "params": {
+                        "amount": 5,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "vegetables",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_2_ex3",
+                    "params": {
+                        "amount": 5,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "sports",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_2_ex4",
+                    "params": {
+                        "amount": 5,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "instruments",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_3_ex1",
+                    "params": {
+                        "amount": 8,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "birds",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_3_ex2",
+                    "params": {
+                        "amount": 8,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "spices",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_3_ex3",
+                    "params": {
+                        "amount": 8,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "mammals",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_3_ex4",
+                    "params": {
+                        "amount": 8,
+                        "prompt_id": "ex_b3_1",
+                        "prompt_params": {
+                            "category": "reptiles",
+                            "type": "single"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex1",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "animals",
+                                "fruits"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex2",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "animals",
+                                "vegetables"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex3",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "animals",
+                                "sports"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex4",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "animals",
+                                "instruments"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex5",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "fruits",
+                                "furniture"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex6",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "furniture",
+                                "vegetables"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex7",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "furniture",
+                                "sports"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex8",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "furniture",
+                                "instruments"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex9",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "clothes",
+                                "fruits"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex10",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "clothes",
+                                "vegetables"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex11",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "clothes",
+                                "sports"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex12",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "clothes",
+                                "instruments"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex13",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "flowers",
+                                "fruits"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex14",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "flowers",
+                                "vegetables"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex15",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "flowers",
+                                "sports"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_4_ex16",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "flowers",
+                                "instruments"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_5_ex1",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "mammals",
+                                "spices"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_5_ex2",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "reptiles",
+                                "spices"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_5_ex3",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "birds",
+                                "spices"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_5_ex4",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "birds",
+                                "reptiles"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_5_ex5",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "mammals",
+                                "reptiles"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                },
+                {
+                    "answers": [],
+                    "exercise_id": "Benennen_ex_b3_kategorien_nennen_lvl_5_ex6",
+                    "params": {
+                        "amount": 10,
+                        "prompt_id": "ex_b3_4",
+                        "prompt_params": {
+                            "categories": [
+                                "birds",
+                                "mammals"
+                            ],
+                            "type": "alternating"
+                        },
+                        "type": "b3"
+                    },
+                    "question": "Nennen Sie so viele einzigartige Begriffe aus der Kategorie, wie Sie können!",
+                    "tasks": []
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_b3_kategorien_nennen",
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung sollen Sie so viele Begriffe wie möglich nennen, die einer vorgegebenen Kategorie angehören. Dafür haben Sie jeweils 60 Sekunden Zeit."
+            }
+        ],
+        "type": "interactive"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 4,
+                "rounds": 2
+            },
+            "tasks": 1
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 4,
+                "rounds": 2
+            },
+            "tasks": 1
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 3,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 6,
+                "rounds": 2
+            },
+            "tasks": 1
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 5,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 2
+            },
+            "tasks": 1
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 5,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 10,
+                "rounds": 1
+            },
+            "tasks": 1
+        }
+    ]
+}

@@ -1,0 +1,927 @@
+{
+  "areas": [
+    {
+      "id": "aphasie",
+      "name": "Sprache"
+    },
+    {
+      "id": "kognition",
+      "name": "Kognition"
+    }
+  ],
+  "categories": [
+    {
+      "area": "aphasie",
+      "categoryID": "aphasie-1",
+      "categoryString": "Lesesinnverständnis",
+      "category_description": "Trainieren Sie Fähigkeiten, die das sinnerfassende Lesen fördern.",
+      "color": "4A98B2",
+      "level_descriptions": {
+        "patient": [
+          "Sie können alltagsrelevante Ein- und Zweisilber verstehen",
+          "Sie können schriftlich vorgegebene kurze Sätze verstehen",
+          "Sie können schriftlich vorgegebene mittellange Sätze verstehen",
+          "Sie können schriftlich vorgegebene längere und komplexe Sätze verstehen",
+          "Sie können beliebig schriftlich vorgegebene Texte verstehen"
+        ],
+        "therapist": [
+          "schriftlich vorgegebene hochfrequente, alltagsrelevante Ein- und Zweisilber verstehen",
+          "schriftlich vorgegebene kurze Sätze mit einfacher morphosyntaktischer Struktur verstehen",
+          "schriftlich vorgegebene kurze Sätze mit einfacher morphosyntaktischer Struktur verstehen",
+          "schriftlich vorgegebene längere Sätze mit komplexer morphosyntaktischer Struktur verstehen",
+          "schriftlich vorgegebene Texte verstehen"
+        ]
+      }
+    },
+    {
+      "area": "aphasie",
+      "categoryID": "aphasie-2",
+      "categoryString": "Nachsprechen",
+      "category_description": "Mithilfe von Sprachaufnahmen können Sie hier das Nachsprechen trainieren.",
+      "color": "41549B",
+      "level_descriptions": {
+        "patient": [
+          "Sie können auditiv vorgegebene Laute und Silben nachsprechen",
+          "Sie können auditiv vorgegebene Einsilber fehlerfrei wiedergeben",
+          "Sie können auditiv vorgegebene Mehrsilber fehlerfrei wiedergeben",
+          "Sie können auditiv vorgegebene kurze Sätze fehlerfrei wiedergeben",
+          "Sie können auditiv vorgegebene längere Sätze fehlerfrei wiedergeben"
+        ],
+        "therapist": [
+          "maximal auditiv vorgegebene Laute und Silben nachsprechen",
+          "auditiv vorgegebene hochfrequente, alltagsrelevante Einsilber fehlerfrei wiedergeben können",
+          "auditiv vorgegebene hoch- und niederfrequente Mehrsilber fehlerfrei wiedergeben können",
+          "auditiv vorgegebene kurze Sätze fehlerfrei wiedergeben können",
+          "auditiv vorgegebene längere Sätze fehlerfrei wiedergeben können"
+        ]
+      }
+    },
+    {
+      "area": "aphasie",
+      "categoryID": "aphasie-3",
+      "categoryString": "Schriftsprache",
+      "category_description": "Hier geht es um all jene Bereiche, die mit geschriebener Sprache zu tun haben.",
+      "color": "497FBC",
+      "level_descriptions": {
+        "patient": [
+          "Sie können einsilbige Wörter vorlesen",
+          "Sie können zweisilbige Wörter fehlerfrei vorlesen",
+          "Sie können mehrsilbige Wörter fehlerfrei vorlesen",
+          "Sie können kurze bis mittellange Sätze fehlerfrei vorlesen",
+          "Sie können längere komplexe Sätze fehlerfrei vorlesen"
+        ],
+        "therapist": [
+          "maximal hochfrequente, einsilbige Wörter mit einfacher Lautabfolge vorlesen",
+          "hochfrequente, zweisilbige Wörter mit zunehmend komplexerer Lautabfolge fehlerfrei vorlesen",
+          "niederfrequentere, mehrsilbige Wörter mit komplexerer Lautabfolge fehlerfrei vorlesen",
+          "kurze bis mittellange Sätze mit zunehmend komplexer morphosyntaktischer Struktur fehlerfrei vorlesen",
+          "längere Sätze mit komplexer morphosyntaktischer Struktur fehlerfrei vorlesen"
+        ]
+      }
+    },
+    {
+      "area": "aphasie",
+      "categoryID": "aphasie-4",
+      "categoryString": "Sprachverständnis",
+      "category_description": "Trainieren Sie Fähigkeiten, die das Verarbeiten von gesprochener Sprache fördern.",
+      "color": "728CED",
+      "level_descriptions": {
+        "patient": [
+          "Sie können Ein- bis Zweisilber verstehen",
+          "Sie können Ein- bis Mehrsilber verstehen",
+          "Sie können einfache Sätze verstehen",
+          "Sie können komplexe Sätze verstehen",
+          "Sie können Situationen verstehen"
+        ],
+        "therapist": [
+          "hochfrequente, alltagsbezogene Ein- bis Zweisilber mit einfacher Lautabfolge verstehen",
+          "niederfrequente Ein- bis Mehrsilber mit jeder Lautfolge verstehen",
+          "einfache Sätze verstehen",
+          "komplexe Sätze verstehen",
+          "Situationen verstehen"
+        ]
+      }
+    },
+    {
+      "area": "kognition",
+      "categoryID": "kognition-0",
+      "categoryString": "Aufmerksamkeit",
+      "category_description": "Hier wird Ihre Aufmerksamkeit auf verschiedene Reize trainiert.",
+      "color": "FFB45C",
+      "level_descriptions": {
+        "patient": [
+          "Sie können Ihre eigene Aufmerksamkeit auf neue Reize verschieben",
+          "Sie können Reize/Informationen adäquat verarbeiten und darauf reagieren",
+          "Sie können auf unterschiedliche Reize zielgerichtet reagieren",
+          "Sie können Ihre Aufmerksamkeit auf 2 oder mehr Reize gleichzeitig richten und auf diese schnell und zielgerichtet reagieren",
+          "Sie können sich auf relevante Reize (über einen längeren Zeitraum) konzentrieren und irrelevante dabei sunterdrücken"
+        ],
+        "therapist": [
+          "eigene Aufmerksamkeit auf neue Reize verschieben zu können",
+          "Reize/Informationen adäquat zu verarbeiten und darauf reagieren (verstehen)",
+          "auf unterschiedliche Reize (visuell, auditiv) zielgerichtet reagieren zu können",
+          "seine Aufmerksamkeit auf 2 oder mehr Reize gleichzeitig zu richten und auf diese schnell und zielgerichtet zu reagieren",
+          "sich auf relevante Reize (über einen längeren Zeitraum) zu konzentrieren und irrelevante dabei zu unterdrücken"
+        ]
+      }
+    },
+    {
+      "area": "kognition",
+      "categoryID": "kognition-3",
+      "categoryString": "Exekutivfunktion",
+      "category_description": "Hier wird Ihre Exekutivfunktion, wie das Planen von Handlungen, trainiert.",
+      "color": "C08EF2",
+      "level_descriptions": {
+        "patient": [
+          "Sie können einfache zielgerichtete Handlungen korrekt ausführen",
+          "Sie können diverse zielgerichtete Handlungen auszuführen",
+          "Sie können nicht relevante zielgerichtete Handlungen unterdrücken/hemmen",
+          "Sie können komplexe zielgerichtete Handlungen planen und ausführen",
+          "Sie können das eigenen Verhalten und Gedanken auf neue, unerwartete Situation/Handlungen adäquat anpassen"
+        ],
+        "therapist": [
+          "einfache zielgerichtete Handlungen (korrekt) auszuführen",
+          "diverse zielgerichtete Handlungen (korrekt) auszuführen",
+          "Hemmung/Unterdrückung nicht relevanter zielgerichteter Handlungen",
+          "das Planen und Ausführen komplexer zielgerichteter Handlungen",
+          "das eigenen Verhalten und seine Gedanken auf neue, unerwartete Situation/Handlungen adäquat anzupassen"
+        ]
+      }
+    },
+    {
+      "area": "kognition",
+      "categoryID": "kognition-2",
+      "categoryString": "Gedächtnis",
+      "category_description": "Hier wird Ihre Gedächtnisleistung trainiert.",
+      "color": "FA8951",
+      "level_descriptions": {
+        "patient": [
+          "Informationen werden im Gedächtnis repräsentiert, aber noch nicht (dauerhaft) gespeichert",
+          "Das kurzfristige Speichern geringer Informationseinheiten funktioniert schon gut.",
+          "Das kurzfristige Speichern umfangreicher Informationseinheiten funktioniert schon gut.",
+          "Sie können beliebige Informationen kurzfristig speichern und auch verarbeiten",
+          "Sie können beliebige Informationen kurzfristig und langfristig speichern, abrufen und miteinander assoziieren"
+        ],
+        "therapist": [
+          "Enkodierung: Informationen werden im Gedächtnis repräsentiert, aber noch nicht (dauerhaft) gespeichert",
+          "(kurzfristiges) Speichern geringer Informationseinheiten",
+          "(kurzfristiges) Speichern umfangreicher Informationseinheiten (mehr als 7+/- 2 Informationseinheiten)",
+          "Beliebige Inhalte/Informationen kurzfristig zu speichern und auch zu verarbeiten",
+          "Konsolidierung/Speichern: beliebige Inhalte/Informationen kurzfristig und langfristig zu speichern, abzurufen und miteinander zu assoziieren"
+        ]
+      }
+    },
+    {
+      "area": "kognition",
+      "categoryID": "kognition-1",
+      "categoryString": "Wahrnehmung",
+      "category_description": "Hier wird Ihre  Wahrnehmung trainiert.",
+      "color": "B85397",
+      "level_descriptions": {
+        "patient": [
+          "Das Wahrnehmen von Informationen funktioniert",
+          "Die Aufnahme und Verarbeitung von Informationen über die Augen funktioniert",
+          "Sie können unterschiedliche Reize differenzierte wahrnehmen und diese verarbeiten",
+          "Sie können Veränderungen von Information wahrnehmen und diese verarbeiten",
+          "Sie können Informationen über alle Sinne aufnehmen, so wie sinnvoll und bedeutsam verarbeiten"
+        ],
+        "therapist": [
+          "Informationen/Reize als diese wahrzunehmen/aufzunehmen",
+          "Informationen/Reize über die Augen aufzunehmen und diese zu verarbeiten",
+          "differenziertes Wahrnehmen unterschiedlicher Reize (auditiv, visuell) und diese verarbeiten zu können",
+          "Veränderungen von Information/räumliche Vorstellung von Objekten wahrzunehmen und diese zu verarbeiten",
+          "Informationen über unsere Sinne aufnehmen und diese sinnvoll und bedeutsam zu verarbeiten"
+        ]
+      }
+    },
+    {
+      "area": "kognition",
+      "categoryID": "kognition-4",
+      "categoryString": "Zahlen und Rechnen",
+      "category_description": "Hier werden Ihre Rechenfertigkeiten trainiert.",
+      "color": "D7558B",
+      "level_descriptions": {
+        "patient": [
+          "Sie haben ein Verständnis von Zahleigenschaften",
+          "Sie haben ein Zahlenverständnis in kleinen Zahlräumen ",
+          "Sie besitzen ein Zahlen- und Mengenverständnis in großen Zahlräumen",
+          "Sie beherrschen grundlegende Rechenfertigkeiten",
+          "Sie können mit natürlichen Mengen/Zahlen, deren Wert und Größenordnung ohne Schwierigkeiten umgehen"
+        ],
+        "therapist": [
+          "Verständnis von Zahleigenschaften (z.B. gerade/ungerade)",
+          "Zahlbeziehung in kleinen Zahlräumen",
+          "Zahlbeziehung und Mengenverständnis in großen Zahlräumen",
+          "Beherrschung grundlegender Rechenfertigkeiten: Grundrechnungsarten",
+          "mit natürlichen Mengen/Zahlen, deren Wert und Größenordnung ohne Schwierigkeiten umzugehen"
+        ]
+      }
+    }
+  ],
+  "games": [
+    {
+      "area": "aphasie",
+      "category": "aphasie-1",
+      "code": "d1",
+      "id": "ex_d1_woerter_erkennen_1",
+      "info": "Wählen Sie das Bild, das zum angezeigten Wort passt.",
+      "level_descriptions": [
+        "Schriftlich dargestellte hochfrequente Einsilber mit einfacher Phonemfolge sowie zwei zur Auswahl stehende, zueinander unrelatierte Bilder",
+        "Schriftlich dargestellte hochfrequente Einsilber mit komplexerer Phonemfolge und hochfrequente Zweisilber mit einfacher Phonemfolge, drei zur Auswahl stehende, zueinander unrelatierte Bilder",
+        "Schriftlich dargestellte mittel- bis niederfrequente Ein- und Zweisilber komplexerer Phonemfolge sowie drei zur Auswahl stehende Bilder, von denen eines einen semantischen oder phonematischen Albenker zur Zielform darstellt",
+        "Schriftlich dargestellte mittelfrequente Dreisilber mit komplexer Phonemfolge sowie vier zur Auswahl stehende Bilder, von denen eines einen semantischen oder phonematischen Distraktoren darstellt",
+        "Schriftlich dargestellte niederfrequente Vier- oder Mehrsilber komplexer Phonemfolge sowie vier zur Auswahl stehende Bilder, von denen eines einen semantischen und eines einen phonematischen Distraktoren darstellt"
+      ],
+      "levels": 5,
+      "name": "Wörter erkennen I"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-1",
+      "code": "d2",
+      "id": "ex_d2_woerter_erkennen_2",
+      "info": "Finden Sie das passende Wort zu einem Bild.",
+      "level_descriptions": [
+        "Ein Bild sowie zwei schriftlich dargestellte hochfrequente, unrelatierte Einsilber",
+        "Ein Bild sowie zwei schriftlich dargestellte hochfrequente, unrelatierte Zweisilber",
+        "Ein Bild sowie drei schriftlich dargestellte Zweisilber, von denen einer einen semantischen oder phonematischen Distraktoren darstellt",
+        "Ein Bild sowie vier schriftlich dargestellte niederfrequente Zweisilber und Dreisilber, von denen einer einen semantischen oder phonematischen Distraktoren darstellt",
+        "Ein Bild sowie vier schriftlich dargestellte niederfrequente Vier- oder Mehrsilber, von denen einer einen semantischen und einer einen phonematischen Distraktoren darstellt"
+      ],
+      "levels": 5,
+      "name": "Wörter erkennen II"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-1",
+      "code": "d3",
+      "id": "ex_d3_woerter_ausschliessen",
+      "info": "Finden Sie den Begriff, der nicht zu den anderen passt.",
+      "level_descriptions": [
+        "Drei verschriftlichte hochfrequente Einsilber, von denen zwei relatiert sind",
+        "Drei verschriftlichte hochfrequente Zweisilber, von denen zwei relatiert sind",
+        "Vier verschriftlichte hoch- bis mittelfrequente Zwei- bis Dreisilber, von denen drei relatiert sind.",
+        "Vier verschriftlichte hoch- bis mittelfrequente Ein- bis Mehrsilber, von denen drei relatiert sind und das auszuschließende Wort einen semantischen Distraktoren darstellt",
+        "Vier verschriftlichte niederfrequente Drei- bis Mehrsilber, von denen drei relatiert sind und das auszuschließende Wort einen semantischen Distraktoren darstellt"
+      ],
+      "levels": 5,
+      "name": "Wörter ausschließen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-1",
+      "code": "d4",
+      "id": "ex_d4_woerter_ergaenzen",
+      "info": "Finden Sie den Begriff, der besser zum Wort passt.",
+      "level_descriptions": [
+        "Ein schriftliches hoch- bis mittelfrequentes, einsilbiges Nomen sowie zwei schriftliche Verben mit hohem semantischen Kontrast zur Auswahl",
+        "Ein schriftliches hoch- bis mittelfrequentes, zweisilbiges Nomen sowie zwei schriftliche Verben mit hohem semantischen Kontrast zur Auswahl",
+        "Ein schriftliches hoch- bis mittelfrequentes, dreisilbiges Nomen sowie zwei schriftliche Verben mit hohem semantischen Kontrast zur Auswahl ",
+        "Ein hoch- bis mittelfrequentes, ein- bis mehrsilbiges Nomen sowie drei Antwortmöglichkeiten, von denen zwei semantische oder phonematische Ähnlichkeit haben",
+        "Ein niederfrequentes drei- oder mehrsilbiges Nomen sowie vier Antwortmöglichkeiten, von denen mindestens zwei semantische oder phonematische Ähnlichkeit haben"
+      ],
+      "levels": 5,
+      "name": "Wörter ergänzen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-1",
+      "code": "d5",
+      "id": "ex_d5_saetze_ergaenzen",
+      "info": "Vervollständigen Sie den Satz mit dem Begriff, der am besten passt.",
+      "level_descriptions": [
+        "Morphosyntaktisch simple Sätze aus maximal fünf Wörtern mit zu ergänzendem Wort am Satzende, zwei voneinander unrelatierte Antworten in Form von Wörtern mit bis zu zwei Silben",
+        "Morphosyntaktisch simple Sätze aus maximal fünf Wörtern mit zu ergänzendem Wort am Satzende, zwei vomeinander unrelatierte Antworten in Form von Wörtern mit bis zu drei Silben",
+        "Morphosyntaktisch komplexere Sätze aus maximal sechs Wörtern mit wortmedial oder -final zu ergänzendem Wort, drei Antwortmöglichkeiten, von denen zwei semantisch oder phonematisch relatiert sind",
+        "Morphosyntaktisch komplexere Sätze mit vereinzelt mehr als sechs Wörtern jeglicher Silbenzahl mit wortinital, -medial oder -final fehlendem Wort, vier Antwortmöglichkeiten mit semantischer oder phonematischer Ähnlichkeit",
+        "Morphosyntaktisch komplexe Sätze aus mindestens sechs Wörtern jeglicher Silbenzahl mit wortinital, -medial- oder final fehlendem Wort, vier Antwortmöglichkeiten mit semantischer oder phonematischer Ähnlichkeit"
+      ],
+      "levels": 5,
+      "name": "Sätze ergänzen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-1",
+      "code": "d6",
+      "id": "ex_d6_saetze_erkennen",
+      "info": "Wählen Sie das Bild, das zum angezeigten Satz passt.",
+      "level_descriptions": [
+        "Ein schriftlich vorgegebener Zweiwortsatz, zwei voneinander unrelatierte Bilder zur Auswahl",
+        "Ein schriftlich vorgegebener Satz mit maximal vier Wörtern, zwei voneinander unrelatierte Bilder zur Auswahl",
+        "Ein schriftlich vorgegebener Satz mit vier bis sechs Wörtern, drei voneinander unrelatierte Bilder zur Auswahl",
+        "Ein schriftlich vorgegebener Satz mit mindestens sechs Wörtern, vier Bilder zur Auswahl, von denen eines einen semantiscen oder phonematischen Distraktorenzum Zielbild darstellt",
+        "Ein schriftlich vorgegebener Satz mit mindestens acht Wörtern, vier Bilder zur Auswahl, von denen eines einen phonematisch und eines einen semantischen Distraktorenzum Zielbild darstellt"
+      ],
+      "levels": 5,
+      "name": "Sätze erkennen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-1",
+      "code": "d7",
+      "id": "ex_d7_handlungen_reihen",
+      "info": "Bringen Sie die Handlung in die richtige Reihenfolge.",
+      "level_descriptions": [
+        "Drei verschriftlichte einfache, alltagsnahe Handlungsschritte mit maximal vier Wörtern pro Satz und Vorgabe des ersten Schritts",
+        "Drei verschriftlichte einfache, alltagsnahe Handlungsschritte mit maximal vier Wörtern pro Satz ohne Vorgabe des ersten Schritts",
+        "Vier verschriftlichte längere, alltagsnahe Handlungsschritte mit Vorgabe des ersten Schritts",
+        "Vier verschriftlichte längere, alltagsnahe Handlungsschritte ohne Vorgabe des ersten Schritts",
+        "Bis zu fünf verschriftlichte Handlungsschritte ohne Vorgabe des ersten Schritts"
+      ],
+      "levels": 5,
+      "name": "Handlungen reihen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-1",
+      "code": "d8",
+      "id": "ex_d8_situation_verstehen",
+      "info": "Wählen Sie aus, ob die Situation erfreulich ist oder nicht.",
+      "level_descriptions": [
+        "Alltagsnahe, simple erfreuliche oder unerfreuliche Phrase aus maximal vier kurzen Wörtern mit markiertem Signalwort.",
+        "Alltagsnahe, komplexere erfreuliche oder unerfreuliche Phrase aus maximal fünf Wörtern mit markiertem Signalwort",
+        "Abstrakte erfreuliche oder unerfreuliche Phrase aus maximal fünf Wörtern mit markiertem Signalwort bei Nachfrage",
+        "Abstrakte erfreuliche oder unerfreuliche Phrase aus vier bis sechs Wörtern mit markiertem Signalwort bei Nachfrage",
+        "Abstrakte erfreuliche oder unerfreuliche Phrase aus mindestens sieben Wörtern ohne Singalwort"
+      ],
+      "levels": 5,
+      "name": "Situationen erkennen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-2",
+      "code": "a3",
+      "id": "ex_a3_woerter_nachsprechen",
+      "info": "Hören Sie sich ein Wort an und sprechen Sie es dann nach.",
+      "level_descriptions": [
+        "Hochfrequente Einsilber mit einfacher Phonemfolge",
+        "Hochfrequente Ein- und Zweisilber mit einfacher Phonemfolge",
+        "Hoch- bis mittelfrequente Ein- und Zweisilber mit komplexerer Phonemfolge (Konsonantencluster)",
+        "Mittelfrequente Zwei- bis Dreisilber mit komplexerer Phonemfolge (Konsonantencluster)",
+        "Mittel- bis niederfrequente Viersilber (oder mehr) mit komplexerer Phonemfolge (Konsonantencluster)"
+      ],
+      "levels": 5,
+      "name": "Wörter nachsprechen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-2",
+      "code": "a4",
+      "id": "ex_a4_satze_nachsprechen",
+      "info": "Hören Sie sich einen Satz an und sprechen Sie ihn dann nach.",
+      "level_descriptions": [
+        "Morphosyntaktisch simple Subjekt-Verb-Sätze in Deklarativform",
+        "Morphosyntaktisch simple Subjekt-Verb-Objekt Sätze in Deklarativform",
+        "Morphosyntaktisch komplexere Hauptsätze in Deklarativ-, Interrogativ- und Imperativform",
+        "Morphosyntaktisch komplexere Haupt- und Nebensätze in Deklarativ-, Interrogativ- und Imperativform in allen Tempora",
+        "Längere morphosyntaktisch komplexe Haupt- und Nebensätze in Deklarativ-, Interrogativ- und Imperativform in allen Tempora"
+      ],
+      "levels": 5,
+      "name": "Sätze nachsprechen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-3",
+      "code": "c1",
+      "id": "ex_c1_woerter_lesen",
+      "info": "Lesen Sie den Begriff und sprechen Sie ihn dann laut nach.",
+      "level_descriptions": [
+        "Hochfrequente Einsilber mit ausgewählten Phonemen und einfacher Phonemfolge",
+        "Hochfrequente Ein- und Zweisilber mit ausgewählten Phonemen und komplexerer Phonemfolge",
+        "Niederfrequentere Ein- und Zweisilber mit allen Phonemen und komplexerer Phonemfolge",
+        "Dreisilber mit allen Phonemen und jeder Phonemfolge",
+        "Viersilber (oder mehr) mit allen Phonemen und jeder Phonemfolge"
+      ],
+      "levels": 5,
+      "name": "Wörter lesen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-3",
+      "code": "c2",
+      "id": "ex_c2_buchstaben_einfuegen",
+      "info": "Vervollständigen Sie ein Wort mit den passenden Buchstaben.",
+      "level_descriptions": [
+        "Hochfrequente Einsilber mit einem wortinital fehlenden Graphem und zwei Antwortmöglichkeiten mit großer phonematischer Distanz ",
+        "Niederfrequente Ein- und hochfrequente Zweisilber mit einem wortinital oder in der betonten Silbe fehlenden Graphem sowie zwei Antwortmöglichkeiten mit großer phonematischer Distanz",
+        "Mittel- bis niederfrequente Zweisilber mit einem wortinital oder in der betonten Silbe fehlenden Graphem sowie drei Antwortmöglichkeiten mit geringerer phonematischer Distanz",
+        "Dreisilber mit zwei wortinital, -medial oder -final fehlenden Graphemen sowie vier Antwortmöglichkeiten mit geringerer phonematischer Distanz",
+        "Dreisilber mit zwei wortinital, -medial oder -final fehlenden Graphemen sowie fünf Antwortmöglichkeiten mit geringer phonematischer Distanz"
+      ],
+      "levels": 5,
+      "name": "Buchstaben einfügen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-3",
+      "code": "c3",
+      "id": "ex_c3_woerter_legen",
+      "info": "Schreiben Sie das gesuchte Wort mit den gegebenen Buchstaben.",
+      "level_descriptions": [
+        "Bildlich dargestellte kurze Einsilber mit wortinital vorgegebenem Graphem und bis zu drei zu ergänzenden Graphemen",
+        "Bildlich dargestellte längere Einsilber oder kurze Zweisilber mit wortinital vorgegebenem Graphem und bis zu vier zu ergänzenden Graphemen",
+        "Bildlich dargestellte längere Zweisilber mit wortinital vorgegebenem Graphem und bis zu 6 zu ergänzenden Graphemen",
+        "Bildlich dargestellte längere Zweisilber oder Dreisilber mit wortinital vorgegebenem Graphem und mehr als 6 zu ergänzenden Graphemen sowie einem zusätzlichen nicht benötigtem Graphem",
+        "Bildlich dargestellte längere Dreisilber oder Viersilber mit wortinital vorgegebenem Graphem und mehr als 8 zu ergänzenden Graphemen sowie zwei zusätzlichen nicht benötigten Graphemen"
+      ],
+      "levels": 5,
+      "name": "Wörter legen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-3",
+      "code": "c4",
+      "id": "ex_c4_saetze_lesen",
+      "info": "Lesen Sie den Satz und sprechen Sie ihn dann laut nach.",
+      "level_descriptions": [
+        "Schriftlich präsentierte Subjekt-Verb Sätze in Deklarativform",
+        "Schriftlich präsentierte kurze Subjekt-Verb-Objekt Deklarativsätze im Präsens",
+        "Schriftlich präsentierte Subjekt-Verb-Objekt Sätze aus 4 bis 5 Wörtern in der Deklarativ-, Interrogativ-, Imperativ-, Exklarativ- oder Desiderativform im Präsens",
+        "Schriftlich präsentierte Sätze aus 6 bis 8 Wörtern jeglicher Satz- und Zeitform",
+        "Schriftlich präsentierte lange Sätze aus mindestens 8 Wörtern jeglicher Satz- und Zeitform mit Nebensätzen"
+      ],
+      "levels": 5,
+      "name": "Sätze lesen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-3",
+      "code": "c5",
+      "id": "ex_c5_saetze_legen",
+      "info": "Schieben Sie Satzteile in die richtige Reihenfolge, um ein Bild zu beschreiben.",
+      "level_descriptions": [
+        "Zwei- bis maximal Dreiwortsätze (S-V bzw. S-V-O) im Präsens",
+        "Sätze mit bis zu 5 Wörtern (S-V-O/A) im Präsens",
+        "Sätze mit bis zu 8 Wörtern (S-V-O/S-V-A) im Präsens",
+        "Sätze mit bis zu 13 Wörtern (S-V-O/S-V-A) im Präsens, Präteritum/Perfekt, Futur, maximal 4 mehrsilbige in Silben geteilt präsentiert (hauptsächlicn Inhaltwörter)",
+        "Sätze mit bis zu 13 Wörtern (S-V-O/S-V-A) im Präsens, Präteritum/Perfekt, Futur, alle mehrsilbigen Wörter werden in Silben geteilt präsentiert"
+      ],
+      "levels": 5,
+      "name": "Sätze legen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-3",
+      "code": "c6",
+      "id": "ex_c6_texte_ergaenzen",
+      "info": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+      "level_descriptions": [
+        "Wissenstexte mit kurzen Sätzen (etwa 6 Wörter / Satz), 5 Lücken, 100 Wörtern und LIX von ungefähr 25.",
+        "Wissenstexte mit kurzen Sätzen (etwa 7 Wörter / Satz), 7 Lücken, 120 Wörtern und LIX von ungefähr 35.",
+        "Wissenstexte mit mittel-langen Sätzen (etwa 8 Wörter / Satz), 9 Lücken, 150 Wörtern und LIX von ungefähr 40.",
+        "Wissenstexte mit längeren Sätzen (etwa 10 Wörter / Satz), 10 Lücken, 200 Wörtern und LIX von ungefähr 45.",
+        "Wissenstexte mit komplexen Sätzen (etwa 12 Wörter / Satz), 12 Lücken, 240 Wörtern und LIX von ungefähr 55."
+      ],
+      "levels": 5,
+      "name": "Texte ergänzen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-4",
+      "code": "e1",
+      "id": "ex_e1_laute_verstehen_1",
+      "info": "Wählen Sie aus, welchen Laut Sie gehört haben.",
+      "level_descriptions": [
+        "Ein auditiv vorgegebener Vokal oder Konsonant sowie zwei schriftlich abgebildete Laute mit hohem Kontrast zum Ziellaut",
+        "Ein auditiv vorgegebener Vokal oder Konsonant sowie drei schriftlich abgebildete Laute, die zum Teil Ähnlichkeit zum Ziellaut haben",
+        "Ein auditiv vorgegebener Vokal oder Konsonant sowie drei schriftlich abgebildete Laute, die vermehrt Ähnlichkeit zum Ziellaut haben",
+        "Ein auditiv vorgegebener Vokal oder Konsonant sowie fünf schriftlich abgebildete Laute, die zum Teil Ähnlichkeit zum Ziellaut haben",
+        "Ein auditiv vorgegebener Vokal oder Konsonant sowie sieben schriftlich abgebildete Laute, die zum Teil Ähnlichkeit zum Ziellaut haben"
+      ],
+      "levels": 5,
+      "name": "Laute verstehen I"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-4",
+      "code": "e2",
+      "id": "ex_e2_laute_verstehen_2",
+      "info": "Wählen Sie das Wort aus, das mit dem gesuchten Laut beginnt.",
+      "level_descriptions": [
+        "Auditive Vorgabe eines Ziellautes sowie Auswahl zwischen zwei bildlich dargestellten Einsilbern, die den Ziellaut an wortinitialer Stelle haben, keine Konsonantencluster beinhalten und sich in der Artikulationszone der Initallaute maximal unterscheiden",
+        "Auditive Vorgabe eines Ziellautes sowie Auswahl zwischen zwei bildlich dargestellen Ein- und Zweisilbern, die den Ziellaut an wortinitaler Stelle haben, bereits Konsonantencluster beinhalten und sich in der Artikulationszone desr Initallaute maximal unterscheiden",
+        "Auditive Vorgabe eines Ziellautes sowie Auswahl zwischen zwei bildlich dargestellten Mehrsilbern, die den Ziellaut an wortinitaler Stelle haben und sich in der Artikulationszone der Initiallaute geringer unterscheiden",
+        "Auditive Vorgabe eines Ziellautes sowie Auswahl zwischen zwei bildlich dargestellten Mehrsilbern, die den Ziellaut an wortinitaler Stelle haben und sich in der Artikulationszone der Initiallaute minimal unterscheiden",
+        "Auditive Vorgabe eines Ziellautes sowie Auswahl zwischen zwei bildlich dargestellten Mehrsilbern, die den Zeillaut an wortinitaler Stelle haben und sich in der Artikulationszone der Initiallaute stark ähneln"
+      ],
+      "levels": 5,
+      "name": "Laute verstehen II"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-4",
+      "code": "e3",
+      "id": "ex_e3_woerter_verstehen",
+      "info": "Hören Sie sich ein Wort an und wählen Sie dann das dazu passende Bild aus.",
+      "level_descriptions": [
+        "Auswahl zwischen 2 Bildern (Ein- bis Zweisilber), unrelatierte, semantisch und phonematisch entfernte Gegenstände, Antwortmöglichkeiten (möglichst ohne Überschneidung bei Initiallaut, Länge oder Vokale)",
+        "Auswahl zwischen 3 Bildern (Ein- bis Zweisilber), unrelatierte, semantisch und phonematisch entfernte Gegenstände, Antwortmöglichkeiten möglichst ohne Überschneidung bei Initiallaut",
+        "Auswahl zwischen 3 Bildern (Ein- bis Dreisilber), 1 Distraktor (d.h. eine Antwort zum Zielwort semantisch oder phonematisch ähnlich)",
+        "Auswahl zwischen 4 Bildern (Ein- bis Dreisilber), 1 Distraktor (d.h. eine Antwort zum Zielwort semantisch oder phonematisch ähnlich); nicht 1 Wort, das zugleich phonematischer und semantischer Distraktor ist; nicht mehrere Worte mit gleichem Anfangsbuchstaben",
+        "Auswahl zwischen 4 Bildern (alle Wortlängen), 2 Distraktoren (1 Zielitem, 1 phonematisch, 1 semantisch, 1 unrelatiert)"
+      ],
+      "levels": 5,
+      "name": "Wörter verstehen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-4",
+      "code": "e4",
+      "id": "ex_e4_objekte_ausschliessen",
+      "info": "Wählen Sie das Objekt, das nicht zu den anderen passt.",
+      "level_descriptions": [
+        "Ein- und Zweisilber, ein unrelatiertes Wort, insgesamt maximal 3 Bilder",
+        "Dreisilber, ein unrelatiertes Wort, insgesamt maximal 3 Bilder ",
+        "Viersilber, ein unrelatiertes Wort insgesamt maximal 4 Bilder",
+        "Ein- und Zweisilber, ein unrelatiertes Wort (jedoch semantisch ähnlicher zu den anderen Wörtern als in den Levels davor), insgesamt 4 Bilder",
+        "Drei- und Viersilber, ein unrelatiertes Wort (jedoch semantisch ähnlicher zu den anderen Wörtern als in den Levels davor), ingesamt 4 Bilder"
+      ],
+      "levels": 5,
+      "name": "Objekte ausschließen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-4",
+      "code": "e5",
+      "id": "ex_e5_taetigkeiten_verstehen_1",
+      "info": "Hören Sie sich eine Tätigkeit an und wählen Sie dann das dazu passende Bild aus.",
+      "level_descriptions": [
+        "Auswahl zwischen zwei Tätigkeiten (unrelatiert, maximal Zweisilber, hochfrequent und eher konkret)",
+        "Auswahl zwischen drei Tätigkeiten (unrelatiert; auch abstraktere Verben, alle Silbenanzahlen)",
+        "Auswahl zwischen drei Tätigkeiten, unter Antwortmöglichkeiten ein semantischer oder phonematischer Ablenker",
+        "Auswahl zwischen vier Tätigkeiten (unter Antwortmöglichkeiten ein semantischer oder phonematischer Ablenker; auch trennbare Verben)",
+        "Auswahl zwischen vier Tätigkeiten (unter Antwortmöglichkeiten ein semantischer, ein phonematischer Distraktor und eine unrelatierte Tätigkeit; auch trennbare Verben; auch Nomen-Verb-Verbindung)"
+      ],
+      "levels": 5,
+      "name": "Tätigkeiten verstehen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-4",
+      "code": "e6",
+      "id": "ex_e6_taetigkeiten_verstehen_2",
+      "info": "Hören Sie sich einen Satz an und wählen Sie dann das dazu passende Bild aus.",
+      "level_descriptions": [
+        "Auswahl zwischen zwei Bildern (unrelatiert, S-V-Sätze oder S-V-O Sätze, maximal 3 Wörter, meist nur Ein- und Zweisilber)",
+        "Auswahl zwischen 2 Bildern (unrelatiert; S-V-O-Sätze, meist mehr als 3 Wörter, bereits teilbare Verben, Passiv, bereits mehr als Zweisilber)",
+        "Auswahl zwischen 3 Bildern (ein semantischer oder phonematischer Ablenker, meist mehr als 4 Wörter)",
+        "Auswahl zwischen 4 Bildern (ein semantischer oder phonematischer Ablenker; meist mehr als 5 Wörter; Sätze auch in Vergangenheit und Futur)",
+        "Auswahl zwischen 4 Bildern (ein semantischer, ein phonematischer Distraktor und eine unrelatierte Tätigkeiten; meist mehr als 7 Wörter; alle Satzarten)"
+      ],
+      "levels": 5,
+      "name": "Tätigkeiten verstehen II"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-4",
+      "code": "e7",
+      "id": "ex_e7_farben_erkennen",
+      "info": "Hören Sie sich den Namen einer Farbe an und wählen Sie die Farbe dann korrekt aus.",
+      "level_descriptions": [
+        "Auswahl zwischen zwei Farben mit hohem Kontrast",
+        "Auswahl zwischen drei Farben mit möglichst hohem Kontrast",
+        "Auswahl zwischen vier Farben, davon eine ähnlich der Zielfarbe",
+        "Auswahl zwischen zwei Bildern mit Objekten in einer eindeutigen Farbe",
+        "Auswahl zwischen vier Bildern mit Objekten in einer eindeutigen Farbe"
+      ],
+      "levels": 5,
+      "name": "Farben erkennen"
+    },
+    {
+      "area": "aphasie",
+      "category": "aphasie-4",
+      "code": "e8",
+      "id": "ex_e8_situation_verstehen",
+      "info": "Wählen Sie aus, ob die Situation erfreulich ist oder nicht.",
+      "level_descriptions": [
+        "Hochfrequente, einfache Inhalte, maximal 4 Wörter pro Phrase, eher kurze Wörter",
+        "Hochfrequente komplexere Inhalte, maximal 5 Wörter pro Phrase, längere Wörter",
+        "Mittelkomplexe Inhalte, maximal 5 Wörter pro Phrase, längere Wörter",
+        "Mittelkomplexe Inhalte,mindestens 4, maximal 6 Wörter pro Phrase, längere Wörter",
+        "Komplexe Inhalte, mindestens 7 Wörter"
+      ],
+      "levels": 5,
+      "name": "Situationen verstehen"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-0",
+      "code": "y1",
+      "id": "ex_y1_fische_richtung",
+      "info": "Geben Sie an, in welche Richtung der mittlere Fisch zeigt.",
+      "level_descriptions": [
+        "Selektive Aufmerksamkeit: 1 Zielreiz, 4 einfache Distraktoren, Reiz auf 2 von 4 Antwortmöglichkeiten beschränkt",
+        "Selektive Aufmerksamkeit: 1 Zielreiz, 4 einfache Distraktoren, Reiz auf 3 von 4 Antwortmöglichkeiten beschränkt",
+        "Selektive Aufmerksamkeit: 1 Zielreiz, 4 mittelschwere Distraktoren, 4 von 4 Antwortmöglichkeiten.",
+        "Selektive Aufmerksamkeit:  1 Zielreiz, 4 schwierige Distraktoren, 4 von 4 Antwortmöglichkeiten",
+        "Selektive Aufmerksamkeit: 1 Zielreiz, 4 komplexe Distraktoren, 4 von 4 Antwortmöglichkeiten"
+      ],
+      "levels": 5,
+      "name": "Pfeilfische"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-0",
+      "code": "y2",
+      "id": "ex_y2_einzigartiges_objekt",
+      "info": "Finden Sie das Objekt, das es nur einmal gibt.",
+      "level_descriptions": [
+        "Selektive Aufmerksamkeit: 1 Zielobjekt, 6 Distraktoren, Differenzierung: Farbe und Form ",
+        "Selektive Aufmerksamkeit: 1 Zielobjekt, 6 Distraktoren, Differenzierung: Farbe oder Form ",
+        "Selektive Aufmerksamkeit: 1 Zielobjekt, 8 Distraktoren, Differenzierung: Farbe, Form oder Muster ",
+        "Selektive Aufmerksamkeit: 1 Zielobjekt, 10 Distraktoren, Zielreiz ähnelt in Farbe/Form oder Muster den Distraktoren ",
+        "Selektive Aufmerksamkeit: 1 Zielobjekt, 13 Distraktoren, Zielreiz ähnelt in Farbe/Form und Muster den Distraktoren "
+      ],
+      "levels": 5,
+      "name": "Das ist einzigartig!"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-0",
+      "code": "y3",
+      "id": "ex_y3_fotosafari",
+      "info": "Gehen Sie auf Safari und fotografieren Sie das gesuchte Tier.",
+      "level_descriptions": [
+        "Selektive Aufmerksamkeit: Distraktoren und Zielobjekte werden nicht gleichzeitig präsentiert, langsame Objektgeschwindigkeit,\nMerkfähigkeit: 1 gesuchtes Zielobjekt",
+        "Selektive Aufmerksamkeit: Distraktoren und Zielobjekte werden nicht gleichzeitig präsentiert, mäßige Objektgeschwindigkeit\nMerkfähigkeit: 1 gesuchtes Zielobjekt",
+        "Selektive Aufmerksamkeit: Distraktoren und Zielobjekte werden gleichzeitig präsentiert (=maximal 2 Objekte im Gesichtsfeld), mäßige Objektgeschwindigkeit\nMerkfähigkeit: 1 gesuchtes Zielobjekt",
+        "Selektive Aufmerksamkeit: Distraktoren und Zielobjekte werden gleichzeitig präsentiert (=maximal 2 Objekte im Gesichtsfeld), mittlere Objektgeschwindigkeit\nMerkfähigkeit: 2 gesuchte Zielobjekte",
+        "Selektive Aufmerksamkeit: Distraktoren und Zielobjekte werden gleichzeitig präsentiert (=maximal 3 Objekte im Gesichtsfeld), schnelle Objektgeschwindigkeit \nMerkfähigkeit: 2 gesuchte Zielobjekte"
+      ],
+      "levels": 5,
+      "name": "Fotosafari"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-0",
+      "code": "y4",
+      "id": "ex_y4_muster_merken",
+      "info": "Geben Sie an, ob das aktuelle Objekt gleich aussieht wie das davor.",
+      "level_descriptions": [
+        "Verarbeitungsgeschwindigkeit: 1-back-task, 1 präsentierter Zielreiz im Gesichtsfeld,\nDifferenzierung der Zielreize in Farbe und Symbol",
+        "Verarbeitungsgeschwindigkeit: 1-back-task, 1 präsentierter Zielreiz im Gesichtsfeld, Differenzierung der Zielreize in Farbe und/oder Symbol ",
+        "Verarbeitungsgeschwindigkeit: 1-back-task, 1 präsentierter Zielreiz im Gesichtsfeld,\nDifferenzierung der Zielreize in Farbe und/oder Symbol und/oder Muster ",
+        "Verarbeitungsgeschwindigkeit: 1-back-task, 1 präsentierter Zielreiz im Gesichtsfeld,\nÄhnlichkeit der Zielreize in 1/3 der Attribute: Form/Farbe/Muster ",
+        "Verarbeitungsgeschwindigkeit: 1-back-task, 1 präsentierter Zielreiz im Gesichtsfeld,\n Ähnlichkeit der Zielreize in 2/3 der Attribute: Form/Farbe/Muster "
+      ],
+      "levels": 5,
+      "name": "Muster merken"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-0",
+      "code": "y5",
+      "id": "ex_y5_gespenster",
+      "info": "Wenn ein Monster erscheint, verscheuchen Sie es schnell indem Sie rasch auf das Monster tippen.",
+      "level_descriptions": [
+        "Reaktionsfähigkeit: lange Reaktionszeit zur Beantwortung des Zielobjektes, wenig Distraktoren",
+        "Reaktionsfähigkeit: mittlere Reaktionszeit zur Beantwortung des Zielobjektes, wenig Distraktoren",
+        "Reaktionsfähigkeit: mittlere Reaktionszeit zur Beantwortung des Zielobjektes, wenig Distraktoren ",
+        "Reaktionsfähigkeit: kurze Reaktionszeit zur Beantwortung des Zielobjektes, viele Distraktoren",
+        "Reaktionsfähigkeit: sehr kurze Reaktionszeit zur Beantwortung des Zielobjektes, viele Distraktoren"
+      ],
+      "levels": 5,
+      "name": "Monsterjagd"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-3",
+      "code": "w1",
+      "id": "ex_w1_text_farb_bedeutung",
+      "info": "Entscheiden Sie, ob die Bedeutung mit der Farbe des Wortes übereinstimmt.",
+      "level_descriptions": [
+        "Kognitive Flexibilität: 1 zielgerichtete Handlung ausführen, 3 Farbmöglichkeiten",
+        "Kognitive Flexibilität: 1 zielgerichtete Handlung ausführen, 5 Farbmöglichkeiten",
+        "Kognitive Flexibilität: 1 zielgerichtete Handlung ausführen, 9 Farbmöglichkeiten",
+        "Kognitive Flexibilität: 2 zielgerichtete Handlungen ausführen, 5 Farbmöglichkeiten",
+        "Kognitive Flexibilität: 2 zielgerichtete Handlungen ausführen, 9 Farbmöglichkeiten"
+      ],
+      "levels": 5,
+      "name": "Textfarbe"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-3",
+      "code": "w2",
+      "id": "ex_w2_gerade_zahlen_und_vokale",
+      "info": "Entscheiden Sie, ob die Zahl gerade oder der Buchstabe ein Vokal (=Selbstlaut) ist.",
+      "level_descriptions": [
+        "Kognitive Flexibilität: 1 zielgerichtete Handlung ausführen = gerade/ungerade Zahl, Zahlenraum 0-9",
+        "Kognitive Flexibilität: 1 zielgerichtete Handlung ausführen = Vokal/ kein Vokal, Alphabet: A-Z ",
+        "Kognitive Flexibilität: 2 zielgerichtete Handlungen ausführen = gerade/ungerade Zahl oder Vokal/ kein Vokal",
+        "Kognitive Flexibilität: 2 zielgerichtete Handlungen ausführen = gerade/ungerade Zahl oder Vokal/ kein Vokal, Präsentation von Distraktoren",
+        "Kognitive Flexibilität: 2 zielgerichtete Handlungen ausführen = gerade/ungerade Zahl oder Vokal/ kein Vokal, Präsentation von Distraktoren (Zahl + Buchstabe gemischt) "
+      ],
+      "levels": 5,
+      "name": "Gerade Zahlen und Vokale"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-3",
+      "code": "w3",
+      "id": "ex_w3_quallen",
+      "info": "Entscheiden Sie anhand der Farbe, in welche Richtung die Quallen zeigen (Orange) oder schwimmen (Rot).",
+      "level_descriptions": [
+        "Kognitive Flexibilität: Hinweisreiz vorhanden, sehr lange Zeitspanne zur Beantwortung des Zielobjektes ",
+        "Kognitive Flexibilität: Hinweisreiz vorhanden, lange Zeitspanne zur Beantwortung des Zielobjektes ",
+        "Kognitive Flexibilität: Kein Hinweisreiz vorhanden, kurze Zeitspanne zur Beantwortung des Zielobjektes",
+        "Kognitive Flexibilität: Kein Hinweisreiz vorhanden, sehr kurze Zeitspanne zur Beantwortung des Zielobjektes ",
+        "Kognitive Flexibilität: Kein Hinweisreiz vorhanden, schneller Wechsel zwischen den Zielobjekten, sehr kurze Zeitspanne zur Beantwortung des Zielobjektes"
+      ],
+      "levels": 5,
+      "name": "Folge den Quallen"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-3",
+      "code": "w4",
+      "id": "ex_w4_shape_matching",
+      "info": "Verbinden Sie Symbole mit Zahlen.",
+      "level_descriptions": [
+        "Kognitive Flexibilität: 4 zu verarbeitende Symbole, Differenzierung der Zielreize in Farbe und Symbol",
+        "Kognitive Flexibilität: 5 zu verarbeitende Symbole, Differenzierung der Zielreize in Farbe und/oder Symbol",
+        "Kognitive Flexibilität: 6 zu verarbeitende Symbole, Differenzierung der Zielreize in Farbe und/oder Symbol und/oder Muster",
+        "Kognitive Flexibilität: 8 zu verarbeitende Symbole, Ähnlichkeit der Zielreiz in Farbe/Form oder Muster",
+        "Kognitive Flexibilität: 10 zu verarbeitende Symbole, Ähnlichkeit der Zielreiz in Farbe/Form und Muster"
+      ],
+      "levels": 5,
+      "name": "Figuren Abgleich"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-2",
+      "code": "x1",
+      "id": "ex_x1_muster_nachzeichnen",
+      "info": "Merken Sie sich das Muster und zeichnen Sie es genau nach.",
+      "level_descriptions": [
+        "Kurzzeitgedächtnis: maximal 3 zu merkende Informationseinheiten aus 9 Antwortmöglichkeiten",
+        "Kurzzeitgedächtnis: maximal 4 zu merkende Informationseinheiten aus 9 Antwortmöglichkeiten, begrenzte Zeitspanne zur Verarbeitung",
+        "Kurzzeitgedächtnis: maximal 6 zu merkende Informationseinheiten aus 16 Antwortmöglichkeiten, begrenzte Zeitspanne zur Verarbeitung",
+        "Kurzzeitgedächtnis: maximal 7 zu merkende Informationseinheiten aus 25 Antwortmöglichkeiten, begrenzte Zeitspanne zur Verarbeitung",
+        "Kurzzeitgedächtnis: maximal 9 zu merkende Informationseinheiten aus 36 Antwortmöglichkeiten, begrenzte Zeitspanne zur Verarbeitung"
+      ],
+      "levels": 5,
+      "name": "Muster nachzeichnen"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-2",
+      "code": "x2",
+      "id": "ex_x2_archaeologie",
+      "info": "Finden Sie in jeder Runde einen neuen Gegenstand.",
+      "level_descriptions": [
+        "Kurzzeitgedächtnis: kurzfristiges Erinnern/Wiedererkennen weniger Informationseinheiten, sehr starke Differenzierung der präsentierten Objekte",
+        "Kurzzeitgedächtnis: kurzfristiges Erinnern/Wiedererkennen weniger Informationseinheiten, starke Differenzierung der präsentierten Objekte",
+        "Kurzzeitgedächtnis: kurzfristiges Erinnern/Wiedererkennen mehrerer Informationseinheiten, leichte Differenzierung der präsentierten Objekte",
+        "Kurzzeitgedächtnis: kurzfristiges Erinnern/Wiedererkennen vieler Informationseinheiten, starke Ähnlichkeit der präsentierten Objekte",
+        "Kurzzeitgedächtnis: kurzfristiges Erinnern/Wiedererkennen sehr vieler Informationseinheiten, sehr starke Ähnlichkeit der präsentierten Objekte"
+      ],
+      "levels": 5,
+      "name": "In den Schuhen eines Archäologen"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-2",
+      "code": "x3",
+      "id": "ex_x3_waschstrasse",
+      "info": "Merken Sie sich die Reihenfolge, in der die Autos in die Waschstraße fahren.",
+      "level_descriptions": [
+        "Arbeitsgedächtnis: maximal 6 Informationseinheiten/Runde.",
+        "Arbeitsgedächtnis: maximal 10 Informationseinheiten/Runde.",
+        "Arbeitsgedächtnis: maximal 12 Informationseinheiten/Runde.",
+        "Arbeitsgedächtnis: maximal 16 Informationseinheiten/Runde.",
+        "Arbeitsgedächtnis: maximal 20 Informationseinheiten/Runde."
+      ],
+      "levels": 5,
+      "name": "Waschstraße"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-2",
+      "code": "x4",
+      "id": "ex_x4_gedaechtnisrallye",
+      "info": "Merken Sie sich so viele Wörter wie möglich.",
+      "level_descriptions": [
+        "Kurzzeitgedächtnis: 3 zu merkende Informationseinheiten, verzögertes Wiedererkennen aus 6 Möglichkeiten",
+        "Kurzzeitgedächtnis: 5 zu merkende Informationseinheiten, verzögertes Wiedererkennen aus 10 Möglichkeiten",
+        "Kurzzeitgedächtnis: 6 zu merkende Informationseinheiten, verzögertes Wiedererkennen aus 12 Möglichkeiten",
+        "Kurzzeitgedächtnis: 8 zu merkende Informationseinheiten, verzögertes Wiedererkennen aus 16 Möglichkeiten",
+        "Kurzzeitgedächtnis: 10 zu merkende Informationseinheiten, verzögertes Wiedererkennen aus 20 Möglichkeiten"
+      ],
+      "levels": 5,
+      "name": "Gedächtnisrallye"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-1",
+      "code": "z2",
+      "id": "ex_z2_frosch",
+      "info": "Klicken Sie auf das Blatt, auf dem der Frosch am Ende seiner Reise landen wird.",
+      "level_descriptions": [
+        "Räumliche Orientierung: 2 richtungsbezogene Zielreize, im kleinen Raum = 9 Antwortmöglichkeiten ",
+        "Räumliche Orientierung: 3 richtungsbezogene Zielreize, im kleinen Raum = 16 Antwortmöglichkeiten ",
+        "Räumliche Orientierung: 4 richtungsbezogene Zielreize, im mittelgroßen Raum = 25 Antwortmöglichkeiten",
+        "Räumliche Orientierung: 5 richtungsbezogene Zielreize, im großen Raum = 36 Antwortmöglichkeiten  ",
+        "Räumliche Orientierung: 6 richtungsbezogene Zielreize, im großen Raum = 49 Antwortmöglichkeiten "
+      ],
+      "levels": 5,
+      "name": "Folge dem Frosch!"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-1",
+      "code": "z4",
+      "id": "ex_z4_mentale_rotation",
+      "info": "Finden Sie das Muster in den Antworten wieder.",
+      "level_descriptions": [
+        "Mentale Rotation: Einfache Objekterkennung aus 3 Antwortmöglichkeiten ",
+        "Mentale Rotation: Einfache Objekterkennung aus 4 Antwortmöglichkeiten ",
+        "Mentale Rotation: Schwierige Objekterkennung aus 5 Antwortmöglichkeiten ",
+        "Mentale Rotation: Komplexe Objekterkennung aus 5 Antwortmöglichkeiten ",
+        "Mentale Rotation: Sehr komplexe Objekterkennung aus 5 Antwortmöglichkeiten"
+      ],
+      "levels": 5,
+      "name": "Mentale Rotation!"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-1",
+      "code": "z5",
+      "id": "ex_z5_figuren_zeichnen",
+      "info": "Zeichnen Sie die gefragten Figuren mit Ihrem Finger auf die Leinwand.",
+      "level_descriptions": [
+        "Visuomotorische Koordination: Nachzeichnen sehr einfacher Figuren/Objekte ",
+        "Visuomotorische Koordination: Nachzeichnen einfacher Figuren/Objekte ",
+        "Visuomotorische Koordination: Nachzeichnen komplexer Figuren/Objekte ",
+        "Visuomotorische Koordination: Nachzeichnen sehr komplexer Figuren/Objekte ",
+        "Visuomotorische Koordination: Nachzeichnen vielschichtiger Figuren/Objekte "
+      ],
+      "levels": 5,
+      "name": "Kunstwerk"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-1",
+      "code": "z6",
+      "id": "ex_z6_blaupause",
+      "info": "Zeichnen Sie die gefragten Figuren mit Ihrem Finger auf die Leinwand.",
+      "level_descriptions": [
+        "Visuokonstruktion: Nachzeichnen einfacher geometrischer Figuren bestehend aus max. 4 Seiten, in sich geschlossene Figuren",
+        "Visuokonstruktion: Nachzeichnen einfacher geometrischer Figuren bestehend aus max. 5 Seiten, in sich geschlossene Figuren, Zusatzelemente",
+        "Visuokonstruktion: Nachzeichnen einfacher symmetrischer Figuren bestehend aus 2 Elementen, offene Figuren, Zusatzelemente",
+        "Visuokonstruktion: Nachzeichnen komplexer Figuren bestehend aus mind. 2 Elementen, offene Figuren, mehrere Zusatzelemente",
+        "Visuokonstruktion: Nachzeichnen komplexer Figuren bestehend aus mind. 3 Elementen, offene Figuren, vielschichtige Zusatzelemente, Dreidimensionalität"
+      ],
+      "levels": 5,
+      "name": "Blaupause"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-4",
+      "code": "v1",
+      "id": "ex_v1_werte_vergleichen",
+      "info": "Klicken Sie auf den Wert, der höher ist.",
+      "level_descriptions": [
+        "Zahlenverständnis: ganze Zahlen aus dem Zahlenraum 0-999, keine Rechnungen",
+        "Zahlenverständnis: einziffrige Zahlen, Grundrechnungsarten: Addition/Subtraktion ",
+        "Zahlenverständnis: zweiziffrige Zahlen, Grundrechnungsarten: Addition/Subtraktion ",
+        "Zahlenverständnis: zweiziffrige Zahlen, Grundrechnungsarten: Addition/Subtraktion/Multiplikation/Division\n",
+        "Zahlenverständnis: zweiziffrige Zahlen, Grundrechnungsarten: Addition/Subtraktion/Multiplikation/Division, \nkurzes Zeitintervall zur Beantwortung "
+      ],
+      "levels": 5,
+      "name": "Werte vergleichen"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-4",
+      "code": "v2",
+      "id": "ex_v2_zahlen_reihen",
+      "info": "In dieser Übung sollen Sie Werte der Größe nach ordnen.",
+      "level_descriptions": [
+        "Zahlenverarbeitung: Zahlenraum: 0 bis 10, keine Rechnungen ",
+        "Zahlenverarbeitung: Zahlenraum: -20 bis 20, keine Rechnungen",
+        "Zahlenverarbeitung: Zahlenraum: -20 bis 50, Grundrechnungsarten: Addition/Subtraktion ",
+        "Zahlenverarbeitung: Zahlenraum: -50 bis 99,  Grundrechnungsarten: Addition/Subtraktion/Multiplikation",
+        "Zahlenverarbeitung: Zahlenraum: 0 bis 99, Grundrechnungsarten: Addition/Subtraktion/Multiplikation/Division"
+      ],
+      "levels": 5,
+      "name": "Zahlen reihen"
+    },
+    {
+      "area": "kognition",
+      "category": "kognition-4",
+      "code": "v4",
+      "id": "ex_v4_was_ist_ins_netz_geraten",
+      "info": "Merken Sie sich die Fische, die im Fischernetz gefangen sind.",
+      "level_descriptions": [
+        "Zahlenverarbeitung: Zahlenraum: 0-10, keine Rechnungen ",
+        "Zahlenverarbeitung: Zahlenraum: 0-20, keine Rechnungen",
+        "Zahlenverarbeitung: Zahlenraum: -20 - 50, keine Rechnungen",
+        "Zahlenverarbeitung: Zahlenraum: -20 - 50, Rechnungen vorhanden, Grundrechnungsarten: Plus/Minus",
+        "Zahlenverarbeitung: Zahlenraum: -20- 50, Rechnungen vorhanden, Grundrechnungsarten: Plus/Minus/Multiplikation/Division"
+      ],
+      "levels": 5,
+      "name": "Was ist ins Netz geraten?"
+    }
+  ]
+}

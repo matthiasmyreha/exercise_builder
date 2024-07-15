@@ -1,0 +1,3411 @@
+{
+    "code": "z5",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "draw",
+        "exercise_type": "predefined",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": false,
+        "should_skip_to_next": "never"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_airplane",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bird",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bucket",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bush",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_candle",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_carrot",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_chair",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_circle",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cloud",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_crown",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_diamond",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_apple",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_donut",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_door",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex21",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_envelope",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex22",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_eraser",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex23",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_face",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex24",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_finger",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex25",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_fish",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex26",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_flower",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex27",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_fork",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex28",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_grass",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex29",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_arm",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hand",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex30",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_house",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex31",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_leg",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex32",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_lightning",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex33",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_line",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex34",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_moon",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex35",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_moustache",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex36",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_mouth",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex37",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_ocean",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex38",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_palm_tree",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex39",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_banana",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pants",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex40",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_peas",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex41",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pencil",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex42",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_potato",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex43",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_rain",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex44",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_rainbow",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex45",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_snowman",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex46",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_soccer_ball",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex47",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_square",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex48",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_stairs",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex49",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_baseball",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_sun",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex50",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_table",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex51",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_traffic_light",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex52",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_triangle",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex53",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_basket",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_basketball",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bed",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_1_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_alarm_clock",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_broom",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cake",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cookie",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cup",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_diving_board",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_dresser",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_drums",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_dumbbell",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_ear",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_eye",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_ant",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_eyeglasses",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_feather",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex21",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_floor_lamp",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex22",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_flying_saucer",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex23",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_foot",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex24",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_garden",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex25",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_golf_club",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex26",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_grapes",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex27",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hat",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex28",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_headphones",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex29",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_axe",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_helmet",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex30",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hourglass",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex31",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_ice_cream",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex32",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_key",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex33",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_knee",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex34",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_ladder",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex35",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_light_bulb",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex36",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_lollipop",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex37",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_matches",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex38",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_microphone",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex39",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_baseball_bat",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_mountain",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex40",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_nail",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex41",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_necklace",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex42",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_paintbrush",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex43",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pear",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex44",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_picture_frame",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex45",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pillow",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex46",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pizza",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex47",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_river",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex48",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_scissors",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex49",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bathtub",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_sheep",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex50",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_shoe",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex51",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_shorts",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex52",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_smiley_face",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex53",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_snake",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex54",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_snowflake",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex55",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_spoon",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex56",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_star",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex57",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_stop_sign",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex58",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_strawberry",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex59",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bear",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_sword",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex60",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_t_shirt",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex61",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_tennis_racquet",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex62",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_tent",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex63",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_toe",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex64",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_tooth",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex65",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_toothbrush",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex66",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_tree",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex67",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_umbrella",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex68",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_vase",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex69",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bee",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_wheel",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex70",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_wine_bottle",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex71",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_wine_glass",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex72",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_beard",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex73",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bracelet",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex8",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bridge",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_2_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_the_eiffel_tower",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_broccoli",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bus",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_butterfly",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cannon",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_car",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cell_phone",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_clock",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_couch",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_dishwasher",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_dog",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_angel",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_dolphin",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_duck",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex21",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_elbow",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex22",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_elephant",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex23",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_fence",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex24",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_flashlight",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex25",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_flip_flops",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex26",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_frying_pan",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex27",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_garden_hose",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex28",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hamburger",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex29",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_backpack",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hammer",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex30",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_harp",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex31",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hedgehog",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex32",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_jacket",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex33",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_lantern",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex34",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_leaf",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex35",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_lipstick",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex36",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_mailbox",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex37",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_map",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex38",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_microwave",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex39",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bandage",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_mouse",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex40",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_mushroom",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex41",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_nose",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex42",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_paint_can",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex43",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_parachute",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex44",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_popsicle",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex45",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_rabbit",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex46",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_screwdriver",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex47",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_shark",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex48",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_shovel",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex49",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_beach",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_skateboard",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex50",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_sleeping_bag",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex51",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_snail",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex52",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_sock",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex53",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_spider",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex54",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_stove",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex55",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_telephone",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex56",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_television",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex57",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_toothpaste",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex58",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_tornado",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex59",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_belt",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_underwear",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex60",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_wristwatch",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex61",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_book",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_boomerang",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex8",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bread",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_3_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_the_great_wall_of_china",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_campfire",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_canoe",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cat",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_compass",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_computer",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cow",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_fan",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_fireplace",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_frog",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_giraffe",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_asparagus",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_guitar",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_horse",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex21",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hot_air_balloon",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex22",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hot_dog",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex23",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_house_plant",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex24",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_keyboard",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex25",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_mermaid",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex26",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_monkey",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex27",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_motorbike",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex28",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_onion",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex29",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bat",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_oven",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex30",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_owl",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex31",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_paper_clip",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex32",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_passport",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex33",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_peanut",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex34",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_penguin",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex35",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pig",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex36",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pool",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex37",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_postcard",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex38",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_power_outlet",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex39",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bicycle",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_purse",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex40",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_radio",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex41",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_remote_control",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex42",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_rollerskates",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex43",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_sailboat",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex44",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_see_saw",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex45",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_snorkel",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex46",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_steak",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex47",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_suitcase",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex48",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_swing_set",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex49",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bowtie",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_teddy_bear",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex50",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_toaster",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex51",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_toilet",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex52",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_train",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex53",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_trumpet",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex54",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_violin",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex55",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_washing_machine",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex56",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_watermelon",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex57",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_waterslide",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex58",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_whale",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex59",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cactus",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_calculator",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_calendar",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex8",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_camera",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_4_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_the_mona_lisa",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex1",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_church",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex10",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_clarinet",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex11",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cooler",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex12",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_crab",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex13",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_crocodile",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex14",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_cruise_ship",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex15",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_dragon",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex16",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_drill",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex17",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_fire_hydrant",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex18",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_firetruck",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex19",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_ambulance",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex2",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_flamingo",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex20",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_helicopter",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex21",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_hospital",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex22",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_kangaroo",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex23",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_lighthouse",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex24",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_lion",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex25",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_lobster",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex26",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_megaphone",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex27",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_octopus",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex28",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_panda",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex29",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_binoculars",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex3",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_parrot",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex30",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_piano",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex31",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pineapple",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex32",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_pliers",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex33",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_raccoon",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex34",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_rhinoceros",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex35",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_roller_coaster",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex36",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_saw",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex37",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_saxophone",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex38",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_scorpion",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex39",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_brain",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex4",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_sea_turtle",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex40",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_sink",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex41",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_skull",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex42",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_skyscraper",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex43",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_speedboat",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex44",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_squirrel",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex45",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_stethoscope",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex46",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_streetlight",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex47",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_submarine",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex48",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_swan",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex49",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_bulldozer",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex5",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_teapot",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex50",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_tiger",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex51",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_tractor",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex52",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_truck",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex53",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_windmill",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex54",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_zebra",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex55",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_camel",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex6",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_castle",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex7",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_ceiling_fan",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex8",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "ex_z5_classes_chandelier",
+                            "label": 1
+                        }
+                    ],
+                    "exercise_id": "Wahrnehmung_ex_z5_figuren_zeichnen_lvl_5_ex9",
+                    "question": "Zeichnen Sie die angezeigte Figur mit Ihrem Finger.",
+                    "tasks": []
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_z5_figuren_zeichnen",
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung sollen Sie Figuren mit Ihrem Finger zeichnen."
+            }
+        ],
+        "type": "interactive"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 5,
+                "rounds": 3
+            },
+            "tasks": 8
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 3,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 5,
+                "rounds": 3
+            },
+            "tasks": 8
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 4,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 6,
+                "rounds": 3
+            },
+            "tasks": 8
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 5,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 7,
+                "rounds": 3
+            },
+            "tasks": 8
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 5,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 6,
+                "rounds": 3
+            },
+            "tasks": 7
+        }
+    ],
+    "checksum": "ed516ae11f10c08f504bffd03dcd8ab6"
+}

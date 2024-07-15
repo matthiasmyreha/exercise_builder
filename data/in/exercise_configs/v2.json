@@ -1,0 +1,325 @@
+{
+    "code": "v2",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "always",
+        "time": 120,
+        "lives": 3
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 7,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 8,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 8,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 8,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 2,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 3,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 4,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 5,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "level": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "level": 5,
+                "change": {
+                    "points_x": 3
+                },
+                "type": "streak"
+            },
+            {
+                "amount": 15,
+                "level": 5,
+                "change": {
+                    "points_x": 4
+                },
+                "type": "streak"
+            },
+            {
+                "amount": 20,
+                "level": 5,
+                "change": {
+                    "points_x": 5
+                },
+                "type": "streak"
+            },
+            {
+                "amount": 25,
+                "level": 5,
+                "change": {
+                    "points_x": 6
+                },
+                "type": "streak"
+            }
+        ],
+        "lives": 3,
+        "countdown": {
+            "game": 120
+        }
+    },
+    "instructions": {
+        "content": [
+            {
+                "text": "ex_v2_zahlen_reihen instructions # 1"
+            }
+        ],
+        "type": "interactive"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Zahlen und Rechnen_ex_v2_zahlen_reihen_lvl_1_ex_1",
+                    "question": "Tippen Sie auf die Werte vom kleinsten bis zum größten.",
+                    "tasks": [],
+                    "params": {
+                        "allowed_operations": [],
+                        "answer_count": 3,
+                        "is_continuous_sequence": true,
+                        "number_range": [
+                            0,
+                            10
+                        ],
+                        "result_range": null,
+                        "type": "v2"
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Zahlen und Rechnen_ex_v2_zahlen_reihen_lvl_2_ex_1",
+                    "question": "Tippen Sie auf die Werte vom kleinsten bis zum größten.",
+                    "tasks": [],
+                    "params": {
+                        "allowed_operations": [],
+                        "answer_count": 4,
+                        "is_continuous_sequence": false,
+                        "number_range": [
+                            -20,
+                            20
+                        ],
+                        "result_range": null,
+                        "type": "v2"
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Zahlen und Rechnen_ex_v2_zahlen_reihen_lvl_3_ex_1",
+                    "question": "Tippen Sie auf die Werte vom kleinsten bis zum größten.",
+                    "tasks": [],
+                    "params": {
+                        "allowed_operations": [
+                            "plus",
+                            "minus"
+                        ],
+                        "answer_count": 4,
+                        "is_continuous_sequence": false,
+                        "number_range": [
+                            10,
+                            50
+                        ],
+                        "result_range": [
+                            -20,
+                            20
+                        ],
+                        "type": "v2"
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Zahlen und Rechnen_ex_v2_zahlen_reihen_lvl_4_ex_1",
+                    "question": "Tippen Sie auf die Werte vom kleinsten bis zum größten.",
+                    "tasks": [],
+                    "params": {
+                        "allowed_operations": [
+                            "plus",
+                            "minus",
+                            "multiply"
+                        ],
+                        "answer_count": 3,
+                        "is_continuous_sequence": false,
+                        "number_range": [
+                            10,
+                            99
+                        ],
+                        "result_range": [
+                            -50,
+                            100
+                        ],
+                        "type": "v2"
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Zahlen und Rechnen_ex_v2_zahlen_reihen_lvl_5_ex_1",
+                    "question": "Tippen Sie auf die Werte vom kleinsten bis zum größten.",
+                    "tasks": [],
+                    "params": {
+                        "allowed_operations": [
+                            "plus",
+                            "minus",
+                            "multiply",
+                            "divide"
+                        ],
+                        "answer_count": 4,
+                        "is_continuous_sequence": false,
+                        "number_range": [
+                            10,
+                            99
+                        ],
+                        "result_range": [
+                            0,
+                            100
+                        ],
+                        "type": "v2"
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_v2_zahlen_reihen",
+    "checksum": "a13407b95d0ec3d211d6e3b04a3d792e"
+}

@@ -1,0 +1,198 @@
+{
+    "code": "z1",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "predefined",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": false,
+        "should_skip_to_next": "never",
+        "time": 60,
+        "lives": 3
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z1_marienkaefer_lvl_1_ex1",
+                    "question": "Tippen Sie auf den Bildschirm, wenn Sie ein Glühwürmchen sehen.",
+                    "tasks": [],
+                    "params": {
+                        "firefly_duration": 3,
+                        "firefly_size": 100,
+                        "ladybug_count": 3,
+                        "ladybug_countdown": 3,
+                        "ladybug_speed": 1,
+                        "type": "z1"
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z1_marienkaefer_lvl_2_ex2",
+                    "question": "Tippen Sie auf den Bildschirm, wenn Sie ein Glühwürmchen sehen.",
+                    "tasks": [],
+                    "params": {
+                        "firefly_duration": 2,
+                        "firefly_size": 75,
+                        "ladybug_count": 3,
+                        "ladybug_countdown": 3,
+                        "ladybug_speed": 2,
+                        "type": "z1"
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z1_marienkaefer_lvl_3_ex3",
+                    "question": "Tippen Sie auf den Bildschirm, wenn Sie ein Glühwürmchen sehen.",
+                    "tasks": [],
+                    "params": {
+                        "firefly_duration": 2,
+                        "firefly_size": 50,
+                        "ladybug_count": 5,
+                        "ladybug_countdown": 3,
+                        "ladybug_speed": 1.5,
+                        "type": "z1"
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z1_marienkaefer_lvl_4_ex4",
+                    "question": "Tippen Sie auf den Bildschirm, wenn Sie ein Glühwürmchen sehen.",
+                    "tasks": [],
+                    "params": {
+                        "firefly_duration": 1.5,
+                        "firefly_size": 40,
+                        "ladybug_count": 5,
+                        "ladybug_countdown": 3,
+                        "ladybug_speed": 2,
+                        "type": "z1"
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Wahrnehmung_ex_z1_marienkaefer_lvl_5_ex5",
+                    "question": "Tippen Sie auf den Bildschirm, wenn Sie ein Glühwürmchen sehen.",
+                    "tasks": [],
+                    "params": {
+                        "firefly_duration": 1,
+                        "firefly_size": 30,
+                        "ladybug_count": 5,
+                        "ladybug_countdown": 3,
+                        "ladybug_speed": 2,
+                        "type": "z1"
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_z1_marienkaefer",
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung haben Sie gleich zwei Aufgaben. Sie trainieren dabei eine ganze Reihe von Fähigkeiten."
+            },
+            {
+                "text": "Zu Beginn wird Ihnen ein bestimmter Marienkäfer zugeteilt. Behalten Sie ihn im Auge, während alle durcheinander krabbeln."
+            },
+            {
+                "text": "Am Ende sollen Sie angeben, welcher Ihr Marienkäfer ist."
+            },
+            {
+                "text": "Währenddessen werden am Bildrand Glühwürmchen erscheinen."
+            },
+            {
+                "text": "Tippen Sie auf den Bildschirm, wenn Sie ein Glühwürmchen wahrnehmen."
+            },
+            {
+                "text": "Behalten Sie also Ihren Marienkäfer im Auge, während Sie gleichzeitig auf das Erscheinen von Glühwürmchen achten."
+            }
+        ],
+        "type": "interactive"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 2,
+                "rounds": 3
+            },
+            "tasks": 3
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 1,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 3,
+                "rounds": 3
+            },
+            "tasks": 5
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 3,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 4,
+                "rounds": 3
+            },
+            "tasks": 5
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 4,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 5,
+                "rounds": 3
+            },
+            "tasks": 6
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 4,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 5,
+                "rounds": 3
+            },
+            "tasks": 6
+        }
+    ],
+    "checksum": "667efe5d1619979d7d76b6b0406e5c37"
+}

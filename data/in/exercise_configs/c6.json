@@ -1,0 +1,1145 @@
+{
+    "code": "c6",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "multiple-choice",
+        "exercise_type": "predefined",
+        "should_skip_to_next": "if_correct",
+        "show_bottom_bar": true,
+        "show_question": true,
+        "task_format_type": "multiple-gaps"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "Dankbarkeit",
+                            "label": 0
+                        },
+                        {
+                            "answer": "neurologische",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Selbstbewusstsein",
+                            "label": 2
+                        },
+                        {
+                            "answer": "drei",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Achtsamkeit",
+                            "label": 4
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_1_1",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Das Üben von _ und positivem Denken kann sich positiv auf die _ Reha auswirken. Es ist bekannt, dass es das _ stärkt und Stress reduziert. Eine Methode, um Dankbarkeit in den Alltag zu integrieren, ist das Führen eines Dankbarkeitstagebuchs. Schreiben Sie jeden Tag _ Dinge auf, für die Sie dankbar sind. Eine weitere Technik ist die _, bei der man sich auf den Moment konzentriert und negative Gedanken loslässt. Beide Methoden können dazu beitragen, eine positive Denkweise zu kultivieren und das allgemeine Wohlbefinden zu verbessern."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "realistische",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Teilaufgaben",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Erfolgen",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Selbsteinschätzung",
+                            "label": 3
+                        },
+                        {
+                            "answer": "belohnen",
+                            "label": 4
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_1_2",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Das Setzen von persönlichen Zielen ist ein wichtiger Schritt, um den eigenen Erfolg zu planen und zu feiern. Zunächst sollte man _ Ziele identifizieren, die herausfordernd, aber erreichbar sind. Es ist hilfreich, diese Ziele in kleinere _ zu unterteilen, um den Fortschritt besser verfolgen zu können. Durch das Feiern von _ und Meilensteinen bleibt die Motivation hoch und man bleibt auf dem richtigen Weg. Eine gute _ und die Fähigkeit, sich selbst zu reflektieren, sind ebenfalls entscheidend für eine erfolgreiche Zielerreichung. Schließlich ist es wichtig, sich selbst zu _ und die erreichten Fortschritte zu genießen."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "angepasst",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Erwartungen",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Routine",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Unterstützung",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Therapeuten",
+                            "label": 4
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_1_3",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Nach einem Aufenthalt in einer neurologischen Rehabilitationsklinik ist es wichtig, sich wieder an das Leben zu Hause zu gewöhnen. Zunächst sollte die häusliche Umgebung entsprechend _ werden, um die Sicherheit und den Komfort zu gewährleisten. Es ist auch ratsam, realistische _ zu setzen und sich selbst nicht zu überfordern. Die Einrichtung einer täglichen _ kann dabei helfen, den Übergang zu erleichtern und die Fortschritte in der Genesung kontinuierlich zu überwachen. Die _ von Familie und Freunden spielt dabei eine wichtige Rolle, ebenso wie regelmäßige Besuche bei einem _ oder Arzt, um die Fortschritte zu besprechen und gegebenenfalls Anpassungen vorzunehmen."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Bedürfnisse",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Grenzen",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Verständnis",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Erkrankung",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Geduld",
+                            "label": 4
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_1_4",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Nach der Rückkehr aus der neurologischen Reha ist es wichtig, effektiv mit Freunden und Familie zu kommunizieren. Um Ihre _ auszudrücken, nutzen Sie \"Ich-Botschaften\" und seien Sie konkret. Achten Sie darauf, _ zu setzen, indem Sie klar kommunizieren, was Sie benötigen und was nicht. Fördern Sie das _ Ihrer Lieben, indem Sie offen über Ihre Situation sprechen und Fragen zulassen. Es kann auch hilfreich sein, gemeinsam Informationsmaterial über Ihre _ zu lesen. Schließlich ist es wichtig, _ zu haben, da Anpassung und Verständnis Zeit brauchen."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Zeit",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Schlaf-Wach-Rhythmus",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Atemübungen",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Schlafumgebung",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Schlafstrategien",
+                            "label": 4
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_1_5",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Um eine erholsame Schlafroutine zu etablieren, ist es wichtig, verschiedene Faktoren zu beachten. Zunächst sollte man jeden Abend zur gleichen _ ins Bett gehen und aufstehen, um den _ zu stabilisieren. Entspannungsmethoden wie _ oder Meditation können ebenfalls dabei helfen, den Körper auf den Schlaf vorzubereiten. Eine angenehme _, zum Beispiel ein dunkles, ruhiges Zimmer und eine bequeme Matratze, trägt ebenfalls zur Verbesserung der Schlafqualität bei. Personen mit neurologischen Störungen können zusätzlich professionelle Beratung in Anspruch nehmen, um spezielle _ zu entwickeln."
+                    ]
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "neurologischen",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Stress",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Wohlbefinden",
+                            "label": 2
+                        },
+                        {
+                            "answer": "barrierefrei",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Dimmer",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Raumtemperatur",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Duftkerzen",
+                            "label": 6
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_2_1",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Einen entspannenden und unterstützenden Wohnraum zu schaffen, kann für Menschen mit _ Erkrankungen besonders wichtig sein. Eine organisierte und aufgeräumte Umgebung kann dazu beitragen, _ abzubauen und das allgemeine _ zu verbessern. Stellen Sie sicher, dass Gegenstände, die häufig verwendet werden, leicht zugänglich sind und überlegen Sie, wie Sie die Wohnung so gestalten können, dass sie für die betroffene Person _ ist. Die Beleuchtung spielt ebenfalls eine wichtige Rolle. Sanftes, indirektes Licht und _ können helfen, eine beruhigende Atmosphäre zu schaffen. Vermeiden Sie grelles Licht und nutzen Sie stattdessen Lampen und Lichterketten, um eine gemütliche Stimmung zu erzeugen. Achten Sie auch auf die _, denn eine zu warme oder zu kalte Umgebung kann Unbehagen verursachen. Idealerweise sollte die Temperatur zwischen 20-22 Grad Celsius liegen. Schließlich können _ oder Aromatherapieöle verwendet werden, um einen angenehmen Geruch im Raum zu verbreiten und die Sinne zu beruhigen."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Sozialaktivitäten",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Hobbys",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Fähigkeiten",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Ziele",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Gruppen",
+                            "label": 4
+                        },
+                        {
+                            "answer": "soziale Medien",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Therapeuten",
+                            "label": 6
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_2_2",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Die Teilnahme an Freizeit- und _ kann bei der neurologischen Erholung eine wichtige Rolle spielen. Personen mit neurologischen Störungen profitieren von Aktivitäten, die ihren Interessen, Fähigkeiten und Erholungszielen entsprechen. Hier sind einige Tipps, um passende Aktivitäten zu finden: 1. Identifizieren Sie Ihre _ und Interessen. Denken Sie darüber nach, welche Aktivitäten Ihnen in der Vergangenheit Freude bereitet haben und welche Sie weiterhin ausüben können. 2. Berücksichtigen Sie Ihre _. Wählen Sie Aktivitäten, die für Ihren aktuellen Zustand geeignet sind und die Möglichkeit bieten, Ihre Fertigkeiten im Laufe der Zeit zu verbessern. 3. Setzen Sie _ für Ihre Erholung. Legen Sie fest, welche Fähigkeiten oder Fertigkeiten Sie wiedererlangen möchten und suchen Sie nach Aktivitäten, die Ihnen dabei helfen können. 4. Suchen Sie nach _ oder Vereinen in Ihrer Nähe, die sich mit ähnlichen Interessen oder Aktivitäten befassen. 5. Nutzen Sie _ und Online-Plattformen, um Gleichgesinnte zu finden und sich mit ihnen auszutauschen. 6. Sprechen Sie mit Ihrem _ oder Arzt über geeignete Aktivitäten und Möglichkeiten, diese in Ihren Erholungsprozess zu integrieren. Durch die Teilnahme an Freizeit- und Sozialaktivitäten können Menschen mit neurologischen Störungen nicht nur ihre körperlichen und geistigen Fähigkeiten verbessern, sondern auch ihr Selbstwertgefühl steigern und sozialen Anschluss finden."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Lebenssinn",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Interessen",
+                            "label": 1
+                        },
+                        {
+                            "answer": "motiviert",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Selbstwertgefühl",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Stärken",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Einschränkungen",
+                            "label": 5
+                        },
+                        {
+                            "answer": "soziales Netzwerk",
+                            "label": 6
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_2_3",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Das Leben mit einer neurologischen Erkrankung kann eine Herausforderung sein, aber es ist wichtig, den _ und die Identität zu bewahren. Indem man neue _ erkundet und sich in bedeutungsvollen Aktivitäten engagiert, bleibt man _ und geistig aktiv. Hobbys wie Malen, Schreiben oder Sport können helfen, das _ zu steigern und einen positiven Fokus im Leben zu schaffen. Es ist auch wichtig, auf die persönlichen _ zu achten und diese zu nutzen, um ein erfülltes Leben zu führen. Man sollte sich nicht nur auf die _ konzentrieren, die die Erkrankung mit sich bringt, sondern auch auf die Fähigkeiten, die man besitzt. Ein starkes _ kann ebenfalls dabei helfen, das Gefühl der Isolation zu überwinden und eine unterstützende Umgebung zu schaffen. Offene Kommunikation mit der Familie und Freunden ist dabei unerlässlich, um ein positives Lebensgefühl zu bewahren."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Erwartungen",
+                            "label": 0
+                        },
+                        {
+                            "answer": "managen",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Einstellung",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Kommunikation",
+                            "label": 3
+                        },
+                        {
+                            "answer": "helfen",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Selbsthilfegruppe",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Störung",
+                            "label": 6
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_2_4",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Das Leben mit einer neurologischen Störung kann eine große Herausforderung sein. Um den Alltag besser zu bewältigen, ist es wichtig, die eigenen _ zu _ und Hilfe von anderen anzunehmen. Eine positive _ hilft, sich auf die eigenen Fähigkeiten zu konzentrieren und sich nicht von den Einschränkungen unterkriegen zu lassen. Eine offene _ mit Freunden und Familie ist entscheidend, um Unterstützung zu erhalten. Dabei sollte man klarstellen, welche Hilfe benötigt wird und wie andere _ können. Es ist auch ratsam, sich einer _ anzuschließen, um Erfahrungen auszutauschen und voneinander zu lernen. Insgesamt sollte man sich bewusst machen, dass jeder Mensch seine Schwächen hat und es keine Schande ist, Hilfe anzunehmen. Durch das Zusammenarbeiten mit anderen kann man ein erfüllteres Leben führen, trotz der neurologischen _."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "sozialen",
+                            "label": 0
+                        },
+                        {
+                            "answer": "herausfordernd",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Erkrankung",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Anpassungen",
+                            "label": 3
+                        },
+                        {
+                            "answer": "schämen",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Fähigkeiten",
+                            "label": 5
+                        },
+                        {
+                            "answer": "sicherer",
+                            "label": 6
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_2_5",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Das Navigieren in _ Situationen mit einer neurologischen Störung kann _ sein. Um die Kommunikation zu erleichtern, ist es wichtig, offen über die eigene _ zu sprechen und gegebenenfalls Hilfe oder _ zu erbitten. Wenn man mit Fragen zu seinem Zustand konfrontiert wird, sollte man ruhig und ehrlich antworten, ohne sich für die Erkrankung zu _. Um in sozialen Situationen Selbstvertrauen zu gewinnen, kann es hilfreich sein, sich auf seine Stärken zu konzentrieren und sich auf seine _ zu verlassen. Übung macht den Meister, und je mehr man soziale Interaktionen übt, desto _ fühlt man sich dabei. Es ist auch wichtig, sich daran zu erinnern, dass jeder Mensch seine individuellen Schwierigkeiten hat und dass man nicht allein ist."
+                    ]
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "Selbstwertgefühl",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Fortschritte",
+                            "label": 1
+                        },
+                        {
+                            "answer": "unterstützen",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Achtsamkeit",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Rückschläge",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Tagebuch",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Erwartungen",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Entspannung",
+                            "label": 7
+                        },
+                        {
+                            "answer": "verstehen",
+                            "label": 8
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_3_1",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Die Bedeutung von _ und Geduld sind besonders wichtig während des Erholungsprozesses. Es ist entscheidend, sich selbst zu akzeptieren und seine _ anzuerkennen, um mental und emotional zu wachsen. Selbst wenn man mit Herausforderungen konfrontiert wird, sollte man sich Zeit nehmen, um sich selbst zu _ und sich daran zu erinnern, dass Veränderungen Zeit benötigen. Eine Methode zur Kultivierung von Selbstwertgefühl ist die _. Durch Achtsamkeit kann man lernen, seinen inneren Kritiker zu erkennen und ihm mit Freundlichkeit und Mitgefühl zu begegnen. Man sollte sich auch bewusst machen, dass jeder _ hat und man nicht alleine ist. Es ist hilfreich, sich regelmäßig an seine Erfolge und das Erreichte zu erinnern. Eine Möglichkeit ist, ein _ zu führen und darin seine Fortschritte festzuhalten. So kann man sich immer wieder vor Augen führen, wie weit man schon gekommen ist. Darüber hinaus ist es wichtig, realistische _ an sich selbst zu haben und nicht zu hart mit sich umzugehen. Man sollte sich bewusst Zeit zur _ und Erholung gönnen, um neue Kraft zu schöpfen. Zusammenfassend ist der Aufbau von Selbstwert und Geduld ein wichtiger Schritt, um sich selbst besser zu _ und seine persönliche Entwicklung zu fördern."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Einfluss",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Behandlung",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Moment",
+                            "label": 2
+                        },
+                        {
+                            "answer": "negative",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Emotionen",
+                            "label": 4
+                        },
+                        {
+                            "answer": "beruhigen",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Methode",
+                            "label": 6
+                        },
+                        {
+                            "answer": "integrieren",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Wohlbefinden",
+                            "label": 8
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_3_2",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Die Integration von Achtsamkeit und Meditation in Ihren Heilungsprozess kann einen erheblichen _ auf Ihre allgemeine Lebensqualität und das Wohlbefinden haben. Insbesondere bei neurologischen Erkrankungen können Achtsamkeit und Meditation neben der traditionellen _ eine wichtige Rolle spielen. Achtsamkeit ist die Fähigkeit, sich auf den gegenwärtigen _ zu konzentrieren, ohne dabei Wertungen oder Urteile abzugeben. Sie kann Ihnen helfen, _ Gedanken und Gefühle, die häufig bei Menschen mit neurologischen Störungen auftreten, besser zu bewältigen. Durch regelmäßige Übung können Sie Stress abbauen und Ihre _ besser kontrollieren. Meditation ist eine weitere Technik, die Ihnen dabei helfen kann, Ihren Geist zu _ und Ihren Körper zu entspannen. Es gibt verschiedene Meditationsarten, wie z.B. geführte Meditationen, Atemübungen oder Body-Scan-Meditationen. Finden Sie die _, die am besten zu Ihnen passt, und _ Sie sie in Ihre tägliche Routine. Die Kombination von Achtsamkeit und Meditation mit konventionellen Therapieansätzen kann Ihre Resilienz und Selbstwahrnehmung stärken. Das wiederum kann Ihnen helfen, den Heilungsprozess effektiver zu gestalten und Ihr _ zu steigern. Sprechen Sie mit Ihrem Arzt oder Therapeuten über die Möglichkeit, diese Praktiken in Ihre Heilungsprozess einzubauen, um Ihre Lebensqualität zu verbessern."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Präferenzen",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Grenzen",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Kommunikation",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Selbstreflexion",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Rechte",
+                            "label": 4
+                        },
+                        {
+                            "answer": "verbessern",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Netzwerke",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Ressourcen",
+                            "label": 7
+                        },
+                        {
+                            "answer": "wertvolle",
+                            "label": 8
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_3_3",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Selbstvertrauen aufzubauen ist wichtig, um in verschiedenen Lebensbereichen erfolgreich zu sein. Das ermöglicht Ihnen, eigene Bedürfnisse und _ auszudrücken, _ zu setzen und eigene Rechte in den Bereichen Gesundheit, Beruf und soziale Interaktion durchzusetzen. Eine der wichtigsten Strategien zur Entwicklung von Selbstvertrauen ist das Erlernen der _. Es ist entscheidend, klar und selbstbewusst zu kommunizieren, um Missverständnisse zu vermeiden und die eigenen Bedürfnisse zu erklären. Eine weitere wichtige Fähigkeit ist die _. Indem man regelmäßig über die eigenen Stärken und Schwächen nachdenkt, kann man sich besser auf Situationen vorbereiten, in denen Selbstvertrauen erforderlich ist. Es ist auch wichtig, sich seiner _ bewusst zu sein und zu wissen, wie man sie durchsetzt. Dazu gehört, sich über Gesetze und Vorschriften in verschiedenen Kontexten zu informieren und gegebenenfalls rechtlichen Beistand in Anspruch zu nehmen. Um Selbstvertrauen in sozialen Zusammenhängen zu _, sollte man _ aufbauen und nutzen. Indem man mit anderen Menschen in ähnlichen Situationen interagiert, kann man voneinander lernen und sich gegenseitig unterstützen. Schließlich sollte man persönliche _ nutzen, um sich weiterzubilden und das eigene Selbstvertrauen zu stärken. Dazu gehören Bücher, Online-Kurse und Workshops, die _ Informationen und praktische Übungen bieten."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "kognitiven",
+                            "label": 0
+                        },
+                        {
+                            "answer": "geistigen Übungen",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Stressbelastung",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Achtsamkeit",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Schlaf",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Schlafrhythmus",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Ernährung",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Omega-3-Fettsäuren",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Bewegung",
+                            "label": 8
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_3_4",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Die Erhaltung der _ Funktion und Hirngesundheit ist besonders wichtig für Menschen mit neurologischen Erkrankungen. Eine Methode zur Stärkung der geistigen Fähigkeiten ist das Durchführen von _, wie zum Beispiel Gedächtnistraining oder kreatives Schreiben. Es ist auch wichtig, die _ zu reduzieren, da Stress das Gehirn negativ beeinflussen kann. Techniken wie _ oder Yoga können helfen, Stress abzubauen und die Gesundheit des Gehirns zu fördern. Eine weitere wichtige Komponente ist ausreichend _. Experten empfehlen etwa sieben bis neun Stunden Schlaf pro Nacht. Ein regelmäßiger _ kann dabei helfen, die Schlafqualität zu verbessern und das Gehirn zu unterstützen. Die _ spielt ebenfalls eine Rolle bei der Aufrechterhaltung der kognitiven Funktion. Eine ausgewogene Ernährung, die reich an Obst, Gemüse, Vollkornprodukten und gesunden Fetten ist, kann die Hirnleistung fördern. Insbesondere Lebensmittel mit hohem Gehalt an _ wie Fisch oder Nüsse sind bekannt dafür, das Gehirn zu unterstützen. Zuletzt sollte auch körperliche _ nicht vernachlässigt werden. Studien haben gezeigt, dass regelmäßige körperliche Aktivität das Risiko von kognitivem Abbau verringern kann. Dabei ist es wichtig, eine Aktivität zu wählen, die Spaß macht und den individuellen Fähigkeiten angepasst ist."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "sozialen",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Erkrankung",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Kommunikation",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Aktivitäten",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Gefühle",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Technologie",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Skype",
+                            "label": 6
+                        },
+                        {
+                            "answer": "WhatsApp",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Treffen",
+                            "label": 8
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_3_5",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Einen aktiven _ Kreis aufrechtzuerhalten, ist nach einer neurologischen Störung äußerst wichtig. Hier sind einige Tipps, um mit Freunden, Familie und geliebten Menschen in Kontakt zu bleiben. Zunächst ist es wichtig, offen über die _ zu sprechen, um Verständnis und Unterstützung zu erhalten. Die _ sollte ehrlich und regelmäßig sein, damit alle auf dem Laufenden bleiben. Für manche Menschen kann es schwierig sein, sich wieder in sozialen Situationen zurechtzufinden. Hier kann es hilfreich sein, nach und nach wieder _ aufzunehmen und sich langsam an den Umgang mit Menschen zu gewöhnen. Es ist wichtig, offen zu sein und _ mitzuteilen, um sozialen Ängsten entgegenzuwirken. Die Nutzung von _ kann eine große Hilfe sein, um in Kontakt zu bleiben. Apps wie _ oder _ ermöglichen Videoanrufe und Instant Messaging, um das Gespräch aufrechtzuerhalten, selbst wenn man nicht persönlich zusammen sein kann. Es ist auch wichtig, regelmäßig _ zu planen, um die Bindung zu stärken und sich gegenseitig im Heilungsprozess zu unterstützen. Durch das Befolgen dieser Tipps können Menschen mit neurologischen Störungen weiterhin wertvolle und erfüllende soziale Beziehungen pflegen."
+                    ]
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "verbessern",
+                            "label": 0
+                        },
+                        {
+                            "answer": "ehrliche",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Gefühle",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Empathie",
+                            "label": 3
+                        },
+                        {
+                            "answer": "aufmerksam",
+                            "label": 4
+                        },
+                        {
+                            "answer": "gewissenhafte",
+                            "label": 5
+                        },
+                        {
+                            "answer": "perfekt",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Kritik",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Zuneigung",
+                            "label": 8
+                        },
+                        {
+                            "answer": "Beziehungen",
+                            "label": 9
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_4_1",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Der Aufbau und die Pflege von Beziehungen können bei Menschen mit neurologischen Erkrankungen eine große Herausforderung sein. Hier sind einige Tipps, um Beziehungen zu stärken und Kommunikationsfähigkeiten zu _. 1. Effektive Kommunikation: Offene und _ Kommunikation ist der Schlüssel zu einer gesunden Beziehung. Sprechen Sie über Ihre _, Bedenken und Erwartungen, um Missverständnisse zu vermeiden. Eine gute Technik besteht darin, \"Ich-Botschaften\" zu verwenden, um Ihre eigenen Gefühle und Bedürfnisse auszudrücken, ohne den anderen zu beschuldigen. 2. Empathie zeigen: Versuchen Sie, sich in die Lage Ihres Partners oder Freundes zu versetzen und deren Gefühle und Bedenken zu verstehen. _ hilft uns, besser auf die Bedürfnisse anderer einzugehen und unseren eigenen Standpunkt zu überdenken, um Konflikte zu vermeiden. 3. Aktives Zuhören: Hören Sie _ zu, wenn Ihr Partner oder Freund spricht, und stellen Sie _ Fragen, um Ihr Interesse und Verständnis zu zeigen. Vermeiden Sie es, während eines Gesprächs abgelenkt oder abweisend zu sein. 4. Lernen Sie, Kritik konstruktiv anzunehmen: Niemand ist _, und wir alle machen Fehler. Wenn Sie _ erhalten, versuchen Sie, sie als Gelegenheit zur Verbesserung und zum Wachstum zu betrachten, statt sich angegriffen oder verletzt zu fühlen. 5. Konfliktlösung: Auseinandersetzungen sind in jeder Beziehung unvermeidlich. Lernen Sie, Probleme ruhig und sachlich zu besprechen und gemeinsam nach Lösungen zu suchen. Vermeiden Sie es, auf Vorwürfen und Schuldzuweisungen zu bestehen. 6. Zeigen Sie Ihre Wertschätzung: Sagen Sie Ihrem Partner oder Freund regelmäßig, wie sehr Sie ihn schätzen und wie wichtig er Ihnen ist. Kleine Gesten der _ und Dankbarkeit können eine große Wirkung haben. 7. Gemeinsame Aktivitäten: Verbringen Sie Zeit miteinander und teilen Sie gemeinsame Hobbys oder Interessen. Das hilft, die Bindung zu stärken und neue Gesprächsthemen zu bieten. 8. Unterstützung anbieten: Bieten Sie Ihre Hilfe und Unterstützung an, wenn Ihr Partner oder Freund mit den Herausforderungen seiner neurologischen Erkrankung kämpft. Seien Sie geduldig und ermutigend. 9. Informieren Sie sich über die Erkrankung: Je mehr Sie über die neurologische Erkrankung Ihres Partners oder Freundes wissen, desto besser können Sie dessen Bedürfnisse verstehen und angemessen darauf reagieren. 10. Professionelle Hilfe in Anspruch nehmen: Wenn Sie Schwierigkeiten haben, Ihre Beziehung aufrechtzuerhalten oder Ihre Kommunikationsfähigkeiten zu verbessern, ziehen Sie in Erwägung, professionelle Hilfe von einem Therapeuten oder einer Selbsthilfegruppe in Anspruch zu nehmen. Indem Sie diese Tipps befolgen, können Sie _ stärken und effektive Kommunikationsfähigkeiten entwickeln, die sowohl Ihnen als auch Ihrem Partner oder Freund zugutekommen."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Gemeinschaftsaktivitäten",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Lebensqualität",
+                            "label": 1
+                        },
+                        {
+                            "answer": "spielen",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Gesellschaft",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Wohltätigkeitsorganisationen",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Senioren",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Fähigkeiten",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Arzt",
+                            "label": 7
+                        },
+                        {
+                            "answer": "geeignet",
+                            "label": 8
+                        },
+                        {
+                            "answer": "Freundschaften",
+                            "label": 9
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_4_2",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Freiwilligenarbeit und die Teilnahme an _ können für Menschen mit neurologischen Störungen eine wichtige Rolle bei der Verbesserung ihrer _ und der Erreichung ihrer Genesungsziele _. Die Vorteile von Freiwilligenarbeit umfassen die Möglichkeit, soziale Fähigkeiten zu erlernen, Selbstvertrauen aufzubauen und sich aktiv in der _ zu engagieren. Um Freiwilligen- oder Gemeinschaftsaktivitäten zu finden, die den persönlichen Interessen und Fähigkeiten entsprechen, kann man sich an lokale Freiwilligenzentren, _ oder Selbsthilfegruppen wenden. Diese Organisationen bieten oft eine Vielzahl von Möglichkeiten, wie zum Beispiel die Betreuung von _, die Unterstützung von Menschen mit Behinderungen oder die Teilnahme an Umweltprojekten. Beim Einstieg in die Freiwilligenarbeit ist es wichtig, ehrlich über die eigenen Fähigkeiten und Grenzen zu sein. Man sollte offen mit den Organisatoren über die persönlichen Bedürfnisse und Anforderungen sprechen, um sicherzustellen, dass die gewählte Aktivität den eigenen _ entspricht und zum Genesungsprozess beiträgt. Es ist auch ratsam, mit dem behandelnden _ oder Therapeuten über die geplanten Aktivitäten zu sprechen. Sie können wertvolle Ratschläge geben, welche Art von Freiwilligenarbeit oder Gemeinschaftsaktivitäten am besten zur Unterstützung der Genesung _ sind. Schließlich kann die Teilnahme an Freiwilligenarbeit oder Gemeinschaftsaktivitäten eine hervorragende Möglichkeit sein, _ zu knüpfen und sich mit Menschen zu verbinden, die ähnliche Erfahrungen und Herausforderungen teilen. Dies kann einen wichtigen Beitrag zur emotionalen Unterstützung und zum Aufbau eines unterstützenden sozialen Netzwerks leisten, das für die langfristige Erholung entscheidend ist."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Hirnfunktionen",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Selbstentfaltung",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Malen",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Töpfern",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Musikinstruments",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Gartenarbeit",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Yoga",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Meditation",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Schreiben",
+                            "label": 8
+                        },
+                        {
+                            "answer": "Interessen",
+                            "label": 9
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_4_3",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Die Erforschung von Kreativität und Hobbys zur neurologischen Genesung ist ein spannendes und vielversprechendes Thema. Durch verschiedenen Aktivitäten können Menschen ihre _ verbessern und ihre Lebensqualität steigern. Dabei spielt die kreative _ eine wichtige Rolle. Ein Beispiel für eine solche Aktivität ist das _. Es kann helfen, motorische Fähigkeiten und Hand-Auge-Koordination zu trainieren, während gleichzeitig Entspannung und Stressabbau gefördert werden. Eine weitere kreative Möglichkeit ist das _, bei dem die Feinmotorik und die Konzentration gefordert sind. Musik hat ebenfalls einen positiven Einfluss auf die Genesung. Das Erlernen eines _ kann sowohl kognitive als auch motorische Fähigkeiten fördern. Darüber hinaus kann das gemeinsame Musizieren soziale Kontakte und das Gemeinschaftsgefühl stärken. Für diejenigen, die lieber körperlich aktiv sind, kann _ eine ausgezeichnete Möglichkeit sein, die Lebensqualität in der Natur zu verbessern. Sie fördert die Bewegung und das Wohlbefinden, während man gleichzeitig etwas Schönes und Nützliches erschafft. Auch _ und _ haben sich als hilfreiche Werkzeuge für die Erholung und den Stressabbau erwiesen. Sie unterstützen die Entspannung und die Fähigkeit, sich auf den gegenwärtigen Moment zu konzentrieren. Ein weiterer interessanter Ansatz ist das _. Es kann dazu beitragen, Gedanken und Gefühle zu ordnen und den Fokus auf das eigene Erleben zu lenken. Dabei kann es sich um das Verfassen von Gedichten, Kurzgeschichten oder Tagebucheinträgen handeln. Insgesamt ist es wichtig, individuelle _ und Fähigkeiten zu berücksichtigen, um die passenden Aktivitäten für die neurologische Genesung und Verbesserung der Lebensqualität zu finden."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Matten",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Duschbank",
+                            "label": 1
+                        },
+                        {
+                            "answer": "hilfreiche",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Klettverschlüssen",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Verlängerungsbürste",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Zahnbürstenhalter",
+                            "label": 5
+                        },
+                        {
+                            "answer": "hautverträgliche",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Friseurkappe",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Kamm",
+                            "label": 8
+                        },
+                        {
+                            "answer": "Rasierer",
+                            "label": 9
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_4_4",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Die persönliche Pflege und Hygiene kann für Menschen mit neurologischen Erkrankungen eine große Herausforderung sein. Die folgenden Tipps und Anregungen können dabei helfen, den Alltag besser zu bewältigen. 1. Baden und Duschen: Um das Risiko von Stürzen beim Baden oder Duschen zu verringern, sollte die Umgebung mit rutschfesten _ und Haltegriffen ausgestattet sein. Eine _ kann eine _ Unterstützung bieten, um das Duschen im Sitzen zu ermöglichen. 2. Anziehen: Das Anziehen kann für Menschen mit motorischen Schwierigkeiten mühsam sein. Kleidungsstücke mit _ oder Druckknöpfen sind leichter zu handhaben als solche mit Reißverschlüssen oder Knöpfen. Zudem kann das Verwenden von Anziehhilfen das Anziehen erleichtern. 3. Körperpflege: Bei der Körperpflege können Hilfsmittel wie eine _ oder ein elektrischer _ das Leben erleichtern. Zudem ist es ratsam, auf _ Produkte zu achten, da die Haut bei neurologischen Erkrankungen oft empfindlich ist. 4. Haarpflege: Einige Menschen mit neurologischen Störungen haben Schwierigkeiten, ihre Haare zu kämmen und zu stylen. Eine _ kann das Haarewaschen vereinfachen, und ein breiter _ kann das Entwirren der Haare erleichtern. 5. Rasur: Für Männer kann das Rasieren eine Herausforderung darstellen. Elektrische _ sind oft einfacher zu handhaben als herkömmliche Klingenrasierer. Es ist wichtig, auf eine sanfte und gründliche Rasur zu achten, um Hautirritationen zu vermeiden. Mit den richtigen Hilfsmitteln und Strategien können Menschen mit neurologischen Erkrankungen ihre persönliche Pflege und Hygiene gut meistern und so ein höheres Maß an Selbständigkeit und Lebensqualität erreichen."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Rolle",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Genesung",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Antioxidantien",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Ernährungsplan",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Reparatur",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Bewegung",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Spaziergänge",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Koordination",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Physiotherapie",
+                            "label": 8
+                        },
+                        {
+                            "answer": "Aktivität",
+                            "label": 9
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_4_5",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Ernährung und Bewegung spielen eine entscheidende _ bei der Genesung in der Neurologie. Eine ausgewogene Ernährung kann dazu beitragen, das Gehirn mit den notwendigen Nährstoffen zu versorgen und somit die _ zu unterstützen. Es ist wichtig, Lebensmittel zu wählen, die reich an _, Omega-3-Fettsäuren und Vitaminen sind, da diese für das Gehirn besonders vorteilhaft sind. Beispiele für solche Lebensmittel sind Beeren, Nüsse, Fisch und grünes Blattgemüse. Ein ausgewogener _ sollte auch ausreichend Protein, gesunde Fette und komplexe Kohlenhydrate enthalten. Protein ist für den Aufbau und die _ von Körperzellen unerlässlich, während gesunde Fette und Kohlenhydrate für Energie sorgen. Neben der Ernährung ist auch _ für die neurologische Reha von Bedeutung. Sanfte körperliche Aktivitäten wie _, Yoga oder einfache Dehnübungen können dazu beitragen, die Durchblutung zu erhöhen und somit die Versorgung des Gehirns mit Sauerstoff und Nährstoffen zu verbessern. Dies kann die Regeneration von Nervengewebe fördern und die _ sowie das Gleichgewicht verbessern. Es ist wichtig, sich langsam zu steigern und auf die individuellen Bedürfnisse und Fähigkeiten des Patienten einzugehen. Eine _ oder ergotherapeutische Begleitung kann dabei helfen, ein individuell angepasstes Bewegungsprogramm zu entwickeln. Insgesamt ist es entscheidend, sowohl auf die Ernährung als auch auf die körperliche _ zu achten, um den bestmöglichen Heilungsverlauf zu erreichen. Es ist ratsam, mit einem Arzt oder Therapeuten zusammenzuarbeiten, um einen individuellen Plan zur Förderung der Genesung zu entwickeln."
+                    ]
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [
+                        {
+                            "answer": "erleichtern",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Arbeitsplatzanpassungen",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Einschränkungen",
+                            "label": 2
+                        },
+                        {
+                            "answer": "stufenweise",
+                            "label": 3
+                        },
+                        {
+                            "answer": "gewöhnen",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Pausen",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Selbstfürsorge",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Beratungsstellen",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Rechte",
+                            "label": 8
+                        },
+                        {
+                            "answer": "Stressbewältigungstechniken",
+                            "label": 9
+                        },
+                        {
+                            "answer": "Offenheit",
+                            "label": 10
+                        },
+                        {
+                            "answer": "ausgewogene",
+                            "label": 11
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_5_1",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Die Rückkehr zur Arbeit nach einer neurologischen Erkrankung kann eine Herausforderung sein, aber es ist wichtig, Arbeit und Gesundheit in Einklang zu bringen. Hier sind einige Tipps, um diesen Übergang zu _: 1. _: Informieren Sie sich über mögliche Anpassungen, die Ihnen helfen können, Ihre Aufgaben effektiver zu erfüllen. Dazu können beispielsweise ergonomische Möbel, flexible Arbeitszeiten oder technische Hilfsmittel gehören. 2. Kommunikation mit dem Arbeitgeber: Seien Sie offen und ehrlich über Ihre _ und Bedürfnisse. Vereinbaren Sie ein Gespräch mit Ihrem Vorgesetzten oder der Personalabteilung, um Ihre Situation zu besprechen und gemeinsam Lösungen zu finden. 3. Schrittweise Wiedereingliederung: Sprechen Sie mit Ihrem Arbeitgeber über eine _ Rückkehr zur Arbeit, um sich wieder an die Arbeitsbelastung zu _ und Ihre Belastbarkeit langsam zu erhöhen. 4. Zeitmanagement: Planen Sie Ihre Arbeitstage sorgfältig, indem Sie Prioritäten setzen und _ einlegen, um sich ausreichend zu erholen. Vermeiden Sie Überstunden und achten Sie darauf, genügend Zeit für Ihre Gesundheit und Erholung einzuplanen. 5. _: Achten Sie darauf, dass Sie ausreichend Schlaf bekommen, sich gesund ernähren und regelmäßig körperliche Aktivitäten ausüben, um Ihre Gesundheit und Ihr Wohlbefinden zu fördern. 6. Unterstützung suchen: Nehmen Sie Kontakt zu _ oder Selbsthilfegruppen auf, um Informationen, Ratschläge und Unterstützung von anderen Betroffenen zu erhalten. 7. Arbeitsrechtliche Regelungen: Informieren Sie sich über Ihre _ als Arbeitnehmer und die Pflichten Ihres Arbeitgebers im Zusammenhang mit Ihrer Erkrankung. 8. Umgang mit Stress: Erlernen Sie _, wie beispielsweise Entspannungsübungen, Meditation oder Achtsamkeit, um mit den Herausforderungen des Arbeitsalltags besser umgehen zu können. 9. _: Sprechen Sie mit Ihren Kollegen über Ihre Situation, um Verständnis und Unterstützung zu fördern. 10. Persönliche Grenzen setzen: Lernen Sie, Nein zu sagen, wenn Sie sich überfordert fühlen, und bitten Sie um Unterstützung, wenn Sie diese benötigen. Indem Sie diese Tipps befolgen, können Sie dazu beitragen, eine _ Balance zwischen Arbeit und Gesundheit zu erreichen und erfolgreich in das Berufsleben zurückzukehren."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "Unterstützungsnetzwerks",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Erkrankungen",
+                            "label": 1
+                        },
+                        {
+                            "answer": "anzuschließen",
+                            "label": 2
+                        },
+                        {
+                            "answer": "treffen",
+                            "label": 3
+                        },
+                        {
+                            "answer": "Selbsthilfegruppen",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Internet",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Recherchen",
+                            "label": 6
+                        },
+                        {
+                            "answer": "handelt",
+                            "label": 7
+                        },
+                        {
+                            "answer": "medizinischen",
+                            "label": 8
+                        },
+                        {
+                            "answer": "Erfahrungen",
+                            "label": 9
+                        },
+                        {
+                            "answer": "Bewältigungsstrategien",
+                            "label": 10
+                        },
+                        {
+                            "answer": "Gruppe",
+                            "label": 11
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_5_2",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Der Aufbau eines _ ist von entscheidender Bedeutung, insbesondere für Menschen mit neurologischen Erkrankungen. Eine starke Unterstützung kann dabei helfen, die emotionalen und physischen Herausforderungen zu bewältigen, die mit solchen _ einhergehen. Eine Möglichkeit, eine solche Unterstützung zu finden, besteht darin, sich einer Selbsthilfegruppe _. In solchen Gruppen _ sich Betroffene regelmäßig, um Erfahrungen auszutauschen und sich gegenseitig zu unterstützen. _ können in Ihrer örtlichen Gemeinde oder in Krankenhäusern und Kliniken angeboten werden. Fragen Sie Ihren Arzt oder Therapeuten, ob er Empfehlungen für Gruppen in Ihrer Nähe hat. In der heutigen Zeit bietet das _ auch zahlreiche Möglichkeiten, um sich mit anderen in Verbindung zu setzen, die ähnliche Erfahrungen machen. Online-Unterstützungsgruppen und Foren ermöglichen es Ihnen, von zu Hause aus mit anderen Betroffenen in Kontakt zu treten. Diese können besonders hilfreich sein, wenn Sie in einer ländlichen Gegend leben oder keine Selbsthilfegruppe in Ihrer Nähe finden können. Bevor Sie sich einer Gruppe oder einem Forum anschließen, ist es wichtig, einige _ durchzuführen, um sicherzustellen, dass es sich um eine seriöse und unterstützende Gemeinschaft _. Schauen Sie nach Bewertungen oder Empfehlungen von anderen Betroffenen oder _ Fachleuten. Sobald Sie eine Gruppe gefunden haben, die Ihnen zusagt, zögern Sie nicht, sich aktiv zu beteiligen. Das Teilen Ihrer eigenen _ und das Zuhören der Geschichten anderer kann Ihnen helfen, sich weniger isoliert zu fühlen und neue _ zu erlernen. Ein starkes Unterstützungsnetzwerk kann für Menschen mit neurologischen Erkrankungen von unschätzbarem Wert sein. Es ist wichtig, sich die Zeit zu nehmen, um die für Sie am besten geeignete _ oder Gemeinschaft zu finden und sich aktiv an deren Aktivitäten zu beteiligen. Denn gemeinsam ist es leichter, die Herausforderungen des Lebens zu meistern."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "selbstbestimmteres",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Platz",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Haltegriffe",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Nischen",
+                            "label": 3
+                        },
+                        {
+                            "answer": "technische",
+                            "label": 4
+                        },
+                        {
+                            "answer": "Beleuchtung",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Tagesablauf",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Bewegung",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Hilfe",
+                            "label": 8
+                        },
+                        {
+                            "answer": "alternative",
+                            "label": 9
+                        },
+                        {
+                            "answer": "geduldig",
+                            "label": 10
+                        },
+                        {
+                            "answer": "sichereres",
+                            "label": 11
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_5_3",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Adaptive Living: Anpassung der Umgebung für mehr Unabhängigkeit. Das Leben mit einer neurologischen Erkrankung kann eine Herausforderung sein. Doch durch gezielte Anpassungen der Wohnsituation und täglichen Routinen lässt sich ein _ Leben führen. Hier sind einige Tipps und Strategien, um den Alltag besser zu bewältigen. 1. Schaffen Sie eine barrierefreie Umgebung: Beseitigen Sie Stolperfallen wie Kabel und Teppiche und schaffen Sie genügend _, um sich frei bewegen zu können. Installieren Sie _ in Bad und WC, um Stürze zu vermeiden. 2. Passen Sie Möbel und Geräte an: Stellen Sie sicher, dass alle genutzten Gegenstände leicht erreichbar sind. Schaffen Sie _ für häufig benötigte Gegenstände und nutzen Sie Hilfsmittel wie Greifzangen oder verlängerte Schalter. 3. Verwenden Sie _ Hilfsmittel: Sprachassistenten und Smartphone-Apps können helfen, den Alltag zu organisieren und Erinnerungen für Medikamenteneinnahmen oder Arzttermine zu setzen. 4. Anpassung der _: Eine gute Beleuchtung ist wichtig, um Stürze und Unfälle zu vermeiden. Installieren Sie Bewegungsmelder und helle LED-Leuchten, um Räume optimal auszuleuchten. 5. Organisieren Sie Ihren Alltag: Erstellen Sie einen festen _ mit festgelegten Zeiten für Mahlzeiten, Medikamenteneinnahmen und Ruhepausen. So behalten Sie den Überblick und können Ihre Energie gezielt einsetzen. 6. Bleiben Sie aktiv: Regelmäßige _ ist wichtig, um die körperliche und geistige Gesundheit zu fördern und den sozialen Kontakt zu pflegen. 7. Holen Sie sich Unterstützung: Ob professionelle _, Freunde oder Familie, ein Unterstützungsnetzwerk ist wichtig, um ein unabhängiges Leben zu führen. 8. Anpassung der Kommunikationsmittel: Nutzen Sie _ Kommunikationsformen wie Gebärdensprache, Bildkarten oder Schreibtafeln, um Ihre Bedürfnisse auszudrücken. 9. Seien Sie _: Die Anpassung an eine neue Lebenssituation braucht Zeit. Akzeptieren Sie, dass es Höhen und Tiefen geben wird, und arbeiten Sie kontinuierlich an Ihrer Unabhängigkeit. Durch die Umsetzung dieser Tipps und Strategien können Sie Ihre Umgebung und Ihren Alltag an Ihre Bedürfnisse anpassen und somit ein _ und unabhängigeres Leben führen."
+                    ]
+                },
+                {
+                    "answers": [
+                        {
+                            "answer": "darstellen",
+                            "label": 0
+                        },
+                        {
+                            "answer": "Angst",
+                            "label": 1
+                        },
+                        {
+                            "answer": "Entspannungsmethoden",
+                            "label": 2
+                        },
+                        {
+                            "answer": "Atemübungen",
+                            "label": 3
+                        },
+                        {
+                            "answer": "helfen",
+                            "label": 4
+                        },
+                        {
+                            "answer": "praktiziert",
+                            "label": 5
+                        },
+                        {
+                            "answer": "Achtsamkeit",
+                            "label": 6
+                        },
+                        {
+                            "answer": "Unterstützungssystem",
+                            "label": 7
+                        },
+                        {
+                            "answer": "Freunde",
+                            "label": 8
+                        },
+                        {
+                            "answer": "Zielen",
+                            "label": 9
+                        },
+                        {
+                            "answer": "Entspannung",
+                            "label": 10
+                        },
+                        {
+                            "answer": "Ernährung",
+                            "label": 11
+                        }
+                    ],
+                    "exercise_id": "Schriftsprache_ex_c6_texte_ergaenzen_lvl_5_4",
+                    "question": "Tippen Sie der Reihe nach auf die korrekten Textbausteine, um sie in den Lückentext einzufügen.",
+                    "tasks": [
+                        "Emotionales Wohlbefinden: Stress und Angst in der Auseinandersetzung mit neurologischen Störungen bewältigen Neurologische Störungen können eine enorme Belastung für Betroffene und ihre Angehörigen _. Sie können nicht nur körperliche, sondern auch emotionale Herausforderungen mit sich bringen, wie zum Beispiel Stress, _ und Depressionen. Es ist wichtig, sich dieser Gefühle bewusst zu sein und Techniken zu erlernen, um sie effektiv zu bewältigen und das emotionale Wohlbefinden zu fördern. Eine bewährte Technik zur Stressbewältigung ist das Erlernen von _. Dazu gehören die progressive Muskelentspannung, _ und Meditation. Diese Techniken können _, körperliche Anspannung abzubauen und den Geist zu beruhigen. Sie können täglich _ werden, um ein Gefühl der Ruhe und inneren Ausgeglichenheit zu fördern. Ein weiterer wichtiger Aspekt bei der Bewältigung von Stress und Angst ist die _. Achtsamkeit bedeutet, den Fokus auf das Hier und Jetzt zu richten und sich voll und ganz auf die gegenwärtige Situation zu konzentrieren. Dies kann helfen, negative Gedanken und Sorgen loszulassen und bewusster mit den eigenen Emotionen umzugehen. Es ist auch hilfreich, sich ein _ aufzubauen, um mit den emotionalen Herausforderungen umzugehen. Dies kann _, Familienmitglieder, Therapeuten oder Selbsthilfegruppen umfassen. Eine solche Unterstützung kann dabei helfen, sich verstanden und weniger allein mit den Problemen zu fühlen. Ein weiterer Ansatz zur Bewältigung von Stress und Angst ist das Setzen von _. Dabei sollte man sich realistische und erreichbare Ziele setzen, um das Selbstwertgefühl zu stärken und die Motivation zu fördern. Gleichzeitig ist es wichtig, sich nicht zu überfordern und genügend Zeit für Erholung und _ einzuplanen. Zuletzt sollte man auf eine ausgewogene _ und regelmäßige Bewegung achten, um das emotionale Wohlbefinden zu unterstützen. Eine gesunde Lebensweise kann dazu beitragen, Stress abzubauen und ein besseres psychisches Gleichgewicht herzustellen."
+                    ]
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_c6_texte_ergaenzen",
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung sehen Sie Texte mit wichtigen Informationen zu Ihrem Heilungsverlauf. Lesen Sie diese aufmerksam durch."
+            },
+            {
+                "text": "Einige Worte fehlen in den Texten. Setzen Sie die gesuchten Wörter aus den Möglichkeiten auf der rechten Seite korrekt ein."
+            },
+            {
+                "text": "Sind Sie sich bei einer Lücke unsicher, versuchen Sie das gesuchte Wort aus dem Kontext korrekt einzufügen. Viel Erfolg!"
+            }
+        ],
+        "type": "static"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 4,
+                "rounds": 3
+            },
+            "tasks": 5
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 4,
+                "rounds": 3
+            },
+            "tasks": 5
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 4,
+                "rounds": 3
+            },
+            "tasks": 5
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 4,
+                "rounds": 3
+            },
+            "tasks": 5
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 3,
+                "rounds": 3
+            },
+            "tasks": 4
+        }
+    ],
+    "checksum": "f4a06c6bb41ad48534790f262903b08b"
+}

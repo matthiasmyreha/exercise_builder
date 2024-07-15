@@ -1,0 +1,6730 @@
+{
+  "code": "d9",
+  "configuration": {
+    "answer_format_type": "custom",
+    "answer_type": "single-choice",
+    "exercise_type": "predefined",
+    "show_bottom_bar": true,
+    "show_question": true,
+    "task_format_type": "custom",
+    "should_skip_to_next": "always"
+  },
+  "exercises": [
+    {
+      "content": [
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex0",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wasser ist trocken. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex1",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Sonne scheint. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex10",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Fische können fliegen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex11",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Vögel leben unter Wasser. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex12",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Katzen bellen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex13",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Stuhl hat vier Beine. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex14",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Bäume haben Blätter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex15",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Sonne ist kalt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex16",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Milch ist grün. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex17",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Hunde haben Federn. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex18",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Fische atmen Luft. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex19",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Jahr hat 12 Monate. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex2",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Äpfel sind Früchte. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex20",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Winter ist heiß. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex21",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Tag hat 48 Stunden. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex22",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Zitronen sind süß. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex23",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Mäuse jagen Katzen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex24",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Katzen jagen Mäuse. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex25",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Hunde bellen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex26",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Füße haben Finger. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex27",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Hühner legen Eier. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex28",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Fische leben im Wasser. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex29",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Vögel haben Flügel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex3",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Steine können schwimmen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex30",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Bälle sind rund. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex31",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wasser ist nass. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex32",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Zebras haben Streifen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex33",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Hunde krähen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex34",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Hahn kräht. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex35",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Igel haben Stacheln. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex36",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Uhr tickt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex37",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Nacht ist hell. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex38",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Telefon läutet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex39",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Schokolade ist salzig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex4",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eis ist heiß. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex40",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Baby weint. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex41",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Blume blüht. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex42",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Watte ist weich. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex43",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Feuer ist heiß. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex44",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Regen ist trocken. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex45",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Lärm ist leise. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex46",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Glas ist biegsam. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex47",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Stahl ist hart. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex48",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Meer ist salzig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex49",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Wecker klingelt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex5",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Himmel ist blau. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex50",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Wind weht. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex51",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Feuer ist gefährlich. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex52",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wasser ist nass. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex53",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Äpfel sind Gemüse. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex54",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eis ist kalt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex55",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Himmel ist gelb. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex56",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Gras ist grün. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex57",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Zucker ist sauer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex58",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Erde ist flach. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex59",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Fische können schwimmen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex6",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Gras ist rot. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex60",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Vögel nisten in Bäumen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex61",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Katze miaut. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex62",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Stuhl hat acht Beine. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex63",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Bäume haben Wurzeln. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex64",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Milch ist weiß. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex65",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Hunde haben Fell. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex66",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Fische haben Kiemen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex67",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Jahr hat 12 Wochen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex68",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Winter ist kalt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex69",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Tag hat 24 Stunden. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex7",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Zucker ist süß. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex70",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Zitronen sind sauer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex71",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Füße haben Zehen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex72",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Vögel haben Schuppen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex73",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Bälle sind eckig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex74",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Zebras haben Punkte. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex75",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Nacht ist dunkel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex76",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Schokolade ist süß. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex77",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Watte ist kratzig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex78",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Feuer ist eisig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex79",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Lärm ist laut. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex8",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Erde ist rund. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex80",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Glas ist durchsichtig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex81",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Stahl ist weich. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex82",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Pferde legen Eier. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex83",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Fische leben im Aquarium. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_1_ex9",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Autos haben Räder. "
+          ]
+        }
+      ],
+      "level": 1
+    },
+    {
+      "content": [
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex0",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Tag ist heller als die Nacht. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex1",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kinder sind älter als ihre Eltern. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex10",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Sommer fahren wir Schlittschuh auf dem See. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex100",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Sommer genießen heiße Maroni. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex101",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Frühling sammeln die Kinder Kastanien. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex102",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Er trinkt Wasser aus dem Glas. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex103",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Stürmer schießt ein Tor. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex104",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "In der Sonne wird die Milch sauer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex105",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Astronaut erkundet das Weltall. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex106",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Fotograf nimmt Bilder mit einer Kamera auf. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex107",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Temperaturen im Januar und Februar sind eisig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex108",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ich wärme mich gerne mit einer heißen Suppe. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex109",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Frühling sammeln die Kinder bunte Blätter im Park. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex11",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Suppe wird mit der Gabel gegessen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex110",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Preis ist für das Baujahr des Autos viel zu hoch. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex111",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Bäcker schiebt die Tafel in den Ofen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex112",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Bäcker schiebt das Backblech in den Ofen."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex113",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Lehrer bekommt eine schlechte Note. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex114",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Lehrer vergibt eine schlechte Note."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex115",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Meerschweinchen fressen gerne Fleisch. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex116",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kaninchen fressen gerne Löwenzahn."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex117",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eisbären leben in der Wüste. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex118",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Am Ende des Geldes ist oft noch viel Monat übrig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex119",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Am Endes des Monats ist oft wenig Geld übrig."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex12",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Riese ist kleiner als ein Zwerg. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex120",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ich schneide das Messer mit dem Brot. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex121",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ich schneide das Brot mit dem Messer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex13",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Gepard läuft langsamer als eine Schnecke. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex14",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Winter bringt Eis und Schnee. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex15",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Frühling fallen die Blätter von den Bäumen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex16",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "In der Wüste regnet es regelmäßig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex17",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Elefant ist schwerer als eine Ameise. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex18",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Sonne scheint in der Nacht. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex19",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Sommer fällt der Schnee. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex2",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Uhr zeigt die Temperatur an. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex20",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Winter bauen wir einen Schneemann. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex21",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Thermometer zeigt die Uhrzeit an. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex22",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Winter baden die Kinder im Teich. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex23",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Menschen haben drei Augen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex24",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Spinnen haben acht Beine. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex25",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Kind zeichnet mit dem Hammer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex26",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Fußgänger geht über den Zebrastreifen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex27",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Auto hält an der roten Ampel."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex28",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Sommer gehen die Kinder ins Freibad. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex29",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Am Sonntag läuten die Glocken. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex3",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Schnee fällt im Sommer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex30",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wir feiern Weihnachten im März. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex31",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Zum Abtrocknen braucht man einen Schwamm. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex32",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Er kauft die Zeitung in der Apotheke. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex33",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Sie holt die Brötchen beim Friseur. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex34",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Er spült die Teller mit Olivenöl. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex35",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Herbst sprießen die Tulpen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex36",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Frühling blühen die Narzissen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex37",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn es warm wird, fliegen die Zugvögel in den Süden. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex38",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn es kalt wird, zieht er sich einen warmen Mantel an. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex39",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn ich müde bin, gehe ich ins Bett. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex4",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Bruder meiner Mutter ist ein Mann. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex40",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ich sehe mir die Nachrichten im Radio an. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex41",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn es regnet, bleibe ich zuhause. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex42",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Sie schreibt den Brief mit einem Messer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex43",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Sommer genießen wir Eiscreme. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex44",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Sie kauft frisches Obst in der Bücherei. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex45",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Er trinkt Wasser aus dem Sieb. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex46",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Zum Fußballspielen trägt er Schwimmflossen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex47",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Er putzt seine Schuhe mit Zahnpasta. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex48",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Sie erledigt den Wocheneinkauf im Supermarkt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex49",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Schneiderin kürzt die Hose. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex5",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Am Abend geht die Sonne auf. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex50",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Moderator kündigt seinen nächsten Gast an.  "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex51",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Stürmer schießt einen Korb. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex52",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "In der Sonne wird Milch bitter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex53",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "In der kalten Jahreszeit, ist es lange hell draußen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex54",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Er backt Brot in der Waschmaschine. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex55",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Lehrerin korrigiert die Prüfungen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex56",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Astronaut erkundet den Ozeanboden. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex57",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Koch bereitet eine Suppe mit einem Bügeleisen zu. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex58",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Fotograf nimmt Bilder mit einem Teleskop auf. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex59",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Temperaturen im Januar und Juli sind eisig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex6",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Am Morgen geht die Sonne unter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex60",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ich wärme mich gerne mit einer kalten Suppe. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex61",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Herbst sammeln die Kinder bunte Blätter im Park. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex62",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Friseur färbt die Haare mit Wasserfarbe. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex63",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Bei starkem Wind fliegen die Drachen höher. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex64",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Sommer wird es abends früher dunkel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex65",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kinder sind jünger als ihre Eltern. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex66",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Schnee fällt im Winter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex67",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Bruder meiner Mutter ist eine Frau. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex68",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Am Abend geht die Sonne unter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex69",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Am Morgen geht die Sonne auf. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex7",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Nacht ist heller als der Tag. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex70",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Keller ist unten im Haus. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex71",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Maus ist größer als ein Elefant. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex72",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Winter fahren wir Schlittschuh auf dem See. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex73",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Suppe wird mit dem Löffel gegessen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex74",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Zwerg ist kleiner als ein Riese. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex75",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Gepard läuft schneller als eine Schnecke. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex76",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Sommer bringt Eis und Schnee. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex77",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Herbst fallen die Blätter von den Bäumen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex78",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Ameise ist schwerer als ein Elefant. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex79",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Mond scheint in der Nacht. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex8",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Dachgeschoss ist unten im Haus. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex80",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Winter fällt der Schnee. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex81",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Sommer bauen wir einen Schneemann. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex82",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Thermometer zeigt die Temperatur an. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex83",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Sommer baden die Kinder im Teich. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex84",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Menschen haben zwei Augen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex85",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Spinnen haben zwölf Beine. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex86",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Kind zeichnet mit dem Bleistift. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex87",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Maler streicht die Wand mit dem Pinsel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex88",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Maler streicht die Wand mit dem Buttermesser. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex89",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Mutter schmiert das Brot mit Motoröl. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex9",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Maus ist kleiner als ein Elefant. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex90",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Mutter schmiert das Brot mit dem Buttermesser. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex91",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Mechaniker schmiert die Bremsen mit Olivenöl. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex92",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Im Dezember feiern wir Weihnachten. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex93",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Er kauft die Zeitung am Kiosk. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex94",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Sie holt die Brötchen beim Bäcker. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex95",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Er spült die Teller mit Seife. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex96",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn es kalt wird, fliegen die Zugvögel in den Süden. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex97",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn es kalt wird, zieht er sich eine Badehose an. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex98",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ich höre mir die Nachrichten im Radio an. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_2_ex99",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Sie schreibt den Brief mit einer Füllfeder. "
+          ]
+        }
+      ],
+      "level": 2
+    },
+    {
+      "content": [
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex0",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Mäuse werden von Katzen gejagt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex1",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Katzen werden von Mäusen gejagt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex10",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Baum wird von dem Holzfäller gefällt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex11",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Holzfäller wird von dem Baum gefällt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex12",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Buch wird vom Schüler gelesen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex13",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Schüler wird vom Buch gelesen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex14",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Blumen werden vom Gärtner gegossen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex15",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Gärtner wird von den Blumen gegossen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex16",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Nachrichten werden vom Reporter berichtet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex17",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Reporter wird von den Nachrichten berichtet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex18",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Essen wird vom Koch zubereitet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex19",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Koch wird vom Essen zubereitet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex2",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Pastor wird vom Kind getauft. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex20",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Knochen wird von dem Hund gefressen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex21",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Hund wird von dem Knochen gefressen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex22",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Knochen frisst den Hund. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex23",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Knochen frisst der Hund."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex24",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Briefträger beißt der Hund. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex25",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Briefträger beißt den Hund. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex26",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Brief trägt der Postbote. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex27",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Postbote trägt den Brief. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex28",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Brief trägt den Postboten. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex29",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Ball wirft der Spieler. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex3",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Kind wird vom Pastor getauft. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex30",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Spieler wirft den Ball. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex31",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Ball wirft den Spieler. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex32",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Kuchen isst der Junge. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex33",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Junge isst den Kuchen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex34",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Kuchen isst den Jungen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex35",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Teller zerbricht der Koch. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex36",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Koch zerbricht den Teller. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex37",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Koch zerbricht der Teller. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex38",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Teller zerbricht den Koch."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex39",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Schlüssel findet der Detektiv. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex4",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Lehrerin wird vom Schüler unterrichtet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex40",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Detektiv findet den Schlüssel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex41",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Schlüssel findet den Detektiv. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex42",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Detektiv findet der Schlüssel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex43",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Richter wird von dem Angeklagten verurteilt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex44",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Richter verurteilt den Angeklagten. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex45",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Angeklagte verurteilt den Richter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex46",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Angeklagte wird von dem Richter verurteilt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex47",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Angeklagten verurteilt der Richter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex48",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Richter verurteilt der Angeklagte. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex49",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Nächste Woche hatte ich einen Zahnarzttermin. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex5",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Schüler wird von der Lehrerin unterrichtet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex50",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Letzte Woche hatte ich einen Zahnarzttermin. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex51",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Morgen habe ich einen Kuchen gebacken. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex52",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Gestern habe ich einen Kuchen gebacken. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex53",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Letztes Jahr werde ich nach Italien reisen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex54",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Nächstes Jahr werde ich nach Italien reisen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex55",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Nächsten Monat war ich beim Friseur. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex56",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Letzten Monat war ich beim Friseur. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex57",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Letzte Nacht habe ich gut geschlafen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex58",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Vor einer Stunde habe ich zu Mittag gegessen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex59",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "In einer Stunde habe ich zu Mittag gegessen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex6",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Baby wird von der Mutter gewickelt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex60",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Übermorgen habe ich einen Arzttermin. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex61",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Vorgestern habe ich einen Arzttermin. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex62",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Morgen war ich mit Freunden im Kino. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex63",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Gestern war ich mit Freunden im Kino. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex64",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Gestern werde ich ein Geschenk kaufen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex65",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Morgen werde ich ein Geschenk kaufen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex66",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Schreibtisch steht auf dem Computer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex67",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Auf dem Schreibtisch steht der Computer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex68",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Computer steht auf dem Schreibtisch."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex69",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Bild hängt über dem Sofa. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex7",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Mutter wird von dem Baby gewickelt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex70",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Über dem Sofa hängt ein Stuhl. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex71",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Teppich liegt auf dem Boden. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex72",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Boden liegt auf dem Teppich. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex73",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Auf dem Boden liegt ein Teppich. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex74",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Lampe steht neben dem Bett. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex75",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Bett steht auf dem Regal. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex76",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Die Katze schläft unter dem Tisch. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex77",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Vogel sitzt auf dem Baum. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex78",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Affe klettert hinter der Palme. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex8",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Auto wird von dem Mechaniker repariert. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_3_ex9",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Mechaniker wird von dem Auto repariert. "
+          ]
+        }
+      ],
+      "level": 3
+    },
+    {
+      "content": [
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex0",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Frau, die keine Enkelkinder hat, ist eine Großmutter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex1",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jedes Auto, das eine rote Farbe hat, ist ein Feuerwehrauto. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex10",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jedes Fahrzeug, das auf Schienen fährt, ist ein Zug. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex11",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jedes Gerät, das Strom verbraucht, ist ein Computer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex12",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jedes Werkzeug, das schneidet, ist eine Schere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex13",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jedes Insekt, das summt, ist eine Biene. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex14",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jede Mahlzeit, die Gemüse enthält, ist ein Salat. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex15",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jede Person, die in einem Krankenhaus arbeitet, ist ein Arzt.  "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex16",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Gebäude, in dem Bücher zur Ausleihe verfügbar sind, ist eine Bibliothek. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex17",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Wasserfahrzeug, das unter der Wasseroberfläche operieren kann, ist ein U-Boot. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex18",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Person, die in einem Restaurant Essen serviert, ist ein Kellner. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex19",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Instrument, das Tasten hat und zum Spielen von Musik verwendet wird, ist ein Klavier. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex2",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn es regnet, wird die Straße nass. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex20",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn Pflanzen Sonnenlicht erhalten, betreiben sie Photosynthese. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex21",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn man Eis ins Feuer legt, friert es. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex22",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn man Wasser ins Tiefkühlfach stellt, friert es."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex23",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn man Eis ins Tiefkühlfach stellt, schmilzt es."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex24",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Trinken von Wasser löscht den Durst. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex25",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Tragen eines Mantels hält im Winter warm. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex26",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Fahren ohne Benzin bewegt das Auto vorwärts. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex27",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Essen von gesunder Nahrung trägt zur Gesundheit bei. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex28",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Auftragen von Sonnencreme erhöht die Gefahr für einen Sonnenbrand. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex29",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn Bienen Blüten bestäuben, unterstützen sie die Pflanzenvermehrung. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex3",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Tragen von Brillen verbessert die Sicht. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex30",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn man nachts schläft, erholt sich der Körper. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex31",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Lesen bei schlechtem Licht verbessert die Sehkraft. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex32",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Lüften des Raumes verbessert die Luftqualität. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex33",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Regelmäßiges Training stärkt die Muskulatur. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex34",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Trinken von Kaffee am Abend kann den Schlaf beeinträchtigen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex35",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Hören von lauter Musik über Kopfhörer schützt das Gehör. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex36",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Person, die Schüler unterrichtet, ist ein Lehrer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex37",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wer bei Regen ohne Schirm nach draußen geht, bleibt trocken. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex38",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wer bei Regen einen Schirm aufspannt, wird nicht nass. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex39",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Der Torwart hält den scharf geschossenen Ball im letzten Moment. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex4",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ich spanne den Schirm auf, damit es regnet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex40",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Den Torwart hält der scharf geschossene Ball im letzten Moment. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex41",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Frau, die keine Enkelkinder hat, ist keine Großmutter. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex42",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Bevor es regnet, ist die Straße nass. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex43",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Tragen von Brillen verschlechtert die Sicht. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex44",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Gebäude, in dem Bücher zur Ausleihe verfügbar sind, ist ein Museum. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex45",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Wasserfahrzeug, das ins Weltall fliegen kann, ist ein U-Boot. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex46",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Person, die in einem Restaurant Essen serviert, ist ein Tierarzt. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex47",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ein Instrument, das Tasten hat und zum Spielen von Musik verwendet wird, ist eine Flöte. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex48",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wenn man Eis ins Feuer legt, schmilzt es. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex49",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Trinken von Wasser macht durstig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex5",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Ich spanne den Schirm auf, weil es regnet. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex50",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Das Auftragen von Sonnencreme schützt die Haut vor einem Sonnenbrand. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex51",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Eine Person, die Schüler unterrichtet, ist ein Koch. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex52",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wer bei Regen ohne Schirm nach draußen geht, wird nass. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex53",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wer bei Regen einen Schirm aufspannt, wird nass. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex54",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Wer bei Regen einen Schirm aufspannt, bleibt nicht trocken."
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex6",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jedes Tier, das fliegen kann, ist ein Adler. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex7",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jeder Baum, der Früchte trägt, ist ein Apfelbaum. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex8",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jedes Tier, das im Wasser lebt, ist ein Fisch. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_4_ex9",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Jedes Getränk, das Koffein enthält, ist Kaffee. "
+          ]
+        }
+      ],
+      "level": 4
+    },
+    {
+      "content": [
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex0",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel sind Tiere.\nAlle Papageien sind Vögel.\n\nDaher sind alle Papageien Tiere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex1",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Fuchs ist ein Vogel.\nAlle Papageien sind Vögel.\n\nDaher ist kein Papagei ein Fuchs. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex10",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Rechtecke sind Vierecke.\nEinige Rechtecke sind Quadrate.\n\nDaher sind einige Vierecke Quadrate. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex11",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Einige Früchte sind Äpfel.\nAlle Früchte sind Teile von Pflanzen.\n\nDaher sind einige Teile von Pflanzen Äpfel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex12",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Reptil hat Fell.\nAlle Schlangen sind Reptilien.\n\nDaher hat keine Schlange Fell. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex13",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Hasen haben Fell.\nEinige Haustiere sind Hasen.\n\nDaher haben einige Haustiere Fell. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex14",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Einige Katzen sind keine Haustiere.\nAlle Katzen sind Säugetiere.\n\nDaher sind einige Säugetiere keine Haustiere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex15",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Lehrer sind streng.\nKein Schüler ist streng.\n\nDaher ist kein Schüler ein Lehrer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex16",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Menschen sind Lebewesen.\nAlle Köche sind Menschen.\n\nDaher sind alle Köche Lebewesen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex17",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Keine Katze ist ein Hund.\nAlle Perserkatzen sind Katzen.\n\nDaher ist keine Perserkatze ein Hund. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex18",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Fisch lebt auf dem Land.\nAlle Karpfen sind Fische.\n\nDaher lebt kein Karpfen auf dem Land. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex19",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Quadrat ist ein Kreis.\nEinige Formen sind Quadrate.\n\nDaher sind einige Formen keine Kreise. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex2",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel sind Tiere.\nAlle Vögel sind gefiedert.\n\nDaher sind einige Tiere gefiedert. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex20",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Blumen sind Pflanzen.\nEinige Pflanzen sind Rosen.\n\nDaher sind einige Blumen Rosen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex21",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Hunde bellen.\nEinige Tiere sind Hunde.\n\nDaher bellen einige Tiere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex22",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Reptilien sind kaltblütig.\nEinige Tiere sind Reptilien.\n\nDaher sind einige Tiere kaltblütig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex23",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel legen Eier.\nEinige Tiere sind Vögel.\n\nDaher legen einige Tiere Eier. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex24",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel sind Tiere.\nAlle Papageien sind Vögel.\n\nDaher ist kein Papagei ein Tier. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex25",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Fuchs ist ein Vogel.\nAlle Papageien sind Vögel.\n\nDaher sind alle Papageien Füchse. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex26",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel sind Tiere.\nAlle Vögel sind gefiedert.\n\nDaher sind alle Tiere gefiedert. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex27",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Vogel ist eine Kuh.\nAlle Kühe sind Tiere.\n\nDaher sind einige Vögel keine Tiere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex28",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Rechteck ist ein Kreis.\nAlle Quadrate sind Rechtecke.\n\nDaher sind alle Quadrate Kreise. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex29",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Vogel ist ein Säugetier.\nAlle Adler sind Vögel.\n\nDaher ist kein Adler ein Säugetier. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex3",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Vogel ist eine Kuh.\nAlle Kühe sind Tiere.\n\nDaher sind einige Tiere keine Vögel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex30",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel sind Wirbeltiere.\nEinige Tiere sind keine Wirbeltiere.\n\nDaher sind alle Tiere Vögel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex31",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel sind Tiere.\nTruthähne sind Vögel.\n\nDaher sind einige Truthähne keine Tiere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex32",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Fische atmen durch Kiemen.\nKein Säugetier atmet durch Kiemen.\n\nDaher sind alle Säugetiere Fische. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex33",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Tier, das durch Kiemen atmet, ist ein Säugetier.\nEinige Wassertiere sind Säugetiere.\n\nDaher atmet kein Wassertier durch Kiemen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex34",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Rechtecke sind Vierecke.\nEinige Rechtecke sind Quadrate.\n\nDaher ist kein Viereck ein Quadrat. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex35",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Reptilien haben Schuppen.\nAlle Schlangen sind Reptilien.\n\nDaher hat keine Schlange Schuppen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex36",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Reptil hat Fell.\nAlle Schlangen sind Reptilien.\n\nDaher haben einige Schlangen Fell. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex37",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Hasen haben Fell.\nEinige Haustiere sind Hasen.\n\nDaher hat kein Haustier Fell. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex38",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Katzen sind Säugetiere.\nEinige Haustiere sind keine Säugetiere.\n\nDaher sind alle Haustiere Katzen. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex39",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Einige Katzen sind keine Haustiere.\nAlle Katzen sind Säugetiere.\n\nDaher sind alle Säugetiere Haustiere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex4",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Rechteck ist ein Kreis.\nAlle Quadrate sind Rechtecke.\n\nDaher ist kein Quadrat ein Kreis. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex40",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Lehrer sind streng.\nKein Schüler ist streng.\n\nDaher sind einige Schüler Lehrer. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex41",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Menschen sind Lebewesen.\nAlle Köche sind Menschen.\n\nDaher sind alle Menschen Köche. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex42",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Keine Katze ist ein Hund.\nAlle Perserkatzen sind Katzen.\n\nDaher sind einige Perserkatzen Hunde. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex43",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Fisch lebt auf dem Land.\nAlle Karpfen sind Fische.\n\nDaher leben einige Karpfen auf dem Land. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex44",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Quadrat ist ein Kreis.\nEinige Formen sind Quadrate.\n\nDaher ist keine Form ein Kreis. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex45",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Blumen sind Pflanzen.\nEinige Pflanzen sind Rosen.\n\nDaher ist keine Rose eine Blume. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex46",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Hunde bellen.\nEinige Tiere sind Hunde.\n\nDaher bellt kein Tier. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex47",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Reptilien sind kaltblütig.\nEinige Tiere sind Reptilien.\n\nDaher ist kein Tier kaltblütig. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex48",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel legen Eier.\nEinige Tiere sind Vögel.\n\nDaher legt kein Tier Eier. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 0
+            },
+            {
+              "answer": "negative",
+              "label": 1
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex5",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Vogel ist ein Säugetier.\nAlle Adler sind Vögel.\n\nDaher sind einige Adler Säugetiere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex6",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel sind Wirbeltiere.\nEinige Tiere sind keine Wirbeltiere.\n\nDaher sind einige Tiere keine Vögel. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex7",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Vögel sind Tiere.\nTruthähne sind Vögel.\n\nDaher sind alle Truthähne Tiere. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex8",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Alle Fische atmen durch Kiemen.\nKein Säugetier atmet durch Kiemen.\n\nDaher ist kein Säugetier ein Fisch. "
+          ]
+        },
+        {
+          "answers": [
+            {
+              "answer": "positive",
+              "label": 1
+            },
+            {
+              "answer": "negative",
+              "label": 0
+            }
+          ],
+          "exercise_id": "Lesesinnverständnis_ex_d9_stimmt_das_lvl_5_ex9",
+          "question": "Stimmt's oder stimmt's nicht?",
+          "tasks": [
+            "Kein Tier, das durch Kiemen atmet, ist ein Säugetier.\nEinige Wassertiere sind Säugetiere.\n\nDaher atmen einige Wassertiere nicht durch Kiemen. "
+          ]
+        }
+      ],
+      "level": 5
+    }
+  ],
+  "id": "ex_d9_stimmt_das",
+  "instructions": {
+    "content": [
+      {
+        "text": "In dieser Übung sollen Sie entscheiden, ob ein vorgegebener Satz stimmt oder nicht."
+      },
+      {
+        "text": "Oben sehen Sie einen Satz. Lesen Sie ihn genau durch.\nUnten können Sie angeben, ob er stimmt oder nicht."
+      },
+      {
+        "text": "Nach dem Klick, sehen Sie, ob Sie die Situation richtig eingeschätzt haben.\nViel Erfolg!"
+      }
+    ],
+    "type": "static"
+  },
+  "levels": [
+    {
+      "level": 1,
+      "level_down": {
+        "results": 2,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 8,
+        "rounds": 3
+      },
+      "tasks": 10
+    },
+    {
+      "level": 2,
+      "level_down": {
+        "results": 2,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 8,
+        "rounds": 3
+      },
+      "tasks": 10
+    },
+    {
+      "level": 3,
+      "level_down": {
+        "results": 4,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 10,
+        "rounds": 4
+      },
+      "tasks": 12
+    },
+    {
+      "level": 4,
+      "level_down": {
+        "results": 7,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 12,
+        "rounds": 4
+      },
+      "tasks": 15
+    },
+    {
+      "level": 5,
+      "level_down": {
+        "results": 7,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 12,
+        "rounds": 4
+      },
+      "tasks": 15
+    }
+  ],
+  "checksum": "bb8d6558bc58296a137a94157073ebd3"
+}

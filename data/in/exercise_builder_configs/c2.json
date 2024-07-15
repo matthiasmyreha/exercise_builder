@@ -1,0 +1,170 @@
+{
+    "code": "c2",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "multiple-choice",
+        "exercise_type": "predefined",
+        "show_bottom_bar": true,
+        "show_question": true,
+        "task_format_type": "multiple-gaps",
+        "should_skip_to_next": "if_correct"
+    },
+    "exercises": [
+        {
+            "question": "Vervollständigen Sie das Wort mit dem passenden Buchstaben.",
+            "filter": {
+                "word_length": {
+                    "max": 5
+                },
+                "word_types": [
+                    "noun"
+                ]
+            },
+            "configuration": {
+                "gaps": 1,
+                "distractors": 1
+            }
+        },
+        {
+            "question": "Vervollständigen Sie das Wort mit dem passenden Buchstaben.",
+            "filter": {
+                "word_length": {
+                    "min": 3,
+                    "max": 6
+                },
+                "word_types": [
+                    "noun"
+                ]
+            },
+            "configuration": {
+                "gaps": 1,
+                "distractors": 1
+            }
+        },
+        {
+            "question": "Vervollständigen Sie das Wort mit dem passenden Buchstaben.",
+            "filter": {
+                "word_length": {
+                    "min": 5,
+                    "max": 7
+                },
+                "word_types": [
+                    "noun"
+                ]
+            },
+            "configuration": {
+                "gaps": 1,
+                "distractors": 2
+            }
+        },
+        {
+            "question": "Vervollständigen Sie das Wort mit dem passenden Buchstaben.",
+            "filter": {
+                "word_length": {
+                    "min": 6,
+                    "max": 9
+                },
+                "word_types": [
+                    "noun"
+                ]
+            },
+            "configuration": {
+                "gaps": 2,
+                "distractors": 3
+            }
+        },
+        {
+            "question": "Vervollständigen Sie das Wort mit dem passenden Buchstaben.",
+            "filter": {
+                "word_length": {
+                    "min": 7
+                },
+                "word_types": [
+                    "noun"
+                ]
+            },
+            "configuration": {
+                "gaps": 3,
+                "distractors": 4
+            }
+        }
+    ],
+    "id": "ex_c2_buchstaben_einfuegen",
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung sollen Sie ein Wort vervollständigen, in dem noch Buchstaben fehlen."
+            },
+            {
+                "text": "Oben sehen Sie ein Wort. \nEs ist unvollständig, da noch Buchstaben fehlen. \n\nUnten finden Sie einzelne Buchstaben, die Sie einfügen können. \nKlicken Sie den gesuchten Buchstaben an, um das Wort zu vervollständigen."
+            },
+            {
+                "text": "Möchten Sie Ihre Eingabe ändern, können Sie unten den Button “Rückgängig” verwenden.\n\nViel Erfolg!"
+            }
+        ],
+        "type": "static"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 8,
+                "rounds": 3
+            },
+            "tasks": 10
+        }
+    ],
+    "checksum": "7382479e8ca6f964a9af0e084be12c56"
+}

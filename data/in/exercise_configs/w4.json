@@ -1,0 +1,307 @@
+{
+    "code": "w4",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "always",
+        "time": 60
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_w4_shape_matching_lvl_1_ex1",
+                    "question": "Tippen Sie auf das Symbol, das zur Zahl in der Mitte passt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "number_of_shapes": 4,
+                        "patterns": [
+                            "1"
+                        ],
+                        "type": "w4",
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f",
+                            "g"
+                        ],
+                        "unique_optional_properties": [],
+                        "unique_required_properties": [
+                            "shape",
+                            "color"
+                        ]
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_w4_shape_matching_lvl_2_ex1",
+                    "question": "Tippen Sie auf das Symbol, das zur Zahl in der Mitte passt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "type": "w4",
+                        "number_of_shapes": 5,
+                        "patterns": [
+                            "1",
+                            "2"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f",
+                            "g"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "color"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_w4_shape_matching_lvl_3_ex1",
+                    "question": "Tippen Sie auf das Symbol, das zur Zahl in der Mitte passt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA",
+                            "#42A4BD",
+                            "#F6CFFA",
+                            "#AE8EF2"
+                        ],
+                        "type": "w4",
+                        "number_of_shapes": 6,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f",
+                            "g",
+                            "h"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "color"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_w4_shape_matching_lvl_4_ex1",
+                    "question": "Tippen Sie auf das Symbol, das zur Zahl in der Mitte passt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA",
+                            "#42A4BD",
+                            "#F6CFFA",
+                            "#AE8EF2"
+                        ],
+                        "type": "w4",
+                        "number_of_shapes": 8,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f"
+                        ],
+                        "unique_optional_properties": [],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_w4_shape_matching_lvl_5_ex5",
+                    "question": "Tippen Sie auf das Symbol, das zur Zahl in der Mitte passt.",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA",
+                            "#42A4BD",
+                            "#F6CFFA",
+                            "#AE8EF2"
+                        ],
+                        "type": "w4",
+                        "number_of_shapes": 10,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f"
+                        ],
+                        "unique_optional_properties": [],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_w4_shape_matching",
+    "instructions": {
+        "content": [
+            {
+                "text": "Text 1."
+            }
+        ],
+        "type": "interactive"
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 13,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 17,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 19,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 21,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 3,
+                "type": "streak"
+            }
+        ]
+    },
+    "checksum": "57218f81c77bba99bf25ac37bbc2af94"
+}

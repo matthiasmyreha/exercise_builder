@@ -1,0 +1,244 @@
+{
+    "code": "w3",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": false,
+        "should_skip_to_next": "always",
+        "time": 50,
+        "lives": 2
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 11,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 16,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 20,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 25,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 5,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 4,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 3,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "level": 2,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            }
+        ]
+    },
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung trainieren Sie Ihre kognitive Flexibilität, um im Alltag schnell umdenken zu können."
+            },
+            {
+                "text": "Sie sehen einen Schwarm von Quallen, die entweder Rot oder Orange sind."
+            },
+            {
+                "text": "Ihre Aufgabe ändert sich je nach dem welche Farbe die Quallen haben."
+            },
+            {
+                "text": "Wenn die Quallen ROT sind, sollen Sie mit dem richtigen Pfeil angeben, in welche Richtung die Quallen SICH BEWEGEN."
+            },
+            {
+                "text": "Wenn die Quallen Orange sind, sollen Sie mit dem richtigen Pfeil angeben, in welche Richtung der KOPF der Quallen ZEIGT."
+            },
+            {
+                "text": "Falls Sie vergessen, welche Aufgabe bei welcher Farbe zu befolgen ist, finden Sie oben im Bild den passenden Hinweis."
+            }
+        ],
+        "type": "interactive"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w3_quallen_lvl_1_ex1",
+                    "question": "Entscheiden Sie anhand der Farbe, in welche Richtung die Quallen zeigen (Orange) oder schwimmen (Rot).",
+                    "tasks": []
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w3_quallen_lvl_2_ex1",
+                    "question": "Entscheiden Sie anhand der Farbe, in welche Richtung die Quallen zeigen (Orange) oder schwimmen (Rot).",
+                    "tasks": []
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w3_quallen_lvl_3_ex1",
+                    "question": "Entscheiden Sie anhand der Farbe, in welche Richtung die Quallen zeigen (Orange) oder schwimmen (Rot).",
+                    "tasks": []
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w3_quallen_lvl_4_ex1",
+                    "question": "Entscheiden Sie anhand der Farbe, in welche Richtung die Quallen zeigen (Orange) oder schwimmen (Rot).",
+                    "tasks": []
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Exekutivfunktion_ex_w3_quallen_lvl_5_ex1",
+                    "question": "Entscheiden Sie anhand der Farbe, in welche Richtung die Quallen zeigen (Orange) oder schwimmen (Rot).",
+                    "tasks": []
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_w3_quallen",
+    "checksum": "57218f81c77bba99bf25ac37bbc2af94"
+}

@@ -1,0 +1,4071 @@
+{
+  "checksum": "d4f1f31e80518cab961b03fb94218eaf",
+  "code": "b4",
+  "configuration": {
+    "answer_format_type": "prompt",
+    "answer_type": "audio",
+    "exercise_type": "predefined",
+    "should_skip_to_next": "never",
+    "show_bottom_bar": false,
+    "show_question": false,
+    "task_format_type": "custom"
+  },
+  "exercises": [
+    {
+      "content": [
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex0",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "still"
+              ],
+              "initial_hint": "Ich denke an ein Getränk. ",
+              "word_to_guess": "Wasser"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex1",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "lesen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Buch"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex10",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Student"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Bildung.",
+              "word_to_guess": "Universität"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex11",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Tor"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Fußball"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex12",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Jurist"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Anwalt"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex13",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "krank"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Arzt"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex14",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Landwirtschaft"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Landwirt"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex15",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Reifen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Fahrrad"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex16",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Film"
+              ],
+              "initial_hint": "Ich denke an einen Ort, der für Freizeitaktivitäten genutzt werden kann.",
+              "word_to_guess": "Kino"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex17",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Restaurant"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Koch"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex18",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schule"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Lehrer"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex19",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "schneiden"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Messer"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex2",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Gebet"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Kultur.",
+              "word_to_guess": "Kirche"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex20",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Rudel"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Wolf"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex21",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Koffein"
+              ],
+              "initial_hint": "Ich denke an ein Getränk. ",
+              "word_to_guess": "Kaffee"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex22",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Krug"
+              ],
+              "initial_hint": "Ich denke an ein Getränk. ",
+              "word_to_guess": "Bier"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex23",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Regeln"
+              ],
+              "initial_hint": "Ich denke an einen Beruf. ",
+              "word_to_guess": "Schiedsrichter"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex3",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Unterricht"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Bildung.",
+              "word_to_guess": "Schule"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex4",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "bellen"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Hund"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex5",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Foto"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Kamera"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex6",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Gemälde"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Künstler"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex7",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Kunst"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Kultur und Kunst.",
+              "word_to_guess": "Museum"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex8",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Instrument"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Musiker"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_1_ex9",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schauspieler"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Kultur und Kunst.",
+              "word_to_guess": "Theater"
+            },
+            "tries": 5,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        }
+      ],
+      "level": 1
+    },
+    {
+      "content": [
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex0",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Raubvogel"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Adler"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex10",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Käfig"
+              ],
+              "initial_hint": "Ich denke an einen Ort, der für Freizeitaktivitäten genutzt werden kann.",
+              "word_to_guess": "Zoo"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex11",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "einlochen"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Golf"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex12",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Mehl"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Brot"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex13",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Getreide"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Reis"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex14",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "melken"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Milch"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex15",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Trauben"
+              ],
+              "initial_hint": "Ich denke an ein Getränk. ",
+              "word_to_guess": "Wein"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex16",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Rezept"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Apotheker"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex17",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Gebäude"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Architekt"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex18",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Brötchen"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Bäcker"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex19",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "gefährlich"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Bär"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex2",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Film"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Fernseher"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex20",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Bücher"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Bildung.",
+              "word_to_guess": "Bibliothek"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex21",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Löschen"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Feuerwehrmann"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex22",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Kamera"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Fotograf"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex23",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Münzen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Geldbörse"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex24",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Saiten"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Gitarre"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex25",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Tasten"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Klavier"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex26",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Ohr"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Kopfhörer"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex27",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Lebensmittel"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Kühlschrank"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex28",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Flugzeug"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Pilot"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex29",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Rücken"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Rucksack"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex3",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "listig"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Fuchs"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex30",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "sitzen"
+              ],
+              "initial_hint": "Ich denke an ein Möbelstück.",
+              "word_to_guess": "Stuhl"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex31",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Speise"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Teller"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex32",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Raubkatze"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Tiger"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex33",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Einzelhandel"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Verkäufer"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex34",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Sand"
+              ],
+              "initial_hint": "Ich denke an einen Lebensraum.",
+              "word_to_guess": "Wüste"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex35",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Korb"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Basketball"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex36",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schläger"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Tennis"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex37",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Becken"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Schwimmen"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex38",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Puck"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Eishockey"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex39",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "k.o."
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Boxen"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex4",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Gemälde"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Kultur und Kunst.",
+              "word_to_guess": "Galerie"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex40",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "backen"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Mehl"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex41",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Huhn"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Ei"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex42",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "streichen"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Butter"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex43",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "ziehen lassen"
+              ],
+              "initial_hint": "Ich denke an ein Getränk. ",
+              "word_to_guess": "Tee"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex5",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "krähen"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Hahn"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex6",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Nagel"
+              ],
+              "initial_hint": "Ich denke an ein Werkzeug.",
+              "word_to_guess": "Hammer"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex7",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Zeitung"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Journalist"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex8",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schnurren"
+              ],
+              "initial_hint": "Ich denke an ein Tier. ",
+              "word_to_guess": "Katze"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_2_ex9",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Verbrecher"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Polizist"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        }
+      ],
+      "level": 2
+    },
+    {
+      "content": [
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex0",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Baustelle"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Bauarbeiter"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex1",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "stur"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Esel"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex10",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Mähne"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Löwe"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex11",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Trommel"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Schlagzeug"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex12",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Winter"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Skispringen"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex13",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "blenden"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Sonnenbrille"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex14",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Kaffee"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Tasse"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex15",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Veterinärmedizin"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Tierarzt"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex16",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schmutzig"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Waschmaschine"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex17",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Clown"
+              ],
+              "initial_hint": "Ich denke an einen Ort, der für Freizeitaktivitäten genutzt werden kann.",
+              "word_to_guess": "Zirkus"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex18",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "schneiden"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Schere"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex19",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Hürden"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Leichtathletik"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex2",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Haar"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Friseur"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex20",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Winter"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Skifahren"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex21",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Kerngehäuse"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Apfel"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex22",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Zitrusfrucht"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Orange"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex23",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "festlich"
+              ],
+              "initial_hint": "Ich denke an ein Getränk. ",
+              "word_to_guess": "Champagner"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex24",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Netz"
+              ],
+              "initial_hint": "Ich denke an ein Tier. ",
+              "word_to_guess": "Spinne"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex25",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "italienisch"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Olivenöl"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex26",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Balsinstrument"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Akkordeon"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex27",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Fahrzeug"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Autoschlüssel"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex28",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Streichinstrument"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Cello"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex29",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Rüssel"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Elefant"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex3",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Pflanzen"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Gärtner"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex30",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "reparieren"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Elektriker"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex31",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Steuerung"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Fernbedienung"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex32",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Besteck"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Gabel"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex33",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "schnell"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Gepard"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex34",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Raubfisch"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Hai"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex35",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Ohren"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Hase"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex36",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Blasinstrument"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Klarinette"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex37",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Patient"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Krankenpfleger"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex38",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Besteck"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Löffel"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex39",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Hollywood-Ikone"
+              ],
+              "initial_hint": "Ich denke an eine berühmte Persönlichkeit.",
+              "word_to_guess": "Marilyn Monroe"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex4",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Violine"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Geige"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex40",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Technik"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Mechaniker"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex41",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Abfall"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Mülltonne"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex42",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Oper"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Kultur und Kunst.",
+              "word_to_guess": "Opernhaus"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex43",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Therapie"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Psychologe"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex44",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "tropisch"
+              ],
+              "initial_hint": "Ich denke an einen Lebensraum.",
+              "word_to_guess": "Regenwald"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex45",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Milch"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Rind"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex46",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Reinigung"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Seife"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex47",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Haut"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Sonnencreme"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex48",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Hilfe"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Sozialarbeiter"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex49",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Superheld"
+              ],
+              "initial_hint": "Ich denke an einen fiktionalen Charakter.",
+              "word_to_guess": "Superman"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex5",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "trocknen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Handtuch"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex50",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Stromausfall"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Taschenlampe"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex51",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Stadt"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Taube"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex52",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Holz"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Tischler"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex53",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Blech"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Trompete"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex54",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Netz"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Volleyball"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex55",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Dreikampf"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Triathlon"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex56",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schale"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Banane"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex57",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "pelzig"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Kiwi"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex58",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Blatt"
+              ],
+              "initial_hint": "Ich denke an ein Gemüse. ",
+              "word_to_guess": "Spinat"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex59",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Erde"
+              ],
+              "initial_hint": "Ich denke an ein Gemüse. ",
+              "word_to_guess": "Kartoffel"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex6",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Zauberer"
+              ],
+              "initial_hint": "Ich denke an einen fiktionalen Charakter.",
+              "word_to_guess": "Harry Potter"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex60",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Milchprodukt"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Joghurt"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex61",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Halloween"
+              ],
+              "initial_hint": "Ich denke an ein Gemüse. ",
+              "word_to_guess": "Kürbis"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex62",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Honig"
+              ],
+              "initial_hint": "Ich denke an ein Tier. ",
+              "word_to_guess": "Biene"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex7",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Technik"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Ingenieur"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex8",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Geheimagent"
+              ],
+              "initial_hint": "Ich denke an einen fiktionalen Charakter.",
+              "word_to_guess": "James Bond"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_3_ex9",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "servieren"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Kellner"
+            },
+            "tries": 6,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        }
+      ],
+      "level": 3
+    },
+    {
+      "content": [
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex0",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Physiker"
+              ],
+              "initial_hint": "Ich denke an eine berühmte Persönlichkeit.",
+              "word_to_guess": "Albert Einstein"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex1",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Ausgrabung"
+              ],
+              "initial_hint": "Ich denke an einen Beruf. ",
+              "word_to_guess": "Archäologe"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex10",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "brühen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Kaffeemaschine"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex11",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Beutel"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Känguru"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex12",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Reptil"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Krokodil"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex13",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Musiker"
+              ],
+              "initial_hint": "Ich denke an eine berühmte Persönlichkeit.",
+              "word_to_guess": "Michael Jackson"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex14",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "flugunfähig"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Pinguin"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex15",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Weltall"
+              ],
+              "initial_hint": "Ich denke an einen Ort der für Bildung.",
+              "word_to_guess": "Planetarium"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex16",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "nass"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Regenschirm"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex17",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Holz"
+              ],
+              "initial_hint": "Ich denke an ein Werkzeug.",
+              "word_to_guess": "Säge"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex18",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Blasinstrument"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Saxophon"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex19",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Panzer"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Schildkröte"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex2",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Uhrzeit"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Armbanduhr"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex20",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "reinigen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Schwamm"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex21",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "reinigen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Spülmittel"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex22",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Klinge"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Taschenmesser"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex23",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Brot"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Toaster"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex24",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "erhitzen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Wasserkocher"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex25",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "putzen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Zahnbürste"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex26",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Karies"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Zahnpasta"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex27",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Werkzeug"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Zange"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex28",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Streifen"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Zebra"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex29",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "schwarzer Gürtel"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Karate"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex3",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Vogel"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Eule"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex30",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Boot"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Rudern"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex31",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Axel"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Eiskunstlauf"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex32",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Ziel"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Bogenschießen"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex33",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "pflücken"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Erdbeere"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex34",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Baum"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Birne"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex35",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Röschen"
+              ],
+              "initial_hint": "Ich denke an ein Gemüse. ",
+              "word_to_guess": "Brokkoli"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex36",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "rot"
+              ],
+              "initial_hint": "Ich denke an ein Gemüse. ",
+              "word_to_guess": "Tomate"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex37",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "grün"
+              ],
+              "initial_hint": "Ich denke an ein Gemüse. ",
+              "word_to_guess": "Gurke"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex38",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Butter"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Margerine"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex39",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Pflanze"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Blumentopf"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex4",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "anzünden"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Feuerzeug"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex40",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schraube"
+              ],
+              "initial_hint": "Ich denke an ein Werkzeug.",
+              "word_to_guess": "Bohrmaschine"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex41",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Steuer"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Buchhalter"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex42",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Kleidung"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Bügeleisen"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex43",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Flipper"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Delfin"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex44",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "pink"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Flamingo"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex45",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Hals"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Giraffe"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex46",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Musiker"
+              ],
+              "initial_hint": "Ich denke an einen Ort der Kultur und Kunst.",
+              "word_to_guess": "Konzerthalle"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex47",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "spucken"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Lama"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex48",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Starwars"
+              ],
+              "initial_hint": "Ich denke an einen fiktionalen Charakter.",
+              "word_to_guess": "Luke Skywalker"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex49",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "grau"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Nashorn"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex5",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Blasinstrument"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Flöte"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex50",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Gehirn"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Neurologe"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex51",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Künstler"
+              ],
+              "initial_hint": "Ich denke an eine berühmte Persönlichkeit.",
+              "word_to_guess": "Pablo Picasso"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex52",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "sprechen"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Papagei"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex53",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Tippen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Schreibmaschine"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex54",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Detektiv"
+              ],
+              "initial_hint": "Ich denke an einen fiktionalen Charakter.",
+              "word_to_guess": "Sherlock Holmes"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex55",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Spinne"
+              ],
+              "initial_hint": "Ich denke an einen fiktionalen Charakter.",
+              "word_to_guess": "Spiderman"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex56",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Mathematik"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Taschenrechner"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex57",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schnupfen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Taschentuch"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex58",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Dichter"
+              ],
+              "initial_hint": "Ich denke an eine berühmte Persönlichkeit.",
+              "word_to_guess": "William Shakespeare"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex59",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Rebe"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Weintrauben"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex6",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Gestein"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Geologe"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex60",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Sommer"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Wassermelone"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex61",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Strauch"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Himbeere"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex63",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Steinfrucht"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Mandel"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex64",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Königin"
+              ],
+              "initial_hint": "Ich denke an ein Tier. ",
+              "word_to_guess": "Ameise"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex65",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Zunge"
+              ],
+              "initial_hint": "Ich denke an ein Tier. ",
+              "word_to_guess": "Chamäleon"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex66",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Ente"
+              ],
+              "initial_hint": "Ich denke an einen fiktionalen Charakter.",
+              "word_to_guess": "Donald Duck"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex67",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schrank"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Kleiderbügel"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex68",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "messen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Maßband"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex69",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Abfall"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Müllbeutel"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex7",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Affe"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Gorilla"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex70",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Muskeln"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Gewichtheben"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex71",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Duell"
+              ],
+              "initial_hint": "Ich denke an eine Sportart.",
+              "word_to_guess": "Fechten"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex72",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "pelzig"
+              ],
+              "initial_hint": "Ich denke an ein Obst.",
+              "word_to_guess": "Pfirsich"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex73",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Teigware"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Nudeln"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex74",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "knacken"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Walnuss"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex8",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Nager"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Hamster"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_4_ex9",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "zupfen"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Harfe"
+            },
+            "tries": 8,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        }
+      ],
+      "level": 4
+    },
+    {
+      "content": [
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex0",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Lurch"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Axolotl"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex1",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Haar, trocknen"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Fön"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex10",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Termiten"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Ameisenbär"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex11",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Sprache"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Logopäde"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex12",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Ente"
+              ],
+              "initial_hint": "Ich denke an ein Tier.",
+              "word_to_guess": "Schnabeltier"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex13",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Forschung"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Wissenschaftler"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex14",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Hass"
+              ],
+              "initial_hint": "Ich denke an ein Gefühl.",
+              "word_to_guess": "Liebe"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex15",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Pech"
+              ],
+              "initial_hint": "Ich denke an ein Gefühl.",
+              "word_to_guess": "Glück"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex2",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Maus"
+              ],
+              "initial_hint": "Ich denke an einen fiktionalen Charakter.",
+              "word_to_guess": "Mickey Mouse"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex3",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "ziehen"
+              ],
+              "initial_hint": "Ich denke an ein Werkzeug.",
+              "word_to_guess": "Schraubenschlüssel"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex4",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Akrobat"
+              ],
+              "initial_hint": "Ich denke an einen Beruf.",
+              "word_to_guess": "Seiltänzer"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex5",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Fußball"
+              ],
+              "initial_hint": "Ich denke an einen Ort, der für Freizeitaktivitäten genutzt werden kann.",
+              "word_to_guess": "Sportstadion"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex6",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "ausrichten"
+              ],
+              "initial_hint": "Ich denke an einen Gegenstand.",
+              "word_to_guess": "Wasserwaage"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex7",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Schlägel"
+              ],
+              "initial_hint": "Ich denke an ein Musikinstrument.",
+              "word_to_guess": "Xylophon"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex8",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "Allergie"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Erdnuss"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        },
+        {
+          "answers": [],
+          "exercise_id": "Benennen_ex_b4_begriffe_raten_lvl_5_ex9",
+          "params": {
+            "prompt_id": "ex_b4",
+            "prompt_params": {
+              "forbidden_words": [
+                "grün"
+              ],
+              "initial_hint": "Ich denke an ein Lebensmittel. ",
+              "word_to_guess": "Pistazie"
+            },
+            "tries": 10,
+            "type": "b4"
+          },
+          "question": "Versuchen Sie den Begriff zu erraten, an den ich denke. Sie können Fragen stellen oder Ihren Tipp einsprechen.",
+          "tasks": []
+        }
+      ],
+      "level": 5
+    }
+  ],
+  "id": "ex_b4_begriffe_raten",
+  "instructions": {
+    "content": [
+      {
+        "text": "In dieser Übung sollen Sie einen gesuchten Begriff erraten. Dafür bekommen Sie einleitend die dazugehörige Oberkategorie genannt. Sie haben die Möglichkeit, Fragen zu stellen, um den Begriff weiter einzugrenzen oder können einen Tipp abgeben."
+      }
+    ],
+    "type": "interactive"
+  },
+  "levels": [
+    {
+      "level": 1,
+      "level_down": {
+        "results": 0,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 3,
+        "rounds": 2
+      },
+      "tasks": 4
+    },
+    {
+      "level": 2,
+      "level_down": {
+        "results": 0,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 3,
+        "rounds": 2
+      },
+      "tasks": 4
+    },
+    {
+      "level": 3,
+      "level_down": {
+        "results": 0,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 3,
+        "rounds": 2
+      },
+      "tasks": 4
+    },
+    {
+      "level": 4,
+      "level_down": {
+        "results": 0,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 3,
+        "rounds": 2
+      },
+      "tasks": 4
+    },
+    {
+      "level": 5,
+      "level_down": {
+        "results": 0,
+        "rounds": 2
+      },
+      "level_up": {
+        "results": 3,
+        "rounds": 2
+      },
+      "tasks": 4
+    }
+  ]
+}

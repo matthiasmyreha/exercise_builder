@@ -1,0 +1,399 @@
+{
+    "code": "y4",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "dynamic",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "always",
+        "time": 50,
+        "lives": 3
+    },
+    "dynamic_levels": {
+        "triggers": [
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 15,
+                "change": {
+                    "level": 1
+                },
+                "level": 1,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": 20,
+                "change": {
+                    "level": 1
+                },
+                "level": 2,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 25,
+                "change": {
+                    "level": 1
+                },
+                "level": 3,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 30,
+                "change": {
+                    "level": 1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 4,
+                "type": "streak"
+            },
+            {
+                "amount": 5,
+                "change": {
+                    "points_x": 2
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": 10,
+                "change": {
+                    "points_x": 3
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -2,
+                "change": {
+                    "level": -1
+                },
+                "level": 5,
+                "type": "streak"
+            },
+            {
+                "amount": -3,
+                "level": 2,
+                "change": {
+                    "level": -1
+                },
+                "type": "streak"
+            }
+        ]
+    },
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung trainieren Sie Ihre Fähigkeit, Informationen schnell zu verarbeiten."
+            },
+            {
+                "text": "Sie sehen nach einander Karten mit Symbolen darauf. Merken Sie sich das Symbol der angezeigten Karte und vergleichen Sie sie mit der zuletzt gesehenen Karte."
+            },
+            {
+                "text": "Ihre Aufgabe ist es, für jede neue Karte anzugeben, ob das gezeigte Symbol das gleiche ist wie auf der Karte davor."
+            },
+            {
+                "text": "Wenn das Symbol der aktuellen Karte gleich ist, wie das auf der Karte davor klicken Sie \"JA\". Falls es anders ist, auf \"Nein\"."
+            },
+            {
+                "text": "Nicht vergessen: Jede Karte soll nur mit der davor verglichen werden. Viel Erfolg!"
+            }
+        ],
+        "type": "interactive"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y4_muster_merken_lvl_1_ex1",
+                    "question": "Ist das Objekt gleich, wie das zuvor?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "number_of_unique_properties": 2,
+                        "patterns": [
+                            "1"
+                        ],
+                        "type": "y4",
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f",
+                            "g"
+                        ],
+                        "unique_optional_properties": [],
+                        "unique_required_properties": [
+                            "shape",
+                            "color"
+                        ]
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y4_muster_merken_lvl_2_ex2",
+                    "question": "Ist das Objekt gleich, wie das zuvor?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "type": "y4",
+                        "number_of_unique_properties": 1,
+                        "patterns": [
+                            "1",
+                            "2"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f",
+                            "g"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "color"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y4_muster_merken_lvl_3_ex3",
+                    "question": "Ist das Objekt gleich, wie das zuvor?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "type": "y4",
+                        "number_of_unique_properties": 1,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "color"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y4_muster_merken_lvl_4_ex4",
+                    "question": "Ist das Objekt gleich, wie das zuvor?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "type": "y4",
+                        "number_of_unique_properties": 1,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "color",
+                            "pattern"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Aufmerksamkeit_ex_y4_muster_merken_lvl_5_ex5",
+                    "question": "Ist das Objekt gleich, wie das zuvor?",
+                    "tasks": [],
+                    "params": {
+                        "colors": [
+                            "#CFCCE0",
+                            "#FAC551",
+                            "#4CB46B",
+                            "#557AFF",
+                            "#ED82CA"
+                        ],
+                        "type": "y4",
+                        "number_of_unique_properties": 2,
+                        "patterns": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "shapes": [
+                            "a",
+                            "b",
+                            "c",
+                            "d",
+                            "e",
+                            "f"
+                        ],
+                        "unique_optional_properties": [
+                            "shape",
+                            "color",
+                            "pattern"
+                        ],
+                        "unique_required_properties": []
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_y4_muster_merken",
+    "checksum": "9aa8757835db984d235feb6116316de8"
+}

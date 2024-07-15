@@ -1,0 +1,476 @@
+{
+    "code": "x2",
+    "configuration": {
+        "answer_format_type": "custom",
+        "answer_type": "single-choice",
+        "exercise_type": "predefined",
+        "task_format_type": "custom",
+        "show_bottom_bar": false,
+        "show_question": true,
+        "should_skip_to_next": "always"
+    },
+    "exercises": [
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Gedächtnis_ex_x2_archaeologie_lvl_1_ex1",
+                    "question": "Tippen Sie nach jedem Erdbeben auf einen neuen Gegenstand!",
+                    "tasks": [],
+                    "params": {
+                        "artifacts": [
+                            "alien.png",
+                            "amfora.png",
+                            "axe.png",
+                            "bomb.png",
+                            "bone.png",
+                            "bottle-2.png",
+                            "bottle-with-map.png",
+                            "clock.png",
+                            "coin.png",
+                            "column.png",
+                            "comb.png",
+                            "crystal-2.png",
+                            "crystal.png",
+                            "diana.png",
+                            "feather.png",
+                            "glass.png",
+                            "harp.png",
+                            "helmet.png",
+                            "horse.png",
+                            "horseshoe.png",
+                            "key.png",
+                            "knife.png",
+                            "laurel-wreath.png",
+                            "pike.png",
+                            "plate.png",
+                            "potion.png",
+                            "ring.png",
+                            "scroll.png",
+                            "shield.png",
+                            "shovel.png",
+                            "skissors.png",
+                            "skull.png",
+                            "spoon.png",
+                            "star.png",
+                            "sword.png",
+                            "ufo.png",
+                            "vase.png"
+                        ],
+                        "colours": [
+                            "artifacts_blue",
+                            "artifacts_green"
+                        ],
+                        "new_artifacts": 3,
+                        "type": "x2"
+                    }
+                }
+            ],
+            "level": 1
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Gedächtnis_ex_x2_archaeologie_lvl_2_ex1",
+                    "question": "Tippen Sie nach jedem Erdbeben auf einen neuen Gegenstand!",
+                    "tasks": [],
+                    "params": {
+                        "artifacts": [
+                            "alien.png",
+                            "amfora.png",
+                            "axe.png",
+                            "bomb.png",
+                            "bone.png",
+                            "bottle-2.png",
+                            "bottle-with-map.png",
+                            "clock.png",
+                            "coin.png",
+                            "column.png",
+                            "comb.png",
+                            "crystal-2.png",
+                            "crystal.png",
+                            "diana.png",
+                            "feather.png",
+                            "glass.png",
+                            "harp.png",
+                            "helmet.png",
+                            "horse.png",
+                            "horseshoe.png",
+                            "key.png",
+                            "knife.png",
+                            "laurel-wreath.png",
+                            "pike.png",
+                            "plate.png",
+                            "potion.png",
+                            "ring.png",
+                            "scroll.png",
+                            "shield.png",
+                            "shovel.png",
+                            "skissors.png",
+                            "skull.png",
+                            "spoon.png",
+                            "star.png",
+                            "sword.png",
+                            "ufo.png",
+                            "vase.png"
+                        ],
+                        "colours": [
+                            "artifacts_blue",
+                            "artifacts_green"
+                        ],
+                        "new_artifacts": 3,
+                        "type": "x2"
+                    }
+                }
+            ],
+            "level": 2
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Gedächtnis_ex_x2_archaeologie_lvl_3_ex1",
+                    "question": "Tippen Sie nach jedem Erdbeben auf einen neuen Gegenstand!",
+                    "tasks": [],
+                    "params": {
+                        "artifacts": [
+                            "alien.png",
+                            "amfora.png",
+                            "axe.png",
+                            "bomb.png",
+                            "bone.png",
+                            "bottle-2.png",
+                            "bottle-with-map.png",
+                            "chest_1.png",
+                            "chest_2.png",
+                            "clock.png",
+                            "coin.png",
+                            "coin_1.png",
+                            "column.png",
+                            "column_1.png",
+                            "comb.png",
+                            "crystal-2.png",
+                            "crystal.png",
+                            "diana.png",
+                            "feather.png",
+                            "glass.png",
+                            "harp.png",
+                            "helmet.png",
+                            "helmet_1.png",
+                            "horse.png",
+                            "horseshoe.png",
+                            "key.png",
+                            "knife.png",
+                            "laurel-wreath.png",
+                            "necklace_1.png",
+                            "necklace_2.png",
+                            "pike.png",
+                            "plate.png",
+                            "plate_1.png",
+                            "plate_2.png",
+                            "potion.png",
+                            "ring.png",
+                            "scroll.png",
+                            "shell_1.png",
+                            "shell_2.png",
+                            "shield.png",
+                            "shovel.png",
+                            "skissors.png",
+                            "skull.png",
+                            "skull_1.png",
+                            "spoon.png",
+                            "star.png",
+                            "sword.png",
+                            "sword_1.png",
+                            "ufo.png",
+                            "vase.png",
+                            "vase_1.png"
+                        ],
+                        "colours": [
+                            "artifacts_blue",
+                            "artifacts_green"
+                        ],
+                        "new_artifacts": 3,
+                        "type": "x2"
+                    }
+                }
+            ],
+            "level": 3
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Gedächtnis_ex_x2_archaeologie_lvl_4_ex1",
+                    "question": "Tippen Sie nach jedem Erdbeben auf einen neuen Gegenstand!",
+                    "tasks": [],
+                    "params": {
+                        "artifacts": [
+                            "alien.png",
+                            "amfora.png",
+                            "axe.png",
+                            "bomb.png",
+                            "bone.png",
+                            "bottle-2.png",
+                            "bottle-with-map.png",
+                            "chest_1.png",
+                            "chest_2.png",
+                            "chest_3.png",
+                            "clock.png",
+                            "coin.png",
+                            "coin_1.png",
+                            "coin_2.png",
+                            "column.png",
+                            "column_1.png",
+                            "column_2.png",
+                            "column_3.png",
+                            "comb.png",
+                            "crystal-2.png",
+                            "crystal.png",
+                            "diana.png",
+                            "feather.png",
+                            "glass.png",
+                            "harp.png",
+                            "helmet.png",
+                            "helmet_1.png",
+                            "helmet_2.png",
+                            "horse.png",
+                            "horseshoe.png",
+                            "key.png",
+                            "knife.png",
+                            "laurel-wreath.png",
+                            "necklace_1.png",
+                            "necklace_2.png",
+                            "necklace_3.png",
+                            "pike.png",
+                            "plate.png",
+                            "plate_1.png",
+                            "plate_2.png",
+                            "potion.png",
+                            "ring.png",
+                            "scroll.png",
+                            "shell_1.png",
+                            "shell_2.png",
+                            "shell_3.png",
+                            "shield.png",
+                            "shovel.png",
+                            "skissors.png",
+                            "skull.png",
+                            "skull_1.png",
+                            "skull_2.png",
+                            "spoon.png",
+                            "star.png",
+                            "sword.png",
+                            "sword_1.png",
+                            "sword_2.png",
+                            "ufo.png",
+                            "vase.png",
+                            "vase_1.png",
+                            "vase_2.png"
+                        ],
+                        "colours": [
+                            "artifacts_blue",
+                            "artifacts_green"
+                        ],
+                        "new_artifacts": 3,
+                        "type": "x2"
+                    }
+                }
+            ],
+            "level": 4
+        },
+        {
+            "content": [
+                {
+                    "answers": [],
+                    "exercise_id": "Gedächtnis_ex_x2_archaeologie_lvl_5_ex1",
+                    "question": "Tippen Sie nach jedem Erdbeben auf einen neuen Gegenstand!",
+                    "tasks": [],
+                    "params": {
+                        "artifacts": [
+                            "alien.png",
+                            "amfora.png",
+                            "axe.png",
+                            "bomb.png",
+                            "bone.png",
+                            "bottle-2.png",
+                            "bottle-with-map.png",
+                            "chest_1.png",
+                            "chest_2.png",
+                            "chest_3.png",
+                            "chest_4.png",
+                            "chest_5.png",
+                            "clock.png",
+                            "coin.png",
+                            "coin_1.png",
+                            "coin_2.png",
+                            "coin_3.png",
+                            "coin_4.png",
+                            "coin_5.png",
+                            "column.png",
+                            "column_1.png",
+                            "column_2.png",
+                            "column_3.png",
+                            "column_4.png",
+                            "column_5.png",
+                            "comb.png",
+                            "crystal-2.png",
+                            "crystal.png",
+                            "diana.png",
+                            "feather.png",
+                            "glass.png",
+                            "harp.png",
+                            "helmet.png",
+                            "helmet_1.png",
+                            "helmet_2.png",
+                            "helmet_3.png",
+                            "helmet_4.png",
+                            "helmet_5.png",
+                            "horse.png",
+                            "horseshoe.png",
+                            "key.png",
+                            "knife.png",
+                            "laurel-wreath.png",
+                            "necklace_1.png",
+                            "necklace_2.png",
+                            "necklace_3.png",
+                            "necklace_4.png",
+                            "necklace_5.png",
+                            "pike.png",
+                            "plate.png",
+                            "plate_1.png",
+                            "plate_2.png",
+                            "plate_3.png",
+                            "plate_4.png",
+                            "plate_5.png",
+                            "potion.png",
+                            "ring.png",
+                            "scroll.png",
+                            "shell_1.png",
+                            "shell_2.png",
+                            "shell_3.png",
+                            "shell_4.png",
+                            "shell_5.png",
+                            "shield.png",
+                            "shovel.png",
+                            "skissors.png",
+                            "skull.png",
+                            "skull_1.png",
+                            "skull_2.png",
+                            "skull_3.png",
+                            "skull_4.png",
+                            "skull_5.png",
+                            "spoon.png",
+                            "star.png",
+                            "sword.png",
+                            "sword_1.png",
+                            "sword_2.png",
+                            "sword_3.png",
+                            "sword_4.png",
+                            "sword_5.png",
+                            "ufo.png",
+                            "vase.png",
+                            "vase_1.png",
+                            "vase_2.png",
+                            "vase_3.png",
+                            "vase_4.png",
+                            "vase_5.png"
+                        ],
+                        "colours": [
+                            "artifacts_blue",
+                            "artifacts_green"
+                        ],
+                        "new_artifacts": 3,
+                        "type": "x2"
+                    }
+                }
+            ],
+            "level": 5
+        }
+    ],
+    "id": "ex_x2_archaeologie",
+    "instructions": {
+        "content": [
+            {
+                "text": "In dieser Übung sind Sie ein Archäologe, der auf der Suche nach neuen Gegenständen in einer Ausgrabung ist. Sie trainieren dabei Ihr Gedächtnis."
+            },
+            {
+                "text": "Sie sollen dabei in jeder Runde neue Gegenstände anklicken und bereits bekannte Objekte auslassen."
+            },
+            {
+                "text": "Tippen Sie auf einen Gegenstand, den Sie zuvor noch nicht ausgewählt haben und merken Sie ihn sich."
+            },
+            {
+                "text": "Vermeiden Sie bereits ausgewählte Gegenstände erneut auszuwählen."
+            },
+            {
+                "text": "Das Spiel läuft weiter, solange Sie neue Gegenstände finden. Tippen Sie auf ein bereits bekanntes Objekt, endet das Spiel. Los gehts, Abenteurer!"
+            }
+        ],
+        "type": "interactive"
+    },
+    "levels": [
+        {
+            "level": 1,
+            "level_down": {
+                "results": 2,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 5,
+                "rounds": 1
+            },
+            "tasks": 10
+        },
+        {
+            "level": 2,
+            "level_down": {
+                "results": 5,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 7,
+                "rounds": 1
+            },
+            "tasks": 15
+        },
+        {
+            "level": 3,
+            "level_down": {
+                "results": 10,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 12,
+                "rounds": 1
+            },
+            "tasks": 20
+        },
+        {
+            "level": 4,
+            "level_down": {
+                "results": 15,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 16,
+                "rounds": 1
+            },
+            "tasks": 30
+        },
+        {
+            "level": 5,
+            "level_down": {
+                "results": 18,
+                "rounds": 2
+            },
+            "level_up": {
+                "results": 87,
+                "rounds": 1
+            },
+            "tasks": 87
+        }
+    ],
+    "checksum": "f3f4f531989c7415c5ba1a7447f69e61"
+}
