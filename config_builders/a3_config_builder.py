@@ -1,7 +1,7 @@
 from model import (
-    ExerciseBuilderConfig,
     ExerciseLevelConfig,
     ExerciseLevelConfigFilter,
+    ExerciseTemplate,
     Item,
 )
 
@@ -9,8 +9,8 @@ from .config_builder import ConfigBuilder
 
 
 class A3ConfigBuilder(ConfigBuilder):
-    def __init__(self, config: ExerciseBuilderConfig):
-        super().__init__(config)
+    def __init__(self, template: ExerciseTemplate, config: list[ExerciseLevelConfig]):
+        super().__init__(template, config)
 
     def filter_items(
         self, items: list[Item], filter: ExerciseLevelConfigFilter
@@ -23,12 +23,12 @@ class A3ConfigBuilder(ConfigBuilder):
     def item_to_exercise_content(
         self,
         item: Item,
-        level_config: ExerciseLevelConfig,
+        config: ExerciseLevelConfig,
         level: int,
     ):
         return {
             "answers": [{"answer": item.name, "label": 1}],
-            "exercise_id": f"{self.config.id}_lvl_{level}_{item.name}",
-            "question": level_config.question,
+            "exercise_id": f"{self.template.id}_lvl_{level}_{item.name}",
+            "question": config.question,
             "tasks": [item.name],
         }

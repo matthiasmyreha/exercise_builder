@@ -57,10 +57,10 @@ class Configuration(BaseModel):
     should_skip_to_next: Literal["on_correct", "if_correct", "never", "always"]
 
 
-class ExerciseBuilderConfig(BaseModel):
+class ExerciseTemplate(BaseModel):
     code: str
     configuration: Configuration
     instructions: Instructions
-    exercises: List[ExerciseLevelConfig]
     levels: List[Level]
     id: str
+    exercises: List

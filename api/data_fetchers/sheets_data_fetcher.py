@@ -1,18 +1,18 @@
 import json
 import os
 import os.path
+import re
 from typing import Dict, List
 
 from dotenv import load_dotenv
-from google.auth.transport.requests import Request
 from google.oauth2 import service_account
-from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-from model import Category, DataFetcher, Item, Phoneme
+from model import Category, Item, Phoneme
 from utils.security import generate_random
+
+from .data_fetcher import DataFetcher
 
 load_dotenv()
 
@@ -22,7 +22,7 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 class SheetsDataFetcher(DataFetcher):
     def fetchExerciseLevelConfiguration(self) -> List[Dict]:
         SPREADSHEET_ID = "1IVPvrwoGAfWusfaktxobMw1W_3Spj9q-PjFPQjzGurs"
-        RANGE_NAME = "exercise_level_filters!A1:L10000"
+        RANGE_NAME = "exercise_level_filters!A1:M10000"
         service = get_sheets_service()
         if not service:
             return []
@@ -123,6 +123,8 @@ def value_if_exists(item, key):
 
 
 def nest_dict(flat_dict):
+    list_pattern = re.compile(r"^\[(.*)\]$")
+
     result = {}
     for key, value in flat_dict.items():
         parts = key.split(".")
@@ -136,10 +138,19 @@ def nest_dict(flat_dict):
         elif value is None:
             d[parts[-1]] = None
         else:
-            try:
-                d[parts[-1]] = int(value)
-            except ValueError:
-                d[parts[-1]] = value
+            list_match = list_pattern.match(value)
+            if list_match:
+                list_content = list_match.group(1)
+                if list_content:
+                    list_value = list_content.split(",")
+                    d[parts[-1]] = [v.strip() for v in list_value]
+                else:
+                    d[parts[-1]] = []
+            else:
+                try:
+                    d[parts[-1]] = int(value)
+                except ValueError:
+                    d[parts[-1]] = value
     return result
 
 

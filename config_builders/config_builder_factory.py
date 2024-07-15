@@ -1,4 +1,4 @@
-from model import ExerciseBuilderConfig
+from model import ExerciseLevelConfig, ExerciseTemplate
 
 from .a3_config_builder import A3ConfigBuilder
 from .c2_config_builder import C2ConfigBuilder
@@ -11,12 +11,12 @@ class ConfigBuilderFactory:
     }
 
     @staticmethod
-    def get_builder(config: ExerciseBuilderConfig):
-        code = config.code
-
+    def get_builder(
+        code: str, template: ExerciseTemplate, config: list[ExerciseLevelConfig]
+    ):
         builder_class = ConfigBuilderFactory._builders.get(code)
 
         if not builder_class:
             raise ValueError(f"No ConfigBuilder found for code: {code}")
 
-        return builder_class(config)
+        return builder_class(template, config)

@@ -1,21 +1,23 @@
 from abc import ABC
 
 from model import (
-    ExerciseBuilderConfig,
+    ExerciseLevelConfig,
     ExerciseLevelConfigFilter,
+    ExerciseTemplate,
     Item,
 )
 
 
 class ConfigBuilder(ABC):
-    def __init__(self, config: ExerciseBuilderConfig):
+    def __init__(self, template: ExerciseTemplate, config: list[ExerciseLevelConfig]):
         self.config = config
+        self.template = template
 
     def filter_items(self, items: list[Item], filter_config: ExerciseLevelConfigFilter):
         filtered_items = items
         if "image" in {
-            self.config.configuration.answer_format_type,
-            self.config.configuration.task_format_type,
+            self.template.configuration.answer_format_type,
+            self.template.configuration.task_format_type,
         }:
             filtered_items = list(filter(lambda x: x.has_image, filtered_items))
 
@@ -57,10 +59,12 @@ class ConfigBuilder(ABC):
         return filtered_items
 
     def build(self, items: list[Item]):
-        print(f"A3 Configuration Built with id {self.config.id} and {len(items)} items")
+        print(
+            f"A3 Configuration Built with id {self.template.id} and {len(items)} items"
+        )
         config = self.config
         exercises = []
-        for index, level_config in enumerate(config.exercises):
+        for index, level_config in enumerate(config):
             level = index + 1
             filtered_items_for_level = self.filter_items(items, level_config.filter)
             content_for_level = []
@@ -72,7 +76,7 @@ class ConfigBuilder(ABC):
             exercises_for_level = {"content": content_for_level, "level": level}
             exercises.append(exercises_for_level)
 
-        result = self.config
+        result = self.template
         result.exercises = exercises
         return result
 

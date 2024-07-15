@@ -4,3 +4,7 @@ serviceAccount.json
 serviceAccount2.json
 token.json
 .env
+
+.vscode/
+
+data/out/

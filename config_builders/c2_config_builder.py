@@ -1,9 +1,9 @@
 import random
 
 from model import (
-    ExerciseBuilderConfig,
     ExerciseLevelConfig,
     ExerciseLevelConfigFilter,
+    ExerciseTemplate,
     Item,
 )
 
@@ -11,8 +11,8 @@ from .config_builder import ConfigBuilder
 
 
 class C2ConfigBuilder(ConfigBuilder):
-    def __init__(self, config: ExerciseBuilderConfig):
-        super().__init__(config)
+    def __init__(self, template: ExerciseTemplate, config: list[ExerciseLevelConfig]):
+        super().__init__(template, config)
 
     def filter_items(
         self, items: list[Item], filter_config: ExerciseLevelConfigFilter
@@ -81,7 +81,7 @@ class C2ConfigBuilder(ConfigBuilder):
 
         return {
             "answers": answers,
-            "exercise_id": f"{self.config.id}_lvl_{level}_{item.name}",
+            "exercise_id": f"{self.template.id}_lvl_{level}_{item.name}",
             "question": level_config.question,
             "tasks": [blanked_word],
         }

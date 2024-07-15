@@ -1,64 +1,42 @@
-import os
-import tempfile
-from datetime import datetime
-
-from git import GitCommandError, Repo
 from pydantic import ValidationError
 
-from api.data_fetchers.sheets_data_fetcher import SheetsDataFetcher
+from api.data_fetchers.data_fetcher import DataFetcher
+from api.writers.writer import Writer
 from config_builders import ConfigBuilderFactory
-from model import ExerciseBuilderConfig
-from utils.files import read_json_files, write_file
-
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_URL = f"https://{GITHUB_TOKEN}@github.com/matthiasmyreha/exercise_configs"
+from model import ExerciseLevelConfig, ExerciseTemplate
+from utils.files import read_json_file
 
 
-def generate_branch_name():
-    current_time = datetime.now().strftime("%Y%m%d-%H%M")
-    return f"ec_{current_time}"
-
-
-def build_exercises():
-    sheets_fetcher = SheetsDataFetcher()
-    phonemes = sheets_fetcher.fetchPhonemes()
-    categories = sheets_fetcher.fetchCategories()
-    items = sheets_fetcher.fetchItems()
-    config = sheets_fetcher.fetchExerciseLevelConfiguration()
+def build_exercises(fetcher: DataFetcher, writer: Writer):
+    phonemes = fetcher.fetchPhonemes()
+    categories = fetcher.fetchCategories()
+    items = fetcher.fetchItems()
+    configs = fetcher.fetchExerciseLevelConfiguration()
 
     config_directory = "data/in/exercise_builder_configs"
-    json_configs = read_json_files(config_directory)
-    with tempfile.TemporaryDirectory() as tmpdirname:
+    config_results = {}
+    for code, json_config in configs.items():
         try:
-            repo = Repo.clone_from(REPO_URL, tmpdirname)
-            branch_name = generate_branch_name()
-            new_branch = repo.create_head(branch_name)
-            new_branch.checkout()
-
-            written_configs = []
-            for json_config in json_configs:
-                try:
-                    config = ExerciseBuilderConfig(**json_config)
-                    print(f"Validation successful for {config.code}")
-                    try:
-                        builder = ConfigBuilderFactory.get_builder(config)
-                        result = builder.build(items)
-                        filename = f"{config.code}.json"
-                        write_file(
-                            result.model_dump_json(),
-                            f"{tmpdirname}/{filename}",
-                        )
-                        repo.index.add([filename])
-                        written_configs.append(config.code)
-                        print(f"Config for code {config.code} writte")
-                    except ValueError as e:
-                        print(e)
-                except ValidationError as e:
-                    print(f"Validation error: {e}")
-
-            repo.index.commit("Exercise configs written")
-            origin = repo.remote(name="origin")
-            origin.push(refspec=f"{branch_name}:{branch_name}")
-
-        except GitCommandError as e:
-            print(f"Git operation failed: {e}")
+            exercise_template_json = read_json_file(f"{config_directory}/{code}.json")
+            exercise_template = ExerciseTemplate(**exercise_template_json)
+            exercise_config = [
+                ExerciseLevelConfig(**level_config) for level_config in json_config
+            ]
+            try:
+                builder = ConfigBuilderFactory.get_builder(
+                    code, exercise_template, exercise_config
+                )
+                print(f"Validation successful for {code}")
+                print(code, exercise_template)
+                result = builder.build(items)
+                config_results[code] = result.model_dump_json()
+                print(f"Config for code {code} written")
+            except ValueError as e:
+                print(e)
+        except FileNotFoundError as e:
+            print(f"File not found: {e}")
+        except ValidationError as e:
+            print(f"Validation error: {e}")
+    print("RES", config_results.keys())
+    if len(config_results) > 0:
+        writer.writeExerciseConfigs(config_results)
