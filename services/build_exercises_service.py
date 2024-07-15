@@ -56,7 +56,7 @@ def build_exercises():
                 except ValidationError as e:
                     print(f"Validation error: {e}")
 
-            repo.index.commit(f"Exercise configs {"".join(written_configs)} written")
+            repo.index.commit("Exercise configs written")
             origin = repo.remote(name="origin")
             origin.push(refspec=f"{branch_name}:{branch_name}")
 
