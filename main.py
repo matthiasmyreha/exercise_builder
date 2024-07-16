@@ -15,4 +15,6 @@ async def get_build_exercises():
     if result["status"] == "success":
         return {"status": "success", "message": "Exercises built successfully"}
     elif result["status"] == "error":
-        raise HTTPException(status_code=500, detail=result.message)
+        raise HTTPException(
+            status_code=500, detail={"status": "error", "message": result.message}
+        )
