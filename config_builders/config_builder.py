@@ -1,4 +1,5 @@
 from abc import ABC
+from typing import List
 
 from model import (
     ExerciseLevelConfig,
@@ -6,6 +7,7 @@ from model import (
     ExerciseTemplate,
     Item,
 )
+from model.exercise_builder_config import Exercise, ExerciseConfig
 
 
 class ConfigBuilder(ABC):
@@ -58,7 +60,7 @@ class ConfigBuilder(ABC):
 
         return filtered_items
 
-    def build(self, items: list[Item]):
+    def build(self, items: list[Item]) -> ExerciseConfig:
         print(
             f"A3 Configuration Built with id {self.template.id} and {len(items)} items"
         )
@@ -73,12 +75,17 @@ class ConfigBuilder(ABC):
                     self.item_to_exercise_content(item, level_config, level)
                 )
             print(f"Level {index + 1} with {len(filtered_items_for_level)} items")
-            exercises_for_level = {"content": content_for_level, "level": level}
+            exercises_for_level = Exercise(content=content_for_level, level=level)
             exercises.append(exercises_for_level)
 
-        result = self.template
-        result.exercises = exercises
-        return result
+        return ExerciseConfig(
+            code=self.template.code,
+            configuration=self.template.configuration,
+            instructions=self.template.instructions,
+            levels=self.template.levels,
+            id=self.template.id,
+            exercises=exercises,
+        )
 
     def create_content_for_level(self) -> list[dict]:
         raise NotImplementedError("Subclasses should implement this method")

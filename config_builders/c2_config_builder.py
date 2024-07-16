@@ -6,6 +6,7 @@ from model import (
     ExerciseTemplate,
     Item,
 )
+from model.exercise_builder_config import Content
 
 from .config_builder import ConfigBuilder
 
@@ -33,7 +34,7 @@ class C2ConfigBuilder(ConfigBuilder):
         item: Item,
         level_config: ExerciseLevelConfig,
         level: int,
-    ):
+    ) -> Content:
         if (
             level_config.configuration.gaps is None
             or level_config.configuration.distractors is None
@@ -79,9 +80,9 @@ class C2ConfigBuilder(ConfigBuilder):
             for i in range(len(blanked_letters))
         ]
 
-        return {
-            "answers": answers,
-            "exercise_id": f"{self.template.id}_lvl_{level}_{item.name}",
-            "question": level_config.question,
-            "tasks": [blanked_word],
-        }
+        return Content(
+            answers=answers,
+            exercise_id=f"{self.template.id}_lvl_{level}_{item.name}",
+            question=level_config.question,
+            tasks=[blanked_word],
+        )

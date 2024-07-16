@@ -15,6 +15,7 @@ def build_exercises(fetcher: DataFetcher, writer: Writer):
 
     config_directory = "data/in/exercise_builder_configs"
     config_results = {}
+    errors = []
     for code, json_config in configs.items():
         try:
             exercise_template_json = read_json_file(f"{config_directory}/{code}.json")
@@ -33,10 +34,19 @@ def build_exercises(fetcher: DataFetcher, writer: Writer):
                 print(f"Config for code {code} written")
             except ValueError as e:
                 print(e)
+                errors.append(f"Error in building config for {code}: {e}")
         except FileNotFoundError as e:
             print(f"File not found: {e}")
+            errors.append(f"File not found for code {code}: {e}")
         except ValidationError as e:
             print(f"Validation error: {e}")
-    print("RES", config_results.keys())
+            errors.append(f"Validation error for code {code}: {e}")
+
     if len(config_results) > 0:
         writer.writeExerciseConfigs(config_results)
+
+    return (
+        {"status": "success", "message": "Exercises built successfully"}
+        if len(errors) == 0
+        else {"status": "error", "message": "\n".join(errors)}
+    )

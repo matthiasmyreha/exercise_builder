@@ -6,8 +6,10 @@ from services.build_exercises_service import build_exercises
 
 def main():
     sheets_fetcher = SheetsDataFetcher()
-    github_writer = LocalDiskWriter()
-    return build_exercises(sheets_fetcher, github_writer)
+    local_disk_writer = LocalDiskWriter()
+    result = build_exercises(sheets_fetcher, local_disk_writer)
+    print(result)
+    return
 
 
 if __name__ == "__main__":

@@ -57,10 +57,49 @@ class Configuration(BaseModel):
     should_skip_to_next: Literal["on_correct", "if_correct", "never", "always"]
 
 
+class Answer(BaseModel):
+    answer: str
+    label: int
+
+
+class Alternatives(BaseModel):
+    answers: List[str] = []
+    tasks: List[str] = []
+
+
+class Params(BaseModel):
+    alternatives: Optional[Alternatives] = None
+    prompt_id: Optional[str] = None
+    prompt_params: Optional[dict] = None
+    tries: Optional[int] = None
+    type: Optional[str] = None
+
+
+class Content(BaseModel):
+    answers: List[Answer]
+    exercise_id: str
+    params: Optional[Params] = None
+    question: str
+    tasks: List[str]
+
+
+class Exercise(BaseModel):
+    content: List[Content]
+    level: int
+
+
+class ExerciseConfig(BaseModel):
+    code: str
+    configuration: Configuration
+    instructions: Instructions
+    levels: List[Level]
+    id: str
+    exercises: List[Exercise]
+
+
 class ExerciseTemplate(BaseModel):
     code: str
     configuration: Configuration
     instructions: Instructions
     levels: List[Level]
     id: str
-    exercises: List

@@ -4,6 +4,7 @@ from model import (
     ExerciseTemplate,
     Item,
 )
+from model.exercise_builder_config import Content
 
 from .config_builder import ConfigBuilder
 
@@ -25,10 +26,10 @@ class A3ConfigBuilder(ConfigBuilder):
         item: Item,
         config: ExerciseLevelConfig,
         level: int,
-    ):
-        return {
-            "answers": [{"answer": item.name, "label": 1}],
-            "exercise_id": f"{self.template.id}_lvl_{level}_{item.name}",
-            "question": config.question,
-            "tasks": [item.name],
-        }
+    ) -> Content:
+        return Content(
+            answers=[{"answer": item.name, "label": 1}],
+            exercise_id=f"{self.template.id}_lvl_{level}_{item.name}",
+            question=config.question,
+            tasks=[item.name],
+        )
