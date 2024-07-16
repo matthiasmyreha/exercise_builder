@@ -39,7 +39,9 @@ class C2ConfigBuilder(ConfigBuilder):
             level_config.configuration.gaps is None
             or level_config.configuration.distractors is None
         ):
-            raise ("Level configuration for C2 must have gaps and distractors")
+            raise ValueError(
+                "Level configuration for C2 must have gaps and distractors"
+            )
 
         def replace_compounds(word: str):
             return word.replace("SCH", "$").replace("SP", "#").replace("CH", "§")
