@@ -12,7 +12,7 @@ async def get_build_exercises():
     sheets_fetcher = SheetsDataFetcher()
     github_writer = GithubWriter()
     result = build_exercises(sheets_fetcher, github_writer)
-    if result.status == "success":
+    if result["status"] == "success":
         return {"status": "success", "message": "Exercises built successfully"}
-    elif result.status == "error":
+    elif result["status"] == "error":
         raise HTTPException(status_code=500, detail=result.message)
